@@ -4,7 +4,7 @@
 
 **Agent 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-112%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-114%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 112-repo Agent map, grouped by function and owned/starred source
+out 114-repo Agent map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-26-review-03` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -72,7 +72,7 @@ Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](
 | [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. | Starred | `c4abb8afc4a3` |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | Starred | `08db8be068c2` |
 
-### Skills, Plugins & Marketplaces (38)
+### Skills, Plugins & Marketplaces (40)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -114,6 +114,8 @@ Snapshot: `github-universe-2026-08-26-review-02` · canonical source: [Park OS](
 | [Yeadon8888/cangjie-skill](https://github.com/Yeadon8888/cangjie-skill) | 仓颉 · 认知植入式思维蒸馏引擎 — 不是让AI说得像他，是让AI想得像他。基于女娲架构升级。 | Starred | `c489ba54a420` |
 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault | Starred | `54b4290b6a1d` |
 | [zinan92/agent-core](https://github.com/zinan92/agent-core) | AI agent 操作系统内核 — architecture-first starter package，提供 onboarding、skills、SOPs、runtime specs、curated knowledge 五大原语 | Owned + Starred | owned source |
+| [zinan92/proactive-explorer](https://github.com/zinan92/proactive-explorer) | Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach, Time-to-Value, Trust & Proof, Growth | Owned | owned source |
+| [zinan92/repo-evals](https://github.com/zinan92/repo-evals) | Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard | Owned + Starred | owned source |
 
 ### Memory, Context & Knowledge (2)
 
