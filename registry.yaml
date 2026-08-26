@@ -2,6 +2,6 @@ universe: agent
 registry_repo: true
 registry_role: public_scoped
 canonical_registry_repo: zinan92/park-operating-system
-canonical_snapshot: github-universe-2026-08-26
-generated_from_checksum: 76ea409b99523b3b5a289cfa07290a8e73d9c13cb9b311ff652395858d379ad1
-export_checksum: 513c56ee5104124f6e9f808e1d5b51a0f995fd9a1000e6a25bf3dccf2cd71cc0
+canonical_snapshot: github-universe-2026-08-26-review-01
+generated_from_checksum: 0aade4a0fd73c7283739914f8e1ae0629ba7417296106fb1dcbb346964f24a55
+export_checksum: f8c4154223291d1cdc9a73b16d40a21d73b169b70566c7bd0d4118f05254cccc
