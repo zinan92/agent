@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-content-review-01
+snapshot_id: github-universe-2026-08-27-product-park-review-01
 entries:
 - universe: agent
   repo: zinan92/agent-browser
@@ -24,7 +24,7 @@ entries:
     archived: false
     description: Browser automation CLI for AI agents
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-19T00:59:42Z'
 - universe: agent
   repo: zinan92/agent-core
@@ -53,7 +53,7 @@ entries:
     description: AI agent 操作系统内核 — architecture-first starter package，提供 onboarding、skills、SOPs、runtime specs、curated knowledge
       五大原语
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-15T11:11:05Z'
 - universe: agent
   repo: zinan92/bb-browser
@@ -79,7 +79,7 @@ entries:
     archived: false
     description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-18T08:22:58Z'
 - universe: agent
   repo: zinan92/claw-code
@@ -107,7 +107,7 @@ entries:
       Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting
       in Rust.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-04-01T02:14:23Z'
 - universe: agent
   repo: zinan92/doc-driven-dev-workflow
@@ -136,7 +136,7 @@ entries:
     description: 5-phase / 22-stage 的 AI-native 文档驱动开发 workflow，内置 task scaffolding、workflow guards、state/event writer scripts
       与 local-first observer dashboard。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-27T10:51:11Z'
 - universe: agent
   repo: zinan92/loop
@@ -163,7 +163,7 @@ entries:
     description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
       local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-22T08:22:49Z'
 - universe: agent
   repo: zinan92/opencli
@@ -191,7 +191,7 @@ entries:
     description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web
       data extraction.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-18T23:16:57Z'
 - universe: agent
   repo: zinan92/proactive-explorer
@@ -218,7 +218,7 @@ entries:
     description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
       Time-to-Value, Trust & Proof, Growth'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-03-19T06:43:22Z'
 - universe: agent
   repo: zinan92/repo-evals
@@ -243,7 +243,7 @@ entries:
     archived: false
     description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
     license_spdx: MIT
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-07-09T15:41:46Z'
 - universe: agent
   repo: zinan92/wechat-miniprogram-shipping
@@ -268,5 +268,5 @@ entries:
     archived: false
     description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-content-review-01
+    checked_at: 2026-08-27-product-park-review-01
     pushed_at: '2026-08-25T03:33:54Z'
