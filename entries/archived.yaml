@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-taxonomy-01
+snapshot_id: github-universe-2026-08-27-star-refresh-01
 entries:
 - universe: agent
   repo: 21st-dev/1code
@@ -25,12 +25,12 @@ entries:
     archived: true
     description: Orchestration layer for coding agents (Claude Code, Codex)
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-taxonomy-01
+    checked_at: 2026-08-27-star-refresh-01
     pushed_at: '2026-03-06T21:10:12Z'
   content_lock:
     locked_ref: 9f1bc76fa4372c18c565b5a4f8daf38ae3595f0e
     locked_url: https://github.com/21st-dev/1code/commit/9f1bc76fa4372c18c565b5a4f8daf38ae3595f0e
-    locked_at: 2026-08-27-taxonomy-01
+    locked_at: 2026-08-27-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -64,11 +64,11 @@ entries:
     description: ' JSON-driven multi-agent  cadence-team development framework with   intelligent CLI orchestration (Gemini/Qwen/Codex),   context-first
       architecture, and automated workflow   execution'
     license_spdx: MIT
-    checked_at: 2026-08-27-taxonomy-01
+    checked_at: 2026-08-27-star-refresh-01
     pushed_at: '2026-06-18T07:03:47Z'
   content_lock:
     locked_ref: 07491b04ac30c9a2d887f443661288b1b7520832
     locked_url: https://github.com/catlog22/Claude-Code-Workflow/commit/07491b04ac30c9a2d887f443661288b1b7520832
-    locked_at: 2026-08-27-taxonomy-01
+    locked_at: 2026-08-27-star-refresh-01
     update_policy: monthly_pr
     vendored: false
