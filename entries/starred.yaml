@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-08-27-product-park-review-01
+snapshot_id: github-universe-2026-08-27-agent-park-review-01
 entries:
 - universe: agent
   repo: AAAAAAAJ/WaytoAGI-CLI
@@ -23,12 +23,12 @@ entries:
     archived: false
     description: WaytoAGI-CLI
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-07-12T06:41:35Z'
   content_lock:
     locked_ref: e145d1af49ec8c03ac329c6718932e207d4664cb
     locked_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI/commit/e145d1af49ec8c03ac329c6718932e207d4664cb
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -38,7 +38,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: observability
   tags:
   - rust
   source_url: https://github.com/BloopAI/vibe-kanban
@@ -54,12 +54,12 @@ entries:
     archived: false
     description: Get 10X more out of Claude Code, Codex or any coding agent
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-04-24T09:17:34Z'
   content_lock:
     locked_ref: 4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
     locked_url: https://github.com/BloopAI/vibe-kanban/commit/4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -85,12 +85,12 @@ entries:
     archived: false
     description: ''
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-03-31T08:30:55Z'
   content_lock:
     locked_ref: a8a678cb6244e6770e1e421767ff0987a1d95549
     locked_url: https://github.com/ChinaSiro/claude-code-sourcemap/commit/a8a678cb6244e6770e1e421767ff0987a1d95549
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -117,12 +117,12 @@ entries:
     archived: false
     description: Chrome DevTools for coding agents
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T14:26:02Z'
   content_lock:
     locked_ref: 45f187b1e3202c9f32ddba913be5d68751c3caa3
     locked_url: https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/45f187b1e3202c9f32ddba913be5d68751c3caa3
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -132,7 +132,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: observability
   tags:
   - product
   - skill
@@ -151,46 +151,12 @@ entries:
     description: 'Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude
       AI skill.    '
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-05-13T23:04:17Z'
   content_lock:
     locked_ref: 4b9087d55268c79a935105439dbcd37b630fc3f3
     locked_url: https://github.com/Cocoon-AI/architecture-diagram-generator/commit/4b9087d55268c79a935105439dbcd37b630fc3f3
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: ComposioHQ/awesome-claude-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - collection
-  - python
-  - skill
-  - workflow
-  source_url: https://github.com/ComposioHQ/awesome-claude-skills
-  visibility: public
-  archived: false
-  description: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-10T21:45:44Z'
-  content_lock:
-    locked_ref: be2a406907dbc61b73e6827ded415c96139d13a2
-    locked_url: https://github.com/ComposioHQ/awesome-claude-skills/commit/be2a406907dbc61b73e6827ded415c96139d13a2
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -219,12 +185,12 @@ entries:
     archived: false
     description: 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
     license_spdx: BSD-3-Clause
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T18:39:16Z'
   content_lock:
     locked_ref: 458e2a2ac909b3235747ebcdb312b93a1080a10a
     locked_url: https://github.com/D4Vinci/Scrapling/commit/458e2a2ac909b3235747ebcdb312b93a1080a10a
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -254,12 +220,12 @@ entries:
     description: Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent
       councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can drive.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:03:36Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T03:42:28Z'
   content_lock:
     locked_ref: ed2ed594303da573c6efc45e4ce92c65ed8f843b
     locked_url: https://github.com/Enderfga/claw-orchestrator/commit/ed2ed594303da573c6efc45e4ce92c65ed8f843b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -269,7 +235,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: knowledge
+  primary_category: runtime-and-harness
   tags:
   - memory
   - product
@@ -290,78 +256,12 @@ entries:
     description: 'One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving
       across apps, tools, and workflows.'
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T07:17:34Z'
   content_lock:
     locked_ref: 786406129582ba18ac65a71086b0417e830de29d
     locked_url: https://github.com/EverMind-AI/EverOS/commit/786406129582ba18ac65a71086b0417e830de29d
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: FANzR-arch/Numerologist_skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - library
-  - python
-  - skill
-  source_url: https://github.com/FANzR-arch/Numerologist_skills
-  visibility: public
-  archived: false
-  description: 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数
-    AI skills。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数
-      AI skills。
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-03T05:05:19Z'
-  content_lock:
-    locked_ref: ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
-    locked_url: https://github.com/FANzR-arch/Numerologist_skills/commit/ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: GitHubDaily/GitHubDaily
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags: []
-  source_url: https://github.com/GitHubDaily/GitHubDaily
-  visibility: public
-  archived: false
-  description: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-  status: EXPLORING
-  review_status: needs_review
-  review_reason: 'new-star-review: GitHub project and developer-tool knowledge collection; provisional Agent knowledge-references
-    placement.'
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2025-12-31T18:59:20Z'
-  content_lock:
-    locked_ref: 5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_url: https://github.com/GitHubDaily/GitHubDaily/commit/5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -387,81 +287,12 @@ entries:
     archived: false
     description: '"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/'
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-21T07:26:58Z'
   content_lock:
     locked_ref: 810c18b0d1ab9b234bc996c9fd999318523a3ef0
     locked_url: https://github.com/HKUDS/CLI-Anything/commit/810c18b0d1ab9b234bc996c9fd999318523a3ef0
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: HughYau/qiushi-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/HughYau/qiushi-skill
-  visibility: public
-  archived: false
-  description: 'Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice,
-    and keep pushing until the work is actually done. 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice,
-      and keep pushing until the work is actually done. 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。'
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-07-20T19:04:56Z'
-  content_lock:
-    locked_ref: 671079144dd2b7a6ce41982604d986a1781d4afc
-    locked_url: https://github.com/HughYau/qiushi-skill/commit/671079144dd2b7a6ce41982604d986a1781d4afc
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: KKKKhazix/khazix-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - research
-  - skill
-  source_url: https://github.com/KKKKhazix/khazix-skills
-  visibility: public
-  archived: false
-  description: '数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more —
-    Claude Code, Codex & 40+ agents'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: '数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more
-      — Claude Code, Codex & 40+ agents'
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-16T08:49:13Z'
-  content_lock:
-    locked_ref: 7a5c4934be4106ac740ffdb95280bb81b3f4b83c
-    locked_url: https://github.com/KKKKhazix/khazix-skills/commit/7a5c4934be4106ac740ffdb95280bb81b3f4b83c
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -488,12 +319,12 @@ entries:
     archived: false
     description: '鲁班 | Luban — 把''能用的Skill''打磨成''能被装、能传播、能验证、能进化''的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉'
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-07-10T16:39:25Z'
   content_lock:
     locked_ref: cea2da3310273d77f92ca884d82beda554f9a6cb
     locked_url: https://github.com/LearnPrompt/luban-skill/commit/cea2da3310273d77f92ca884d82beda554f9a6cb
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -520,12 +351,12 @@ entries:
     archived: false
     description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-24T15:23:56Z'
   content_lock:
     locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
     locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -553,12 +384,12 @@ entries:
     archived: false
     description: Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T20:23:54Z'
   content_lock:
     locked_ref: 511e5f13cd9bce71e0ec75626bcd936efdd07c9f
     locked_url: https://github.com/Martian-Engineering/lossless-claw/commit/511e5f13cd9bce71e0ec75626bcd936efdd07c9f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -568,7 +399,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: observability
   tags:
   - javascript
   - skill
@@ -585,12 +416,12 @@ entries:
     archived: false
     description: 用于梳理任务然后交付给 AI 工具的 plugin 插件
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-17T04:05:34Z'
   content_lock:
     locked_ref: a12d848812abdde9f320b42d477e217bd65c02c9
     locked_url: https://github.com/Niall-Young/Canvasight/commit/a12d848812abdde9f320b42d477e217bd65c02c9
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -600,7 +431,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: eyes-and-hands
   tags:
   - python
   - skill
@@ -617,12 +448,12 @@ entries:
     archived: false
     description: Allow your 🦞 bot to Shout, Speak, with "human" vibe
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-05-07T08:41:50Z'
   content_lock:
     locked_ref: 2a0e09d8cb9056e044c473dd53a136b81ba428e9
     locked_url: https://github.com/NoizAI/skills/commit/2a0e09d8cb9056e044c473dd53a136b81ba428e9
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -649,12 +480,12 @@ entries:
     archived: false
     description: The agent that grows with you
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:30:14Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:41:03Z'
   content_lock:
     locked_ref: a7b8281a16ef751e663adebd57f0abc2eb1ae670
     locked_url: https://github.com/NousResearch/hermes-agent/commit/a7b8281a16ef751e663adebd57f0abc2eb1ae670
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -683,12 +514,12 @@ entries:
     description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,
       XiaoHongShu — one CLI, zero API fees.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T05:36:18Z'
   content_lock:
     locked_ref: 06c202b03400a7d31886bf4399213706da1a0324
     locked_url: https://github.com/Panniantong/Agent-Reach/commit/06c202b03400a7d31886bf4399213706da1a0324
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -718,44 +549,12 @@ entries:
     description: Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design
       → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2025-09-07T14:14:52Z'
   content_lock:
     locked_ref: f3de74d8055120658ac199bfca865a3e1de9fd99
     locked_url: https://github.com/Pimzino/claude-code-spec-workflow/commit/f3de74d8055120658ac199bfca865a3e1de9fd99
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: Shubham0812/SwiftUI-Animations
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags: []
-  source_url: https://github.com/Shubham0812/SwiftUI-Animations
-  visibility: public
-  archived: false
-  description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
-    in your own projects.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: A repository containing a variety of animations and Animated components created in SwiftUI that you can use
-      in your own projects.
-    license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-11T15:20:15Z'
-  content_lock:
-    locked_ref: 030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_url: https://github.com/Shubham0812/SwiftUI-Animations/commit/030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -784,12 +583,12 @@ entries:
     description: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development
       methodologies.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-21T04:13:47Z'
   content_lock:
     locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
     locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -817,12 +616,12 @@ entries:
     description: Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that
       plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:45:03Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:37:20Z'
   content_lock:
     locked_ref: c4abb8afc4a305fbd20c6d3955a2c7808d78e7d4
     locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/c4abb8afc4a305fbd20c6d3955a2c7808d78e7d4
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -849,44 +648,12 @@ entries:
     archived: false
     description: Teams-first Multi-agent orchestration for Claude Code
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:36:07Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:10:27Z'
   content_lock:
     locked_ref: 08db8be068c2d5e12c061958952715555dc6d1b0
     locked_url: https://github.com/Yeachan-Heo/oh-my-claudecode/commit/08db8be068c2d5e12c061958952715555dc6d1b0
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: Yeadon8888/cangjie-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/Yeadon8888/cangjie-skill
-  visibility: public
-  archived: false
-  description: 仓颉 · 认知植入式思维蒸馏引擎 — 不是让AI说得像他，是让AI想得像他。基于女娲架构升级。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 仓颉 · 认知植入式思维蒸馏引擎 — 不是让AI说得像他，是让AI想得像他。基于女娲架构升级。
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-04-12T10:14:12Z'
-  content_lock:
-    locked_ref: c489ba54a420631ac4291966dae3ad5374db4a47
-    locked_url: https://github.com/Yeadon8888/cangjie-skill/commit/c489ba54a420631ac4291966dae3ad5374db4a47
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -913,12 +680,12 @@ entries:
     archived: false
     description: An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T01:39:56Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T03:21:43Z'
   content_lock:
     locked_ref: 54b4290b6a1d23d185a7fb869fc1841823ddcc88
     locked_url: https://github.com/YishenTu/claudian/commit/54b4290b6a1d23d185a7fb869fc1841823ddcc88
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -950,44 +717,12 @@ entries:
     description: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first
       development for Claude Code, Codex, Opencode, Cursor and beyond.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T21:27:27Z'
   content_lock:
     locked_ref: d8409a4b0813771235555e32e3d8046a73988bfa
     locked_url: https://github.com/affaan-m/ECC/commit/d8409a4b0813771235555e32e3d8046a73988bfa
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: agenmod/immortal-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/agenmod/immortal-skill
-  visibility: public
-  archived: false
-  description: ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-04-15T03:21:58Z'
-  content_lock:
-    locked_ref: cdab91b37982d0d3ca78eb2da6727a8f75d8bca8
-    locked_url: https://github.com/agenmod/immortal-skill/commit/cdab91b37982d0d3ca78eb2da6727a8f75d8bca8
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -997,7 +732,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: runtime-and-harness
   tags:
   - memory
   - product
@@ -1018,12 +753,12 @@ entries:
     description: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you
       think and work, have a conversation and get a complete second brain as markdown files you own.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-02-24T23:54:21Z'
   content_lock:
     locked_ref: 2acfd5cc4473c4d06c46be63df748e77e00e2746
     locked_url: https://github.com/agenticnotetaking/arscontexta/commit/2acfd5cc4473c4d06c46be63df748e77e00e2746
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1052,12 +787,12 @@ entries:
     description: 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude
       Code. Evaluate, improve, test, keep or revert.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T03:01:10Z'
   content_lock:
     locked_ref: 5539516444cff4eed7865daf61a707590acda485
     locked_url: https://github.com/alchaincyf/darwin-skill/commit/5539516444cff4eed7865daf61a707590acda485
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1084,44 +819,12 @@ entries:
     archived: false
     description: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-23T14:21:45Z'
   content_lock:
     locked_ref: 9ac06e1d05373c3b8b6d49751e8a59c1475f9867
     locked_url: https://github.com/alchaincyf/hermes-agent-orange-book/commit/9ac06e1d05373c3b8b6d49751e8a59c1475f9867
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: alchaincyf/nuwa-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/alchaincyf/nuwa-skill
-  visibility: public
-  archived: false
-  description: 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-25T03:02:26Z'
-  content_lock:
-    locked_ref: fe0374687037c4cc51a65c1e0c145afe2981dc69
-    locked_url: https://github.com/alchaincyf/nuwa-skill/commit/fe0374687037c4cc51a65c1e0c145afe2981dc69
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1149,12 +852,12 @@ entries:
     archived: false
     description: Turn any browser into your terminal & command your agents on the go.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-05T19:25:41Z'
   content_lock:
     locked_ref: f78324f5a6f5617711581cf5b119651094b2d9bc
     locked_url: https://github.com/amantus-ai/vibetunnel/commit/f78324f5a6f5617711581cf5b119651094b2d9bc
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1180,50 +883,12 @@ entries:
     archived: false
     description: The open source coding agent.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:46:39Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:23:17Z'
   content_lock:
     locked_ref: fd9bd448a2e68990e7aed3495e5590cecb934bfb
     locked_url: https://github.com/anomalyco/opencode/commit/fd9bd448a2e68990e7aed3495e5590cecb934bfb
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: anthropics/claude-code
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - dashboard
-  - python
-  - video
-  - workflow
-  source_url: https://github.com/anthropics/claude-code
-  visibility: public
-  archived: false
-  description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you
-    code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language
-    commands.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you
-      code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language
-      commands.
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T23:06:39Z'
-  content_lock:
-    locked_ref: 005c5dade90c2c59c88d819d8723e7b579addb5e
-    locked_url: https://github.com/anthropics/claude-code/commit/005c5dade90c2c59c88d819d8723e7b579addb5e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1249,12 +914,12 @@ entries:
     archived: false
     description: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-19T20:42:54Z'
   content_lock:
     locked_ref: 35f2eec7e44897c537e44441b7dff2f0ecbfb804
     locked_url: https://github.com/anthropics/claude-cookbooks/commit/35f2eec7e44897c537e44441b7dff2f0ecbfb804
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1281,12 +946,12 @@ entries:
     archived: false
     description: Public repository for Agent Skills
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-21T17:10:55Z'
   content_lock:
     locked_ref: 3b3fad96af16a10759d930941b4520ba0c40edae
     locked_url: https://github.com/anthropics/skills/commit/3b3fad96af16a10759d930941b4520ba0c40edae
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1313,12 +978,12 @@ entries:
     archived: false
     description: A curated list of awesome things related to shadcn/ui.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-24T03:57:40Z'
   content_lock:
     locked_ref: 7417bbeae2d214b0991fa49b4a42d2844fa0c54b
     locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/7417bbeae2d214b0991fa49b4a42d2844fa0c54b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1345,12 +1010,12 @@ entries:
     archived: false
     description: Premium hand-drawn animated architecture diagram Codex skill
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-06-26T15:12:14Z'
   content_lock:
     locked_ref: 1818562e9fa84f36b632c745a8931cee64acf947
     locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/1818562e9fa84f36b632c745a8931cee64acf947
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1381,43 +1046,12 @@ entries:
     description: 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard,
       model config, and full audit trails
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-03T11:24:42Z'
   content_lock:
     locked_ref: 14a207557719c046af0f993a7bff1cc5a5015b33
     locked_url: https://github.com/cft0808/edict/commit/14a207557719c046af0f993a7bff1cc5a5015b33
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: chenglou/pretext
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - typescript
-  source_url: https://github.com/chenglou/pretext
-  visibility: public
-  archived: false
-  description: Fast, accurate & comprehensive text measurement & layout
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Fast, accurate & comprehensive text measurement & layout
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-06-23T05:01:09Z'
-  content_lock:
-    locked_ref: ac49b09b7d83ede19581fa94a8b892b07d309baf
-    locked_url: https://github.com/chenglou/pretext/commit/ac49b09b7d83ede19581fa94a8b892b07d309baf
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1427,7 +1061,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: workflow
   tags: []
   source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
   visibility: public
@@ -1442,12 +1076,12 @@ entries:
     archived: false
     description: wechat-miniprogram-builder
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-01T15:58:29Z'
   content_lock:
     locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
     locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1457,7 +1091,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: observability
   tags:
   - javascript
   source_url: https://github.com/chuspeeism/dashi-taskboard
@@ -1473,12 +1107,12 @@ entries:
     archived: false
     description: ''
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T11:52:49Z'
   content_lock:
     locked_ref: f0f4cabced1b15e47c852438a9a599d245a38063
     locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/f0f4cabced1b15e47c852438a9a599d245a38063
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1508,12 +1142,12 @@ entries:
     description: The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion
       inside Codex.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-09T08:51:31Z'
   content_lock:
     locked_ref: 10f95587d3aeacf208cc1fee88a91315962d31e8
     locked_url: https://github.com/code-yeongyu/lazycodex/commit/10f95587d3aeacf208cc1fee88a91315962d31e8
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1541,12 +1175,12 @@ entries:
     description: 'omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For
       your Codex, for your OpenCode'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:41:20Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:35:16Z'
   content_lock:
     locked_ref: 8c57e463e62ddc8d2c7b4a6770dcd2927e91ef29
     locked_url: https://github.com/code-yeongyu/oh-my-openagent/commit/8c57e463e62ddc8d2c7b4a6770dcd2927e91ef29
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1575,12 +1209,12 @@ entries:
     description: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and
       deployment like never before. Coze your way to AI Agent creation.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-07-29T03:18:43Z'
   content_lock:
     locked_ref: fefb05ff27be1da939612fbf9faf5db62583b8ae
     locked_url: https://github.com/coze-dev/coze-studio/commit/fefb05ff27be1da939612fbf9faf5db62583b8ae
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1608,43 +1242,12 @@ entries:
     archived: false
     description: n8n skillset for Claude Code to build flawless n8n workflows
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-20T11:03:25Z'
   content_lock:
     locked_ref: 02965226846ad6aca0fdead94765db3cad1fca95
     locked_url: https://github.com/czlonkowski/n8n-skills/commit/02965226846ad6aca0fdead94765db3cad1fca95
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: davila7/claude-code-templates
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - python
-  source_url: https://github.com/davila7/claude-code-templates
-  visibility: public
-  archived: false
-  description: CLI tool for configuring and monitoring Claude Code
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: CLI tool for configuring and monitoring Claude Code
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T14:09:53Z'
-  content_lock:
-    locked_ref: 3a2f8c031527c923f1d431bec0980c71ae20557b
-    locked_url: https://github.com/davila7/claude-code-templates/commit/3a2f8c031527c923f1d431bec0980c71ae20557b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1671,44 +1274,12 @@ entries:
     archived: false
     description: 'DeepSeek Harness: Everything is a Plugin.'
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-21T12:35:08Z'
   content_lock:
     locked_ref: b150a551b8d465e31e418e1b2eaf5e79bbb7d28e
     locked_url: https://github.com/deepseek-ai/deepseek-harness/commit/b150a551b8d465e31e418e1b2eaf5e79bbb7d28e
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: dontbesilent2025/dbskill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/dontbesilent2025/dbskill
-  visibility: public
-  archived: false
-  description: dontbesilent 的商业诊断 Skills
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: dontbesilent 的商业诊断 Skills
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T05:44:00Z'
-  content_lock:
-    locked_ref: 0393f4b178bd4ab2e66af9a629fcc7d97189320d
-    locked_url: https://github.com/dontbesilent2025/dbskill/commit/0393f4b178bd4ab2e66af9a629fcc7d97189320d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1734,12 +1305,12 @@ entries:
     archived: false
     description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:05:39Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:27:05Z'
   content_lock:
     locked_ref: c3f5b497d59ca46ffcffa3f4a8d7cd095e330798
     locked_url: https://github.com/esengine/DeepSeek-Reasonix/commit/c3f5b497d59ca46ffcffa3f4a8d7cd095e330798
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1766,12 +1337,12 @@ entries:
     archived: false
     description: 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-19T01:36:35Z'
   content_lock:
     locked_ref: 33eef84a55b1919396a80e7a55650a07bb83f590
     locked_url: https://github.com/eze-is/web-access/commit/33eef84a55b1919396a80e7a55650a07bb83f590
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1800,12 +1371,12 @@ entries:
     description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes
       Agent. Only official website: ccswitch.io'
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-27T00:41:57Z'
   content_lock:
     locked_ref: c911c7e3c6aaebeae221fa6480b15b12b88d7fcc
     locked_url: https://github.com/farion1231/cc-switch/commit/c911c7e3c6aaebeae221fa6480b15b12b88d7fcc
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1831,12 +1402,12 @@ entries:
     archived: false
     description: Autonomous AI development loop for Claude Code with intelligent exit detection
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-07-18T02:33:21Z'
   content_lock:
     locked_ref: e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
     locked_url: https://github.com/frankbria/ralph-claude-code/commit/e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1846,7 +1417,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: knowledge
   tags:
   - typescript
   source_url: https://github.com/freestylefly/CodexGuide
@@ -1862,12 +1433,12 @@ entries:
     archived: false
     description: CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-20T06:38:19Z'
   content_lock:
     locked_ref: 0c5d803f086a3cfe6dff8b79ca4c9df195cd2ba7
     locked_url: https://github.com/freestylefly/CodexGuide/commit/0c5d803f086a3cfe6dff8b79ca4c9df195cd2ba7
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1895,12 +1466,12 @@ entries:
     archived: false
     description: Watch a Claude Code session as a live flow graph, in your terminal or your browser.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T15:26:12Z'
   content_lock:
     locked_ref: 077707da679955c0402c39ca992bf56cdc6b0264
     locked_url: https://github.com/furkankly/zoetrope/commit/077707da679955c0402c39ca992bf56cdc6b0264
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -1929,76 +1500,12 @@ entries:
     description: 'Use Garry Tan''s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager,
       Release Manager, Doc Engineer, and QA'
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T17:56:45Z'
   content_lock:
     locked_ref: ad8400543cd9ce8d07641362db48d44a95417e33
     locked_url: https://github.com/garrytan/gstack/commit/ad8400543cd9ce8d07641362db48d44a95417e33
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: gnipbao/dao-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/gnipbao/dao-skill
-  visibility: public
-  archived: false
-  description: 道生万物：从混沌需求生成可运行、可验证、可进化的 Agent Skill
-  status: EXPLORING
-  review_status: needs_review
-  review_reason: 'new-star-review: generates runnable, verifiable, evolvable Agent Skills from ambiguous requirements.'
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 道生万物：从混沌需求生成可运行、可验证、可进化的 Agent Skill
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-07-28T03:30:55Z'
-  content_lock:
-    locked_ref: 1cae835995c0ff4d9a33a6fec82cca0a54b7cd05
-    locked_url: https://github.com/gnipbao/dao-skill/commit/1cae835995c0ff4d9a33a6fec82cca0a54b7cd05
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: google-gemini/gemini-cli
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - dashboard
-  - typescript
-  source_url: https://github.com/google-gemini/gemini-cli
-  visibility: public
-  archived: false
-  description: An open-source AI agent that brings the power of Gemini directly into your terminal.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: An open-source AI agent that brings the power of Gemini directly into your terminal.
-    license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:31:17Z'
-  content_lock:
-    locked_ref: 64b5b79a6dd89ea96e65cb761c23aae6c0b33ce4
-    locked_url: https://github.com/google-gemini/gemini-cli/commit/64b5b79a6dd89ea96e65cb761c23aae6c0b33ce4
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2027,12 +1534,12 @@ entries:
     description: A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you
       like it!
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-06-26T00:06:05Z'
   content_lock:
     locked_ref: 732b994120bbe34c0ce5711b074207cbd8b97d52
     locked_url: https://github.com/grp06/openclaw-studio/commit/732b994120bbe34c0ce5711b074207cbd8b97d52
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2058,12 +1565,12 @@ entries:
     archived: false
     description: claude code source map v2.1.88
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-03-31T08:39:37Z'
   content_lock:
     locked_ref: d239e3f2c574b527f9f8691375525029edb3752d
     locked_url: https://github.com/hangsman/claude-code-source/commit/d239e3f2c574b527f9f8691375525029edb3752d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2089,12 +1596,12 @@ entries:
     archived: false
     description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:37:30Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T04:20:00Z'
   content_lock:
     locked_ref: e8175d4e9ffec578837906ac4af92e9b607acd36
     locked_url: https://github.com/huangruiteng/loopx/commit/e8175d4e9ffec578837906ac4af92e9b607acd36
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2124,12 +1631,12 @@ entries:
     description: Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms
       from one place.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-05-02T14:01:06Z'
   content_lock:
     locked_ref: 467d0423beaf71a31c520d4e3795ec88acae5ab2
     locked_url: https://github.com/iamzhihuix/skills-manage/commit/467d0423beaf71a31c520d4e3795ec88acae5ab2
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2156,79 +1663,12 @@ entries:
     archived: false
     description: 'Make Any Website into CLI & Use your logged-in browser by AI agent. '
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T09:23:22Z'
   content_lock:
     locked_ref: 6b3dffd398b907c0a1437c8ad017068819fb401f
     locked_url: https://github.com/jackwener/OpenCLI/commit/6b3dffd398b907c0a1437c8ad017068819fb401f
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: jinchenma94/bazi-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/jinchenma94/bazi-skill
-  visibility: public
-  archived: false
-  description: 四柱八字命理分析
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 四柱八字命理分析
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-17T17:53:04Z'
-  content_lock:
-    locked_ref: 112a5d84cd1a001a0038cafca3be68d93e4c0cc9
-    locked_url: https://github.com/jinchenma94/bazi-skill/commit/112a5d84cd1a001a0038cafca3be68d93e4c0cc9
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: kangarooking/cangjie-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  - video
-  source_url: https://github.com/kangarooking/cangjie-skill
-  visibility: public
-  archived: false
-  description: 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and
-    more into executable Agent Skills）
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and
-      more into executable Agent Skills）
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T05:20:34Z'
-  content_lock:
-    locked_ref: f751bf9ff9f833cff702fe48d31ebd9d407d4b05
-    locked_url: https://github.com/kangarooking/cangjie-skill/commit/f751bf9ff9f833cff702fe48d31ebd9d407d4b05
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2255,12 +1695,12 @@ entries:
     archived: false
     description: AI agents running research on single-GPU nanochat training automatically
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-03-26T00:07:37Z'
   content_lock:
     locked_ref: 228791fb499afffb54b46200aca536f79142f117
     locked_url: https://github.com/karpathy/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2287,12 +1727,12 @@ entries:
     description: 'Local-first session search, analytics, insights, and token use statistics for coding agents, supporting
       Claude Code, Codex, and more than 20 other agents. '
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:27:08Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T04:26:00Z'
   content_lock:
     locked_ref: 31738009de94567dc1d32772d88068323d8f4609
     locked_url: https://github.com/kenn-io/agentsview/commit/31738009de94567dc1d32772d88068323d8f4609
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2323,12 +1763,12 @@ entries:
       core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+
       commands and 20+ AI Agent Skills.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T13:37:01Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:39:20Z'
   content_lock:
     locked_ref: 0f9553385c48234ab7e16ab4c9b08c745f1c59d4
     locked_url: https://github.com/larksuite/cli/commit/0f9553385c48234ab7e16ab4c9b08c745f1c59d4
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2338,7 +1778,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: knowledge
   tags:
   - collection
   - skill
@@ -2355,12 +1795,12 @@ entries:
     archived: false
     description: 'Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit'
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-05T15:41:35Z'
   content_lock:
     locked_ref: 89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e
     locked_url: https://github.com/libukai/awesome-agent-skills/commit/89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2391,12 +1831,12 @@ entries:
     description: Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…)
       with Codex CLI, App, SDK, and Claude Code
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:11:47Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:31:13Z'
   content_lock:
     locked_ref: ec51e42d745d2645bcb22cb67855fa053ba1778e
     locked_url: https://github.com/lidge-jun/opencodex/commit/ec51e42d745d2645bcb22cb67855fa053ba1778e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2424,43 +1864,12 @@ entries:
     archived: false
     description: 'Lightpanda: the headless browser designed for AI and automation'
     license_spdx: AGPL-3.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:45:59Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T03:35:01Z'
   content_lock:
     locked_ref: 0590bd0f80671a482570e7d6d1e9b995766b0a2f
     locked_url: https://github.com/lightpanda-io/browser/commit/0590bd0f80671a482570e7d6d1e9b995766b0a2f
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: limin112/min-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - skill
-  source_url: https://github.com/limin112/min-skill
-  visibility: public
-  archived: false
-  description: ''
-  status: EXPLORING
-  review_status: needs_review
-  review_reason: Generic skill repository; description is insufficient [low-confidence].
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: ''
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-07-26T15:30:37Z'
-  content_lock:
-    locked_ref: c6295535b8c6efc54882ac51e68c86cd20f6c011
-    locked_url: https://github.com/limin112/min-skill/commit/c6295535b8c6efc54882ac51e68c86cd20f6c011
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2486,12 +1895,12 @@ entries:
     archived: false
     description: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T01:52:56Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:41:07Z'
   content_lock:
     locked_ref: 173df24fb666a3209785e4e33c403380514ee5d1
     locked_url: https://github.com/makecindy/cindy/commit/173df24fb666a3209785e4e33c403380514ee5d1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2501,7 +1910,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: workflow
   tags:
   - shell
   - skill
@@ -2518,12 +1927,12 @@ entries:
     archived: false
     description: Skills for Real Engineers. Straight from my .agents directory.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-24T14:20:17Z'
   content_lock:
     locked_ref: 6654f6b60cd9d5be8b54c6fafe44346dabeb3b76
     locked_url: https://github.com/mattpocock/skills/commit/6654f6b60cd9d5be8b54c6fafe44346dabeb3b76
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2550,12 +1959,12 @@ entries:
     archived: false
     description: A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-04-25T17:26:31Z'
   content_lock:
     locked_ref: 5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
     locked_url: https://github.com/mixedbread-ai/mgrep/commit/5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2583,12 +1992,12 @@ entries:
     description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors
       to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T14:57:12Z'
   content_lock:
     locked_ref: ebe9c99acb5c96f9468de368d8bead775387d1a7
     locked_url: https://github.com/msitarzewski/agency-agents/commit/ebe9c99acb5c96f9468de368d8bead775387d1a7
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2613,12 +2022,12 @@ entries:
     archived: false
     description: Make humans and AI agents work as one team — open-source and self-hostable.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T13:21:51Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:40:51Z'
   content_lock:
     locked_ref: 8fda4f22d5429e8ece1fc56fdc7ef10cf4fd49d2
     locked_url: https://github.com/multica-ai/multica/commit/8fda4f22d5429e8ece1fc56fdc7ef10cf4fd49d2
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2648,12 +2057,12 @@ entries:
     description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
       self-host or cloud, 400+ integrations.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T22:41:10Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:16:58Z'
   content_lock:
     locked_ref: 48c42fa4b8caba99f415b06ca2a3d2090fa46636
     locked_url: https://github.com/n8n-io/n8n/commit/48c42fa4b8caba99f415b06ca2a3d2090fa46636
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2682,12 +2091,12 @@ entries:
     archived: false
     description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T06:57:16Z'
   content_lock:
     locked_ref: e353a508767c6d39f0e7698b084dbfc8699fffd3
     locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/e353a508767c6d39f0e7698b084dbfc8699fffd3
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2697,7 +2106,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: skills-and-plugins
   tags:
   - api
   - skill
@@ -2718,12 +2127,12 @@ entries:
       · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat /
       X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-23T08:53:57Z'
   content_lock:
     locked_ref: c31204544230578ac814026fecc153c6e36587ae
     locked_url: https://github.com/nexu-io/html-anything/commit/c31204544230578ac814026fecc153c6e36587ae
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2733,7 +2142,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: skills-and-plugins
   tags:
   - dashboard
   - image
@@ -2757,12 +2166,12 @@ entries:
       app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video —
       real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.'
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:40:14Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:43:00Z'
   content_lock:
     locked_ref: f888d72d5f1a6e486bf0448ef171b4e452b1e58f
     locked_url: https://github.com/nexu-io/open-design/commit/f888d72d5f1a6e486bf0448ef171b4e452b1e58f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2790,12 +2199,12 @@ entries:
     description: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables,
       and project recaps
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-20T05:41:12Z'
   content_lock:
     locked_ref: df35d97a00191d8aba831e757a65dd6ce0514fc0
     locked_url: https://github.com/nicobailon/visual-explainer/commit/df35d97a00191d8aba831e757a65dd6ce0514fc0
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2821,44 +2230,12 @@ entries:
     archived: false
     description: Automated TDD enforcement for Claude Code
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-16T11:57:48Z'
   content_lock:
     locked_ref: ccd71b49b11b5bd350d87d3f4c9a9b6b1e1f3dbd
     locked_url: https://github.com/nizos/tdd-guard/commit/ccd71b49b11b5bd350d87d3f4c9a9b6b1e1f3dbd
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: notdog1998/yourself-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/notdog1998/yourself-skill
-  visibility: public
-  archived: false
-  description: 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-04-01T16:38:03Z'
-  content_lock:
-    locked_ref: 9deb1a87b1231fec85cadf2ef690fa49fef519ca
-    locked_url: https://github.com/notdog1998/yourself-skill/commit/9deb1a87b1231fec85cadf2ef690fa49fef519ca
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2886,12 +2263,12 @@ entries:
     archived: false
     description: An agentic skills framework & software development methodology that works.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-19T17:33:23Z'
   content_lock:
     locked_ref: b36e0829c6d0140e93cfef2ca599b1b07d4a7797
     locked_url: https://github.com/obra/superpowers/commit/b36e0829c6d0140e93cfef2ca599b1b07d4a7797
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2917,44 +2294,12 @@ entries:
     archived: false
     description: Git. Ship. Done - Core
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:43:17Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:16:32Z'
   content_lock:
     locked_ref: 3b18eff3887967adcdfc49411b0642acc9ccf925
     locked_url: https://github.com/open-gsd/gsd-core/commit/3b18eff3887967adcdfc49411b0642acc9ccf925
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: openai/codex
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - dashboard
-  - rust
-  source_url: https://github.com/openai/codex
-  visibility: public
-  archived: false
-  description: Lightweight coding agent that runs in your terminal
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Lightweight coding agent that runs in your terminal
-    license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:25:25Z'
-  content_lock:
-    locked_ref: 3e4707b34b16e139fcb7ad11ab8445993b62bba1
-    locked_url: https://github.com/openai/codex/commit/3e4707b34b16e139fcb7ad11ab8445993b62bba1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -2982,12 +2327,12 @@ entries:
     archived: false
     description: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-04-14T15:29:57Z'
   content_lock:
     locked_ref: 8eac7a7de5215c907fbddc30efdaf316913eccdd
     locked_url: https://github.com/openai/evals/commit/8eac7a7de5215c907fbddc30efdaf316913eccdd
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3014,12 +2359,12 @@ entries:
     description: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work
       instead of supervising coding agents.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-19T23:24:27Z'
   content_lock:
     locked_ref: 8001b52e3062495a16e520e4ceaf8f9de868c4d0
     locked_url: https://github.com/openai/symphony/commit/8001b52e3062495a16e520e4ceaf8f9de868c4d0
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3029,7 +2374,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: runtime-and-harness
+  primary_category: observability
   tags:
   - typescript
   source_url: https://github.com/openchamber/openchamber
@@ -3045,12 +2390,12 @@ entries:
     archived: false
     description: Desktop and web interface for OpenCode AI agent
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-27T01:58:31Z'
   content_lock:
     locked_ref: 74290852efefa901125fa6d6ca13564793030a62
     locked_url: https://github.com/openchamber/openchamber/commit/74290852efefa901125fa6d6ca13564793030a62
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3077,12 +2422,12 @@ entries:
     archived: false
     description: 'Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 '
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:50:17Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:44:31Z'
   content_lock:
     locked_ref: 3b64e84f6ea21828b72970cef6256caf956d9425
     locked_url: https://github.com/openclaw/openclaw/commit/3b64e84f6ea21828b72970cef6256caf956d9425
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3110,12 +2455,12 @@ entries:
     archived: false
     description: The open-source app everyone uses to manage agents at work
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:44:57Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:39:54Z'
   content_lock:
     locked_ref: 821573ede850441d5043ecd4860ee70a2a0374b1
     locked_url: https://github.com/paperclipai/paperclip/commit/821573ede850441d5043ecd4860ee70a2a0374b1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3142,12 +2487,12 @@ entries:
     archived: false
     description: The design language that makes your AI harness better at design.
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T06:04:37Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:43:23Z'
   content_lock:
     locked_ref: fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
     locked_url: https://github.com/pbakaus/impeccable/commit/fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3157,7 +2502,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: workflow
   tags:
   - image
   - research
@@ -3178,12 +2523,12 @@ entries:
     description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
       launch, and growth.'
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-07-03T11:34:49Z'
   content_lock:
     locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
     locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3208,12 +2553,12 @@ entries:
     archived: false
     description: feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-20T14:03:18Z'
   content_lock:
     locked_ref: 0e92eec364b11b8bd53db3ec838eb14f598c517e
     locked_url: https://github.com/riba2534/feishu-cli/commit/0e92eec364b11b8bd53db3ec838eb14f598c517e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3241,12 +2586,12 @@ entries:
     description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API
       service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T21:31:42Z'
   content_lock:
     locked_ref: 1f53b2eb03b9e963bac647e5566ca2b304239116
     locked_url: https://github.com/router-for-me/CLIProxyAPI/commit/1f53b2eb03b9e963bac647e5566ca2b304239116
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3273,12 +2618,12 @@ entries:
     description: A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have
       to.
     license_spdx: AGPL-3.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-26T15:50:09Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:29:25Z'
   content_lock:
     locked_ref: 7ab6a240fb10e7f3c62132ba918a98f50e9b8e03
     locked_url: https://github.com/rullerzhou-afk/clawd-on-desk/commit/7ab6a240fb10e7f3c62132ba918a98f50e9b8e03
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3312,12 +2657,12 @@ entries:
       and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native
       Claude Code / Codex / Hermes and many more Integrated
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T06:56:09Z'
   content_lock:
     locked_ref: e21aa352fdc80fd2d3cc4e83404a76a18d118b96
     locked_url: https://github.com/ruvnet/ruflo/commit/e21aa352fdc80fd2d3cc4e83404a76a18d118b96
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3343,76 +2688,12 @@ entries:
     archived: false
     description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T16:38:22Z'
   content_lock:
     locked_ref: 04486201fc6541285513ccfab45d59a7871e042d
     locked_url: https://github.com/shareAI-lab/learn-claude-code/commit/04486201fc6541285513ccfab45d59a7871e042d
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: thirdlayerinc/autoagent
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - python
-  source_url: https://github.com/thirdlayerinc/autoagent
-  visibility: public
-  archived: false
-  description: autonomous harness engineering
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: autonomous harness engineering
-    license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-04-03T21:11:51Z'
-  content_lock:
-    locked_ref: eb3f185dc9faac276955b4fe5feb93c8f836b644
-    locked_url: https://github.com/thirdlayerinc/autoagent/commit/eb3f185dc9faac276955b4fe5feb93c8f836b644
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: ultraworkers/claw-code
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - rust
-  source_url: https://github.com/ultraworkers/claw-code
-  visibility: public
-  archived: false
-  description: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with
-    no human intervention.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with
-      no human intervention.
-    license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-16T06:18:45Z'
-  content_lock:
-    locked_ref: 08106b0c3771ef5b4a5aa176acccd460e88b7325
-    locked_url: https://github.com/ultraworkers/claw-code/commit/08106b0c3771ef5b4a5aa176acccd460e88b7325
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3440,12 +2721,12 @@ entries:
     archived: false
     description: Vercel's official collection of agent skills
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T14:55:01Z'
   content_lock:
     locked_ref: dd089a8c752c966dee8bf0f27cb625ba193ffd9e
     locked_url: https://github.com/vercel-labs/agent-skills/commit/dd089a8c752c966dee8bf0f27cb625ba193ffd9e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3472,12 +2753,12 @@ entries:
     archived: false
     description: The Generative UI framework
     license_spdx: Apache-2.0
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-19T22:20:41Z'
   content_lock:
     locked_ref: a4d033cf041e7b323ee10f196ef8a3ff2fc1f85f
     locked_url: https://github.com/vercel-labs/json-render/commit/a4d033cf041e7b323ee10f196ef8a3ff2fc1f85f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3487,7 +2768,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: knowledge
+  primary_category: runtime-and-harness
   tags:
   - memory
   - python
@@ -3505,12 +2786,12 @@ entries:
     archived: false
     description: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
     license_spdx: AGPL-3.0
-    checked_at: 2026-08-27-product-park-review-01
-    pushed_at: '2026-08-27T02:48:54Z'
+    checked_at: 2026-08-27-agent-park-review-01
+    pushed_at: '2026-08-27T05:36:42Z'
   content_lock:
     locked_ref: 24185a08488c2e29427be4ca33e698e11b557f39
     locked_url: https://github.com/volcengine/OpenViking/commit/24185a08488c2e29427be4ca33e698e11b557f39
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3540,12 +2821,12 @@ entries:
     description: Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google
       Antigravity
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-26T12:14:16Z'
   content_lock:
     locked_ref: d82998e7df393c671ede2387a8435075f0b633f5
     locked_url: https://github.com/wshobson/agents/commit/d82998e7df393c671ede2387a8435075f0b633f5
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3555,7 +2836,7 @@ entries:
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: observability
   tags:
   - product
   - python
@@ -3575,12 +2856,12 @@ entries:
     description: Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and
       AI/Agent workflow patterns.
     license_spdx: MIT
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-08-25T22:56:41Z'
   content_lock:
     locked_ref: e9c7a9351dee5861707a7ec5560248bf5e7b84b5
     locked_url: https://github.com/yizhiyanhua-ai/fireworks-tech-graph/commit/e9c7a9351dee5861707a7ec5560248bf5e7b84b5
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - universe: agent
@@ -3606,11 +2887,11 @@ entries:
     archived: false
     description: 🐾 ClawPanel — OpenClaw AI 助手可视化管理面板。Go 单二进制部署，支持 20+ 通道统一管理，跨平台，实时日志监控。
     license_spdx: NOASSERTION
-    checked_at: 2026-08-27-product-park-review-01
+    checked_at: 2026-08-27-agent-park-review-01
     pushed_at: '2026-06-08T07:17:39Z'
   content_lock:
     locked_ref: 28cfcb958da83c309598043f95a0cfc0d169b911
     locked_url: https://github.com/zhaoxinyi02/ClawPanel/commit/28cfcb958da83c309598043f95a0cfc0d169b911
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
