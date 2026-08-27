@@ -1,20 +1,12 @@
-snapshot_id: github-universe-2026-08-27-product-park-review-01
-generated_from_checksum: 1e9b753d0fdfdd43fbc9297acdb7a06ccbdc06894f23502b38dc6d3bb7193c99
+snapshot_id: github-universe-2026-08-27-agent-park-review-01
+generated_from_checksum: 3e1c25d872dca1c8d4b30063a227691013321d04ee793e84e4b5d77db23d1bb1
 locks:
-- repo: 21st-dev/1code
-  source_url: https://github.com/21st-dev/1code
-  content_lock:
-    locked_ref: 9f1bc76fa4372c18c565b5a4f8daf38ae3595f0e
-    locked_url: https://github.com/21st-dev/1code/commit/9f1bc76fa4372c18c565b5a4f8daf38ae3595f0e
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
 - repo: AAAAAAAJ/WaytoAGI-CLI
   source_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI
   content_lock:
     locked_ref: e145d1af49ec8c03ac329c6718932e207d4664cb
     locked_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI/commit/e145d1af49ec8c03ac329c6718932e207d4664cb
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: BloopAI/vibe-kanban
@@ -22,7 +14,7 @@ locks:
   content_lock:
     locked_ref: 4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
     locked_url: https://github.com/BloopAI/vibe-kanban/commit/4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: ChinaSiro/claude-code-sourcemap
@@ -30,7 +22,7 @@ locks:
   content_lock:
     locked_ref: a8a678cb6244e6770e1e421767ff0987a1d95549
     locked_url: https://github.com/ChinaSiro/claude-code-sourcemap/commit/a8a678cb6244e6770e1e421767ff0987a1d95549
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: ChromeDevTools/chrome-devtools-mcp
@@ -38,7 +30,7 @@ locks:
   content_lock:
     locked_ref: 45f187b1e3202c9f32ddba913be5d68751c3caa3
     locked_url: https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/45f187b1e3202c9f32ddba913be5d68751c3caa3
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Cocoon-AI/architecture-diagram-generator
@@ -46,15 +38,7 @@ locks:
   content_lock:
     locked_ref: 4b9087d55268c79a935105439dbcd37b630fc3f3
     locked_url: https://github.com/Cocoon-AI/architecture-diagram-generator/commit/4b9087d55268c79a935105439dbcd37b630fc3f3
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: ComposioHQ/awesome-claude-skills
-  source_url: https://github.com/ComposioHQ/awesome-claude-skills
-  content_lock:
-    locked_ref: be2a406907dbc61b73e6827ded415c96139d13a2
-    locked_url: https://github.com/ComposioHQ/awesome-claude-skills/commit/be2a406907dbc61b73e6827ded415c96139d13a2
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: D4Vinci/Scrapling
@@ -62,7 +46,7 @@ locks:
   content_lock:
     locked_ref: 458e2a2ac909b3235747ebcdb312b93a1080a10a
     locked_url: https://github.com/D4Vinci/Scrapling/commit/458e2a2ac909b3235747ebcdb312b93a1080a10a
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Enderfga/claw-orchestrator
@@ -70,7 +54,7 @@ locks:
   content_lock:
     locked_ref: ed2ed594303da573c6efc45e4ce92c65ed8f843b
     locked_url: https://github.com/Enderfga/claw-orchestrator/commit/ed2ed594303da573c6efc45e4ce92c65ed8f843b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: EverMind-AI/EverOS
@@ -78,23 +62,7 @@ locks:
   content_lock:
     locked_ref: 786406129582ba18ac65a71086b0417e830de29d
     locked_url: https://github.com/EverMind-AI/EverOS/commit/786406129582ba18ac65a71086b0417e830de29d
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: FANzR-arch/Numerologist_skills
-  source_url: https://github.com/FANzR-arch/Numerologist_skills
-  content_lock:
-    locked_ref: ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
-    locked_url: https://github.com/FANzR-arch/Numerologist_skills/commit/ea28c3fb7e808fa74f6b8e7b4c9ac8c8a9d44c39
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: GitHubDaily/GitHubDaily
-  source_url: https://github.com/GitHubDaily/GitHubDaily
-  content_lock:
-    locked_ref: 5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_url: https://github.com/GitHubDaily/GitHubDaily/commit/5108d021a173c2e53684b39b5972e6c2b2750c71
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: HKUDS/CLI-Anything
@@ -102,23 +70,7 @@ locks:
   content_lock:
     locked_ref: 810c18b0d1ab9b234bc996c9fd999318523a3ef0
     locked_url: https://github.com/HKUDS/CLI-Anything/commit/810c18b0d1ab9b234bc996c9fd999318523a3ef0
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: HughYau/qiushi-skill
-  source_url: https://github.com/HughYau/qiushi-skill
-  content_lock:
-    locked_ref: 671079144dd2b7a6ce41982604d986a1781d4afc
-    locked_url: https://github.com/HughYau/qiushi-skill/commit/671079144dd2b7a6ce41982604d986a1781d4afc
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: KKKKhazix/khazix-skills
-  source_url: https://github.com/KKKKhazix/khazix-skills
-  content_lock:
-    locked_ref: 7a5c4934be4106ac740ffdb95280bb81b3f4b83c
-    locked_url: https://github.com/KKKKhazix/khazix-skills/commit/7a5c4934be4106ac740ffdb95280bb81b3f4b83c
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: LearnPrompt/luban-skill
@@ -126,7 +78,7 @@ locks:
   content_lock:
     locked_ref: cea2da3310273d77f92ca884d82beda554f9a6cb
     locked_url: https://github.com/LearnPrompt/luban-skill/commit/cea2da3310273d77f92ca884d82beda554f9a6cb
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Leonxlnx/taste-skill
@@ -134,7 +86,7 @@ locks:
   content_lock:
     locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
     locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Martian-Engineering/lossless-claw
@@ -142,7 +94,7 @@ locks:
   content_lock:
     locked_ref: 511e5f13cd9bce71e0ec75626bcd936efdd07c9f
     locked_url: https://github.com/Martian-Engineering/lossless-claw/commit/511e5f13cd9bce71e0ec75626bcd936efdd07c9f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Niall-Young/Canvasight
@@ -150,7 +102,7 @@ locks:
   content_lock:
     locked_ref: a12d848812abdde9f320b42d477e217bd65c02c9
     locked_url: https://github.com/Niall-Young/Canvasight/commit/a12d848812abdde9f320b42d477e217bd65c02c9
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: NoizAI/skills
@@ -158,7 +110,7 @@ locks:
   content_lock:
     locked_ref: 2a0e09d8cb9056e044c473dd53a136b81ba428e9
     locked_url: https://github.com/NoizAI/skills/commit/2a0e09d8cb9056e044c473dd53a136b81ba428e9
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: NousResearch/hermes-agent
@@ -166,7 +118,7 @@ locks:
   content_lock:
     locked_ref: a7b8281a16ef751e663adebd57f0abc2eb1ae670
     locked_url: https://github.com/NousResearch/hermes-agent/commit/a7b8281a16ef751e663adebd57f0abc2eb1ae670
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Panniantong/Agent-Reach
@@ -174,7 +126,7 @@ locks:
   content_lock:
     locked_ref: 06c202b03400a7d31886bf4399213706da1a0324
     locked_url: https://github.com/Panniantong/Agent-Reach/commit/06c202b03400a7d31886bf4399213706da1a0324
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Pimzino/claude-code-spec-workflow
@@ -182,15 +134,7 @@ locks:
   content_lock:
     locked_ref: f3de74d8055120658ac199bfca865a3e1de9fd99
     locked_url: https://github.com/Pimzino/claude-code-spec-workflow/commit/f3de74d8055120658ac199bfca865a3e1de9fd99
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: Shubham0812/SwiftUI-Animations
-  source_url: https://github.com/Shubham0812/SwiftUI-Animations
-  content_lock:
-    locked_ref: 030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_url: https://github.com/Shubham0812/SwiftUI-Animations/commit/030bd1c710f9cdcc30b30e3912b361990e473be1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: SuperClaude-Org/SuperClaude_Framework
@@ -198,7 +142,7 @@ locks:
   content_lock:
     locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
     locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Untrivial-ai/agent-orchestrator
@@ -206,7 +150,7 @@ locks:
   content_lock:
     locked_ref: c4abb8afc4a305fbd20c6d3955a2c7808d78e7d4
     locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/c4abb8afc4a305fbd20c6d3955a2c7808d78e7d4
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: Yeachan-Heo/oh-my-claudecode
@@ -214,15 +158,7 @@ locks:
   content_lock:
     locked_ref: 08db8be068c2d5e12c061958952715555dc6d1b0
     locked_url: https://github.com/Yeachan-Heo/oh-my-claudecode/commit/08db8be068c2d5e12c061958952715555dc6d1b0
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: Yeadon8888/cangjie-skill
-  source_url: https://github.com/Yeadon8888/cangjie-skill
-  content_lock:
-    locked_ref: c489ba54a420631ac4291966dae3ad5374db4a47
-    locked_url: https://github.com/Yeadon8888/cangjie-skill/commit/c489ba54a420631ac4291966dae3ad5374db4a47
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: YishenTu/claudian
@@ -230,7 +166,7 @@ locks:
   content_lock:
     locked_ref: 54b4290b6a1d23d185a7fb869fc1841823ddcc88
     locked_url: https://github.com/YishenTu/claudian/commit/54b4290b6a1d23d185a7fb869fc1841823ddcc88
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: affaan-m/ECC
@@ -238,15 +174,7 @@ locks:
   content_lock:
     locked_ref: d8409a4b0813771235555e32e3d8046a73988bfa
     locked_url: https://github.com/affaan-m/ECC/commit/d8409a4b0813771235555e32e3d8046a73988bfa
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: agenmod/immortal-skill
-  source_url: https://github.com/agenmod/immortal-skill
-  content_lock:
-    locked_ref: cdab91b37982d0d3ca78eb2da6727a8f75d8bca8
-    locked_url: https://github.com/agenmod/immortal-skill/commit/cdab91b37982d0d3ca78eb2da6727a8f75d8bca8
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: agenticnotetaking/arscontexta
@@ -254,7 +182,7 @@ locks:
   content_lock:
     locked_ref: 2acfd5cc4473c4d06c46be63df748e77e00e2746
     locked_url: https://github.com/agenticnotetaking/arscontexta/commit/2acfd5cc4473c4d06c46be63df748e77e00e2746
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: alchaincyf/darwin-skill
@@ -262,7 +190,7 @@ locks:
   content_lock:
     locked_ref: 5539516444cff4eed7865daf61a707590acda485
     locked_url: https://github.com/alchaincyf/darwin-skill/commit/5539516444cff4eed7865daf61a707590acda485
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: alchaincyf/hermes-agent-orange-book
@@ -270,15 +198,7 @@ locks:
   content_lock:
     locked_ref: 9ac06e1d05373c3b8b6d49751e8a59c1475f9867
     locked_url: https://github.com/alchaincyf/hermes-agent-orange-book/commit/9ac06e1d05373c3b8b6d49751e8a59c1475f9867
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: alchaincyf/nuwa-skill
-  source_url: https://github.com/alchaincyf/nuwa-skill
-  content_lock:
-    locked_ref: fe0374687037c4cc51a65c1e0c145afe2981dc69
-    locked_url: https://github.com/alchaincyf/nuwa-skill/commit/fe0374687037c4cc51a65c1e0c145afe2981dc69
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: amantus-ai/vibetunnel
@@ -286,7 +206,7 @@ locks:
   content_lock:
     locked_ref: f78324f5a6f5617711581cf5b119651094b2d9bc
     locked_url: https://github.com/amantus-ai/vibetunnel/commit/f78324f5a6f5617711581cf5b119651094b2d9bc
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: anomalyco/opencode
@@ -294,15 +214,7 @@ locks:
   content_lock:
     locked_ref: fd9bd448a2e68990e7aed3495e5590cecb934bfb
     locked_url: https://github.com/anomalyco/opencode/commit/fd9bd448a2e68990e7aed3495e5590cecb934bfb
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: anthropics/claude-code
-  source_url: https://github.com/anthropics/claude-code
-  content_lock:
-    locked_ref: 005c5dade90c2c59c88d819d8723e7b579addb5e
-    locked_url: https://github.com/anthropics/claude-code/commit/005c5dade90c2c59c88d819d8723e7b579addb5e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: anthropics/claude-cookbooks
@@ -310,7 +222,7 @@ locks:
   content_lock:
     locked_ref: 35f2eec7e44897c537e44441b7dff2f0ecbfb804
     locked_url: https://github.com/anthropics/claude-cookbooks/commit/35f2eec7e44897c537e44441b7dff2f0ecbfb804
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: anthropics/skills
@@ -318,7 +230,7 @@ locks:
   content_lock:
     locked_ref: 3b3fad96af16a10759d930941b4520ba0c40edae
     locked_url: https://github.com/anthropics/skills/commit/3b3fad96af16a10759d930941b4520ba0c40edae
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: birobirobiro/awesome-shadcn-ui
@@ -326,7 +238,7 @@ locks:
   content_lock:
     locked_ref: 7417bbeae2d214b0991fa49b4a42d2844fa0c54b
     locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/7417bbeae2d214b0991fa49b4a42d2844fa0c54b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: catlog22/Claude-Code-Workflow
@@ -334,7 +246,7 @@ locks:
   content_lock:
     locked_ref: 07491b04ac30c9a2d887f443661288b1b7520832
     locked_url: https://github.com/catlog22/Claude-Code-Workflow/commit/07491b04ac30c9a2d887f443661288b1b7520832
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: cclank/lanshu-animated-architecture-diagram
@@ -342,7 +254,7 @@ locks:
   content_lock:
     locked_ref: 1818562e9fa84f36b632c745a8931cee64acf947
     locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/1818562e9fa84f36b632c745a8931cee64acf947
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: cft0808/edict
@@ -350,15 +262,7 @@ locks:
   content_lock:
     locked_ref: 14a207557719c046af0f993a7bff1cc5a5015b33
     locked_url: https://github.com/cft0808/edict/commit/14a207557719c046af0f993a7bff1cc5a5015b33
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: chenglou/pretext
-  source_url: https://github.com/chenglou/pretext
-  content_lock:
-    locked_ref: ac49b09b7d83ede19581fa94a8b892b07d309baf
-    locked_url: https://github.com/chenglou/pretext/commit/ac49b09b7d83ede19581fa94a8b892b07d309baf
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: chenjin-cmd/wechat-miniprogram-builder
@@ -366,7 +270,7 @@ locks:
   content_lock:
     locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
     locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: chuspeeism/dashi-taskboard
@@ -374,7 +278,7 @@ locks:
   content_lock:
     locked_ref: f0f4cabced1b15e47c852438a9a599d245a38063
     locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/f0f4cabced1b15e47c852438a9a599d245a38063
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: code-yeongyu/lazycodex
@@ -382,7 +286,7 @@ locks:
   content_lock:
     locked_ref: 10f95587d3aeacf208cc1fee88a91315962d31e8
     locked_url: https://github.com/code-yeongyu/lazycodex/commit/10f95587d3aeacf208cc1fee88a91315962d31e8
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: code-yeongyu/oh-my-openagent
@@ -390,7 +294,7 @@ locks:
   content_lock:
     locked_ref: 8c57e463e62ddc8d2c7b4a6770dcd2927e91ef29
     locked_url: https://github.com/code-yeongyu/oh-my-openagent/commit/8c57e463e62ddc8d2c7b4a6770dcd2927e91ef29
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: coze-dev/coze-studio
@@ -398,7 +302,7 @@ locks:
   content_lock:
     locked_ref: fefb05ff27be1da939612fbf9faf5db62583b8ae
     locked_url: https://github.com/coze-dev/coze-studio/commit/fefb05ff27be1da939612fbf9faf5db62583b8ae
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: czlonkowski/n8n-skills
@@ -406,15 +310,7 @@ locks:
   content_lock:
     locked_ref: 02965226846ad6aca0fdead94765db3cad1fca95
     locked_url: https://github.com/czlonkowski/n8n-skills/commit/02965226846ad6aca0fdead94765db3cad1fca95
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: davila7/claude-code-templates
-  source_url: https://github.com/davila7/claude-code-templates
-  content_lock:
-    locked_ref: 3a2f8c031527c923f1d431bec0980c71ae20557b
-    locked_url: https://github.com/davila7/claude-code-templates/commit/3a2f8c031527c923f1d431bec0980c71ae20557b
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: deepseek-ai/deepseek-harness
@@ -422,15 +318,7 @@ locks:
   content_lock:
     locked_ref: b150a551b8d465e31e418e1b2eaf5e79bbb7d28e
     locked_url: https://github.com/deepseek-ai/deepseek-harness/commit/b150a551b8d465e31e418e1b2eaf5e79bbb7d28e
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: dontbesilent2025/dbskill
-  source_url: https://github.com/dontbesilent2025/dbskill
-  content_lock:
-    locked_ref: 0393f4b178bd4ab2e66af9a629fcc7d97189320d
-    locked_url: https://github.com/dontbesilent2025/dbskill/commit/0393f4b178bd4ab2e66af9a629fcc7d97189320d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: esengine/DeepSeek-Reasonix
@@ -438,7 +326,7 @@ locks:
   content_lock:
     locked_ref: c3f5b497d59ca46ffcffa3f4a8d7cd095e330798
     locked_url: https://github.com/esengine/DeepSeek-Reasonix/commit/c3f5b497d59ca46ffcffa3f4a8d7cd095e330798
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: eze-is/web-access
@@ -446,7 +334,7 @@ locks:
   content_lock:
     locked_ref: 33eef84a55b1919396a80e7a55650a07bb83f590
     locked_url: https://github.com/eze-is/web-access/commit/33eef84a55b1919396a80e7a55650a07bb83f590
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: farion1231/cc-switch
@@ -454,7 +342,7 @@ locks:
   content_lock:
     locked_ref: c911c7e3c6aaebeae221fa6480b15b12b88d7fcc
     locked_url: https://github.com/farion1231/cc-switch/commit/c911c7e3c6aaebeae221fa6480b15b12b88d7fcc
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: frankbria/ralph-claude-code
@@ -462,7 +350,7 @@ locks:
   content_lock:
     locked_ref: e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
     locked_url: https://github.com/frankbria/ralph-claude-code/commit/e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: freestylefly/CodexGuide
@@ -470,7 +358,7 @@ locks:
   content_lock:
     locked_ref: 0c5d803f086a3cfe6dff8b79ca4c9df195cd2ba7
     locked_url: https://github.com/freestylefly/CodexGuide/commit/0c5d803f086a3cfe6dff8b79ca4c9df195cd2ba7
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: furkankly/zoetrope
@@ -478,7 +366,7 @@ locks:
   content_lock:
     locked_ref: 077707da679955c0402c39ca992bf56cdc6b0264
     locked_url: https://github.com/furkankly/zoetrope/commit/077707da679955c0402c39ca992bf56cdc6b0264
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: garrytan/gstack
@@ -486,23 +374,7 @@ locks:
   content_lock:
     locked_ref: ad8400543cd9ce8d07641362db48d44a95417e33
     locked_url: https://github.com/garrytan/gstack/commit/ad8400543cd9ce8d07641362db48d44a95417e33
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: gnipbao/dao-skill
-  source_url: https://github.com/gnipbao/dao-skill
-  content_lock:
-    locked_ref: 1cae835995c0ff4d9a33a6fec82cca0a54b7cd05
-    locked_url: https://github.com/gnipbao/dao-skill/commit/1cae835995c0ff4d9a33a6fec82cca0a54b7cd05
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: google-gemini/gemini-cli
-  source_url: https://github.com/google-gemini/gemini-cli
-  content_lock:
-    locked_ref: 64b5b79a6dd89ea96e65cb761c23aae6c0b33ce4
-    locked_url: https://github.com/google-gemini/gemini-cli/commit/64b5b79a6dd89ea96e65cb761c23aae6c0b33ce4
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: grp06/openclaw-studio
@@ -510,7 +382,7 @@ locks:
   content_lock:
     locked_ref: 732b994120bbe34c0ce5711b074207cbd8b97d52
     locked_url: https://github.com/grp06/openclaw-studio/commit/732b994120bbe34c0ce5711b074207cbd8b97d52
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: hangsman/claude-code-source
@@ -518,7 +390,7 @@ locks:
   content_lock:
     locked_ref: d239e3f2c574b527f9f8691375525029edb3752d
     locked_url: https://github.com/hangsman/claude-code-source/commit/d239e3f2c574b527f9f8691375525029edb3752d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: huangruiteng/loopx
@@ -526,7 +398,7 @@ locks:
   content_lock:
     locked_ref: e8175d4e9ffec578837906ac4af92e9b607acd36
     locked_url: https://github.com/huangruiteng/loopx/commit/e8175d4e9ffec578837906ac4af92e9b607acd36
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: iamzhihuix/skills-manage
@@ -534,7 +406,7 @@ locks:
   content_lock:
     locked_ref: 467d0423beaf71a31c520d4e3795ec88acae5ab2
     locked_url: https://github.com/iamzhihuix/skills-manage/commit/467d0423beaf71a31c520d4e3795ec88acae5ab2
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: jackwener/OpenCLI
@@ -542,23 +414,7 @@ locks:
   content_lock:
     locked_ref: 6b3dffd398b907c0a1437c8ad017068819fb401f
     locked_url: https://github.com/jackwener/OpenCLI/commit/6b3dffd398b907c0a1437c8ad017068819fb401f
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: jinchenma94/bazi-skill
-  source_url: https://github.com/jinchenma94/bazi-skill
-  content_lock:
-    locked_ref: 112a5d84cd1a001a0038cafca3be68d93e4c0cc9
-    locked_url: https://github.com/jinchenma94/bazi-skill/commit/112a5d84cd1a001a0038cafca3be68d93e4c0cc9
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: kangarooking/cangjie-skill
-  source_url: https://github.com/kangarooking/cangjie-skill
-  content_lock:
-    locked_ref: f751bf9ff9f833cff702fe48d31ebd9d407d4b05
-    locked_url: https://github.com/kangarooking/cangjie-skill/commit/f751bf9ff9f833cff702fe48d31ebd9d407d4b05
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: karpathy/autoresearch
@@ -566,7 +422,7 @@ locks:
   content_lock:
     locked_ref: 228791fb499afffb54b46200aca536f79142f117
     locked_url: https://github.com/karpathy/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: kenn-io/agentsview
@@ -574,7 +430,7 @@ locks:
   content_lock:
     locked_ref: 31738009de94567dc1d32772d88068323d8f4609
     locked_url: https://github.com/kenn-io/agentsview/commit/31738009de94567dc1d32772d88068323d8f4609
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: larksuite/cli
@@ -582,7 +438,7 @@ locks:
   content_lock:
     locked_ref: 0f9553385c48234ab7e16ab4c9b08c745f1c59d4
     locked_url: https://github.com/larksuite/cli/commit/0f9553385c48234ab7e16ab4c9b08c745f1c59d4
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: libukai/awesome-agent-skills
@@ -590,7 +446,7 @@ locks:
   content_lock:
     locked_ref: 89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e
     locked_url: https://github.com/libukai/awesome-agent-skills/commit/89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: lidge-jun/opencodex
@@ -598,7 +454,7 @@ locks:
   content_lock:
     locked_ref: ec51e42d745d2645bcb22cb67855fa053ba1778e
     locked_url: https://github.com/lidge-jun/opencodex/commit/ec51e42d745d2645bcb22cb67855fa053ba1778e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: lightpanda-io/browser
@@ -606,15 +462,7 @@ locks:
   content_lock:
     locked_ref: 0590bd0f80671a482570e7d6d1e9b995766b0a2f
     locked_url: https://github.com/lightpanda-io/browser/commit/0590bd0f80671a482570e7d6d1e9b995766b0a2f
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: limin112/min-skill
-  source_url: https://github.com/limin112/min-skill
-  content_lock:
-    locked_ref: c6295535b8c6efc54882ac51e68c86cd20f6c011
-    locked_url: https://github.com/limin112/min-skill/commit/c6295535b8c6efc54882ac51e68c86cd20f6c011
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: makecindy/cindy
@@ -622,7 +470,7 @@ locks:
   content_lock:
     locked_ref: 173df24fb666a3209785e4e33c403380514ee5d1
     locked_url: https://github.com/makecindy/cindy/commit/173df24fb666a3209785e4e33c403380514ee5d1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: mattpocock/skills
@@ -630,7 +478,7 @@ locks:
   content_lock:
     locked_ref: 6654f6b60cd9d5be8b54c6fafe44346dabeb3b76
     locked_url: https://github.com/mattpocock/skills/commit/6654f6b60cd9d5be8b54c6fafe44346dabeb3b76
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: mixedbread-ai/mgrep
@@ -638,7 +486,7 @@ locks:
   content_lock:
     locked_ref: 5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
     locked_url: https://github.com/mixedbread-ai/mgrep/commit/5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: msitarzewski/agency-agents
@@ -646,7 +494,7 @@ locks:
   content_lock:
     locked_ref: ebe9c99acb5c96f9468de368d8bead775387d1a7
     locked_url: https://github.com/msitarzewski/agency-agents/commit/ebe9c99acb5c96f9468de368d8bead775387d1a7
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: multica-ai/multica
@@ -654,7 +502,7 @@ locks:
   content_lock:
     locked_ref: 8fda4f22d5429e8ece1fc56fdc7ef10cf4fd49d2
     locked_url: https://github.com/multica-ai/multica/commit/8fda4f22d5429e8ece1fc56fdc7ef10cf4fd49d2
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: n8n-io/n8n
@@ -662,7 +510,7 @@ locks:
   content_lock:
     locked_ref: 48c42fa4b8caba99f415b06ca2a3d2090fa46636
     locked_url: https://github.com/n8n-io/n8n/commit/48c42fa4b8caba99f415b06ca2a3d2090fa46636
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nextlevelbuilder/ui-ux-pro-max-skill
@@ -670,7 +518,7 @@ locks:
   content_lock:
     locked_ref: e353a508767c6d39f0e7698b084dbfc8699fffd3
     locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/e353a508767c6d39f0e7698b084dbfc8699fffd3
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nexu-io/html-anything
@@ -678,7 +526,7 @@ locks:
   content_lock:
     locked_ref: c31204544230578ac814026fecc153c6e36587ae
     locked_url: https://github.com/nexu-io/html-anything/commit/c31204544230578ac814026fecc153c6e36587ae
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nexu-io/open-design
@@ -686,7 +534,7 @@ locks:
   content_lock:
     locked_ref: f888d72d5f1a6e486bf0448ef171b4e452b1e58f
     locked_url: https://github.com/nexu-io/open-design/commit/f888d72d5f1a6e486bf0448ef171b4e452b1e58f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nicobailon/visual-explainer
@@ -694,7 +542,7 @@ locks:
   content_lock:
     locked_ref: df35d97a00191d8aba831e757a65dd6ce0514fc0
     locked_url: https://github.com/nicobailon/visual-explainer/commit/df35d97a00191d8aba831e757a65dd6ce0514fc0
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: nizos/tdd-guard
@@ -702,15 +550,7 @@ locks:
   content_lock:
     locked_ref: ccd71b49b11b5bd350d87d3f4c9a9b6b1e1f3dbd
     locked_url: https://github.com/nizos/tdd-guard/commit/ccd71b49b11b5bd350d87d3f4c9a9b6b1e1f3dbd
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: notdog1998/yourself-skill
-  source_url: https://github.com/notdog1998/yourself-skill
-  content_lock:
-    locked_ref: 9deb1a87b1231fec85cadf2ef690fa49fef519ca
-    locked_url: https://github.com/notdog1998/yourself-skill/commit/9deb1a87b1231fec85cadf2ef690fa49fef519ca
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: obra/superpowers
@@ -718,7 +558,7 @@ locks:
   content_lock:
     locked_ref: b36e0829c6d0140e93cfef2ca599b1b07d4a7797
     locked_url: https://github.com/obra/superpowers/commit/b36e0829c6d0140e93cfef2ca599b1b07d4a7797
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: open-gsd/gsd-core
@@ -726,15 +566,7 @@ locks:
   content_lock:
     locked_ref: 3b18eff3887967adcdfc49411b0642acc9ccf925
     locked_url: https://github.com/open-gsd/gsd-core/commit/3b18eff3887967adcdfc49411b0642acc9ccf925
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: openai/codex
-  source_url: https://github.com/openai/codex
-  content_lock:
-    locked_ref: 3e4707b34b16e139fcb7ad11ab8445993b62bba1
-    locked_url: https://github.com/openai/codex/commit/3e4707b34b16e139fcb7ad11ab8445993b62bba1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: openai/evals
@@ -742,7 +574,7 @@ locks:
   content_lock:
     locked_ref: 8eac7a7de5215c907fbddc30efdaf316913eccdd
     locked_url: https://github.com/openai/evals/commit/8eac7a7de5215c907fbddc30efdaf316913eccdd
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: openai/symphony
@@ -750,7 +582,7 @@ locks:
   content_lock:
     locked_ref: 8001b52e3062495a16e520e4ceaf8f9de868c4d0
     locked_url: https://github.com/openai/symphony/commit/8001b52e3062495a16e520e4ceaf8f9de868c4d0
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: openchamber/openchamber
@@ -758,7 +590,7 @@ locks:
   content_lock:
     locked_ref: 74290852efefa901125fa6d6ca13564793030a62
     locked_url: https://github.com/openchamber/openchamber/commit/74290852efefa901125fa6d6ca13564793030a62
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: openclaw/openclaw
@@ -766,7 +598,7 @@ locks:
   content_lock:
     locked_ref: 3b64e84f6ea21828b72970cef6256caf956d9425
     locked_url: https://github.com/openclaw/openclaw/commit/3b64e84f6ea21828b72970cef6256caf956d9425
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: paperclipai/paperclip
@@ -774,7 +606,7 @@ locks:
   content_lock:
     locked_ref: 821573ede850441d5043ecd4860ee70a2a0374b1
     locked_url: https://github.com/paperclipai/paperclip/commit/821573ede850441d5043ecd4860ee70a2a0374b1
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: pbakaus/impeccable
@@ -782,7 +614,7 @@ locks:
   content_lock:
     locked_ref: fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
     locked_url: https://github.com/pbakaus/impeccable/commit/fcd7622cd2d8e2b09344ba8ede9fcac82cec4e70
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: phuryn/pm-skills
@@ -790,7 +622,7 @@ locks:
   content_lock:
     locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
     locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: riba2534/feishu-cli
@@ -798,7 +630,7 @@ locks:
   content_lock:
     locked_ref: 0e92eec364b11b8bd53db3ec838eb14f598c517e
     locked_url: https://github.com/riba2534/feishu-cli/commit/0e92eec364b11b8bd53db3ec838eb14f598c517e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: router-for-me/CLIProxyAPI
@@ -806,7 +638,7 @@ locks:
   content_lock:
     locked_ref: 1f53b2eb03b9e963bac647e5566ca2b304239116
     locked_url: https://github.com/router-for-me/CLIProxyAPI/commit/1f53b2eb03b9e963bac647e5566ca2b304239116
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: rullerzhou-afk/clawd-on-desk
@@ -814,7 +646,7 @@ locks:
   content_lock:
     locked_ref: 7ab6a240fb10e7f3c62132ba918a98f50e9b8e03
     locked_url: https://github.com/rullerzhou-afk/clawd-on-desk/commit/7ab6a240fb10e7f3c62132ba918a98f50e9b8e03
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: ruvnet/ruflo
@@ -822,7 +654,7 @@ locks:
   content_lock:
     locked_ref: e21aa352fdc80fd2d3cc4e83404a76a18d118b96
     locked_url: https://github.com/ruvnet/ruflo/commit/e21aa352fdc80fd2d3cc4e83404a76a18d118b96
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: shareAI-lab/learn-claude-code
@@ -830,23 +662,7 @@ locks:
   content_lock:
     locked_ref: 04486201fc6541285513ccfab45d59a7871e042d
     locked_url: https://github.com/shareAI-lab/learn-claude-code/commit/04486201fc6541285513ccfab45d59a7871e042d
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: thirdlayerinc/autoagent
-  source_url: https://github.com/thirdlayerinc/autoagent
-  content_lock:
-    locked_ref: eb3f185dc9faac276955b4fe5feb93c8f836b644
-    locked_url: https://github.com/thirdlayerinc/autoagent/commit/eb3f185dc9faac276955b4fe5feb93c8f836b644
-    locked_at: 2026-08-27-product-park-review-01
-    update_policy: monthly_pr
-    vendored: false
-- repo: ultraworkers/claw-code
-  source_url: https://github.com/ultraworkers/claw-code
-  content_lock:
-    locked_ref: 08106b0c3771ef5b4a5aa176acccd460e88b7325
-    locked_url: https://github.com/ultraworkers/claw-code/commit/08106b0c3771ef5b4a5aa176acccd460e88b7325
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: vercel-labs/agent-skills
@@ -854,7 +670,7 @@ locks:
   content_lock:
     locked_ref: dd089a8c752c966dee8bf0f27cb625ba193ffd9e
     locked_url: https://github.com/vercel-labs/agent-skills/commit/dd089a8c752c966dee8bf0f27cb625ba193ffd9e
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: vercel-labs/json-render
@@ -862,7 +678,7 @@ locks:
   content_lock:
     locked_ref: a4d033cf041e7b323ee10f196ef8a3ff2fc1f85f
     locked_url: https://github.com/vercel-labs/json-render/commit/a4d033cf041e7b323ee10f196ef8a3ff2fc1f85f
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: volcengine/OpenViking
@@ -870,7 +686,7 @@ locks:
   content_lock:
     locked_ref: 24185a08488c2e29427be4ca33e698e11b557f39
     locked_url: https://github.com/volcengine/OpenViking/commit/24185a08488c2e29427be4ca33e698e11b557f39
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: wshobson/agents
@@ -878,7 +694,7 @@ locks:
   content_lock:
     locked_ref: d82998e7df393c671ede2387a8435075f0b633f5
     locked_url: https://github.com/wshobson/agents/commit/d82998e7df393c671ede2387a8435075f0b633f5
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: yizhiyanhua-ai/fireworks-tech-graph
@@ -886,7 +702,7 @@ locks:
   content_lock:
     locked_ref: e9c7a9351dee5861707a7ec5560248bf5e7b84b5
     locked_url: https://github.com/yizhiyanhua-ai/fireworks-tech-graph/commit/e9c7a9351dee5861707a7ec5560248bf5e7b84b5
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
 - repo: zhaoxinyi02/ClawPanel
@@ -894,6 +710,6 @@ locks:
   content_lock:
     locked_ref: 28cfcb958da83c309598043f95a0cfc0d169b911
     locked_url: https://github.com/zhaoxinyi02/ClawPanel/commit/28cfcb958da83c309598043f95a0cfc0d169b911
-    locked_at: 2026-08-27-product-park-review-01
+    locked_at: 2026-08-27-agent-park-review-01
     update_policy: monthly_pr
     vendored: false
