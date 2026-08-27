@@ -4,7 +4,7 @@
 
 **Agent 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-121%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-122%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 121-repo Agent map, grouped by function and owned/starred source
+out 122-repo Agent map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-27-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-27-content-review-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -169,10 +169,11 @@ Snapshot: `github-universe-2026-08-27-star-refresh-01` · canonical source: [Par
 | [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) | A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects. | Starred | `030bd1c710f9` |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | Starred | `24185a08488c` |
 
-### Agent Observability (8)
+### Agent Observability (9)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
+| [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) | Premium hand-drawn animated architecture diagram Codex skill | Starred | `1818562e9fa8` |
 | [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. | Starred | `fefb05ff27be` |
 | [furkankly/zoetrope](https://github.com/furkankly/zoetrope) | Watch a Claude Code session as a live flow graph, in your terminal or your browser. | Starred | `077707da6799` |
 | [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) | A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like it! | Starred | `732b994120bb` |
