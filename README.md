@@ -4,7 +4,7 @@
 
 **Agent 的 capability-first registry：按子分类浏览 owned 与 starred repo。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-120%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-121%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 120-repo Agent map, grouped by function and owned/starred source
+out 121-repo Agent map, grouped by function and owned/starred source
 
 fail snapshot checksum mismatch → stop before publishing
 fail private source inaccessible → preserve name/link and mark PRIVATE
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-08-27-taxonomy-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-08-27-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -116,7 +116,7 @@ Snapshot: `github-universe-2026-08-27-taxonomy-01` · canonical source: [Park OS
 | [zinan92/loop](https://github.com/zinan92/loop) | 把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in: local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS. | Owned + Starred | owned source |
 | [zinan92/wechat-miniprogram-shipping](https://github.com/zinan92/wechat-miniprogram-shipping) | 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt | Owned | owned source |
 
-### Agent Skills & Plugins (32)
+### Agent Skills & Plugins (33)
 
 | Repo | Capability / description | Source | Lock / flags |
 |---|---|---|---|
@@ -130,6 +130,7 @@ Snapshot: `github-universe-2026-08-27-taxonomy-01` · canonical source: [Park OS
 | [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n skillset for Claude Code to build flawless n8n workflows | Starred | `02965226846a` |
 | [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) | dontbesilent 的商业诊断 Skills | Starred | `0393f4b178bd` |
 | [FANzR-arch/Numerologist_skills](https://github.com/FANzR-arch/Numerologist_skills) | 🔮 An engineering framework to stop LLM hallucinations in Chinese astrology. / 给“赛博半仙”戴上紧箍咒：减少幻觉、固定排盘步骤的奇门遁甲与紫微斗数 AI skills。 | Starred | `ea28c3fb7e80` |
+| [gnipbao/dao-skill](https://github.com/gnipbao/dao-skill) | 道生万物：从混沌需求生成可运行、可验证、可进化的 Agent Skill | Starred | `1cae835995c0` |
 | [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) | Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place. | Starred | `467d0423beaf` |
 | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) | 四柱八字命理分析 | Starred | `112a5d84cd1a` |
 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills） | Starred | `f751bf9ff9f8` |
