@@ -1,53 +1,25 @@
 universe: agent
-snapshot_id: github-universe-2026-09-14
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 generated_from: zinan92/park-operating-system
-generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
+generated_from_checksum: cf1d439c3a4730a50198508852e2304c7d3aa716a9039f806dca596d68e98d29
 entries:
 - universe: agent
-  repo: AAAAAAAJ/WaytoAGI-CLI
+  repo: citrolabs/ego-lite
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: runtime-and-harness
+  primary_category: eyes-and-hands
   tags:
-  - typescript
-  source_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI
+  - browser
+  - javascript
+  - workflow
+  source_url: https://github.com/citrolabs/ego-lite
   visibility: public
   archived: false
-  description: WaytoAGI-CLI
-  status: EXPLORING
-  review_status: needs_review
-  review_reason: 'low-confidence: repository name indicates a general AGI/agent CLI; description is minimal.'
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: WaytoAGI-CLI
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-12T06:41:35Z'
-  content_lock:
-    locked_ref: e145d1af49ec8c03ac329c6718932e207d4664cb
-    locked_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI/commit/e145d1af49ec8c03ac329c6718932e207d4664cb
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: BloopAI/vibe-kanban
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - rust
-  source_url: https://github.com/BloopAI/vibe-kanban
-  visibility: public
-  archived: false
-  description: Get 10X more out of Claude Code, Codex or any coding agent
+  description: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state
+    with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -55,61 +27,32 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Get 10X more out of Claude Code, Codex or any coding agent
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T06:20:43Z'
-  content_lock:
-    locked_ref: 4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
-    locked_url: https://github.com/BloopAI/vibe-kanban/commit/4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: BytePioneer-AI/codex-host
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - typescript
-  source_url: https://github.com/BytePioneer-AI/codex-host
-  visibility: public
-  archived: false
-  description: Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+    description: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state
+      with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:03:05Z'
+    pushed_at: '2026-09-11T13:04:10Z'
   content_lock:
-    locked_ref: a67aed315f6bf8d734bcff637688fd89e9e938c0
-    locked_url: https://github.com/BytePioneer-AI/codex-host/commit/a67aed315f6bf8d734bcff637688fd89e9e938c0
+    locked_ref: d01be93325c7ea59d41c2ca9f4c59b58b4be4046
+    locked_url: https://github.com/citrolabs/ego-lite/commit/d01be93325c7ea59d41c2ca9f4c59b58b4be4046
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-03T08:00:38Z'
 - universe: agent
-  repo: ChinaSiro/claude-code-sourcemap
+  repo: HD838A/remote-mic-app
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: knowledge
+  primary_category: eyes-and-hands
   tags:
-  - typescript
-  source_url: https://github.com/ChinaSiro/claude-code-sourcemap
+  - product
+  source_url: https://github.com/HD838A/remote-mic-app
   visibility: public
   archived: false
-  description: ''
+  description: 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -117,16 +60,189 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: ''
-    license_spdx: NOASSERTION
+    description: 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+    license_spdx: GPL-3.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-03-31T08:30:55Z'
+    pushed_at: '2026-09-14T03:21:01Z'
   content_lock:
-    locked_ref: a8a678cb6244e6770e1e421767ff0987a1d95549
-    locked_url: https://github.com/ChinaSiro/claude-code-sourcemap/commit/a8a678cb6244e6770e1e421767ff0987a1d95549
+    locked_ref: c8c065456b80f0e04675475e19f989e204dc889d
+    locked_url: https://github.com/HD838A/remote-mic-app/commit/c8c065456b80f0e04675475e19f989e204dc889d
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-08-27T08:30:37Z'
+- universe: agent
+  repo: riba2534/feishu-cli
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags: []
+  source_url: https://github.com/riba2534/feishu-cli
+  visibility: public
+  archived: false
+  description: feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-28T12:58:54Z'
+  content_lock:
+    locked_ref: 930c3f56eef89473d007e1f43eeb338df87f5281
+    locked_url: https://github.com/riba2534/feishu-cli/commit/930c3f56eef89473d007e1f43eeb338df87f5281
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-08T20:42:33Z'
+- universe: agent
+  repo: n8n-io/n8n
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - product
+  - typescript
+  - workflow
+  source_url: https://github.com/n8n-io/n8n
+  visibility: public
+  archived: false
+  description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
+    self-host or cloud, 400+ integrations.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
+      self-host or cloud, 400+ integrations.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T03:05:06Z'
+  content_lock:
+    locked_ref: aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
+    locked_url: https://github.com/n8n-io/n8n/commit/aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-04T07:35:07Z'
+- universe: agent
+  repo: Panniantong/Agent-Reach
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - api
+  - python
+  source_url: https://github.com/Panniantong/Agent-Reach
+  visibility: public
+  archived: false
+  description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,
+    XiaoHongShu — one CLI, zero API fees.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,
+      XiaoHongShu — one CLI, zero API fees.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-01T08:09:58Z'
+  content_lock:
+    locked_ref: da5044d26fc6adddb6554d5679c94ac22e76e428
+    locked_url: https://github.com/Panniantong/Agent-Reach/commit/da5044d26fc6adddb6554d5679c94ac22e76e428
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-17T05:28:11Z'
+- universe: agent
+  repo: larksuite/cli
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - image
+  - skill
+  source_url: https://github.com/larksuite/cli
+  visibility: public
+  archived: false
+  description: The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core
+    business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands
+    and 20+ AI Agent Skills.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers
+      core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+
+      commands and 20+ AI Agent Skills.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:14:36Z'
+  content_lock:
+    locked_ref: 39aaf9fca0e08825b51f6d8c6c617bf781db761b
+    locked_url: https://github.com/larksuite/cli/commit/39aaf9fca0e08825b51f6d8c6c617bf781db761b
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-16T14:12:54Z'
+- universe: agent
+  repo: eze-is/web-access
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - javascript
+  - skill
+  source_url: https://github.com/eze-is/web-access
+  visibility: public
+  archived: false
+  description: 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-19T01:36:35Z'
+  content_lock:
+    locked_ref: 33eef84a55b1919396a80e7a55650a07bb83f590
+    locked_url: https://github.com/eze-is/web-access/commit/33eef84a55b1919396a80e7a55650a07bb83f590
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-23T07:09:26Z'
 - universe: agent
   repo: ChromeDevTools/chrome-devtools-mcp
   owned: false
@@ -159,22 +275,105 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-21T01:48:20Z'
 - universe: agent
-  repo: Cocoon-AI/architecture-diagram-generator
+  repo: zinan92/agent-browser
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - browser
+  - workflow
+  source_url: https://github.com/zinan92/agent-browser
+  visibility: public
+  archived: false
+  description: Browser automation CLI for AI agents
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Browser automation CLI for AI agents
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-19T00:59:42Z'
+  catalog_added_at: '2026-03-19T03:17:08Z'
+- universe: agent
+  repo: zinan92/opencli
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - browser
+  - workflow
+  source_url: https://github.com/zinan92/opencli
+  visibility: public
+  archived: false
+  description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data
+    extraction.
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web
+      data extraction.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-18T23:16:57Z'
+  catalog_added_at: '2026-03-19T03:17:07Z'
+- universe: agent
+  repo: zinan92/bb-browser
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - api
+  - browser
+  source_url: https://github.com/zinan92/bb-browser
+  visibility: public
+  archived: false
+  description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-18T08:22:58Z'
+  catalog_added_at: '2026-03-19T03:17:04Z'
+- universe: agent
+  repo: jackwener/OpenCLI
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: observability
+  primary_category: eyes-and-hands
   tags:
-  - product
-  - skill
-  source_url: https://github.com/Cocoon-AI/architecture-diagram-generator
+  - browser
+  - javascript
+  source_url: https://github.com/jackwener/OpenCLI
   visibility: public
   archived: false
-  description: 'Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude
-    AI skill.    '
+  description: 'Make Any Website into CLI & Use your logged-in browser by AI agent. '
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -182,17 +381,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 'Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude
-      AI skill.    '
-    license_spdx: MIT
+    description: 'Make Any Website into CLI & Use your logged-in browser by AI agent. '
+    license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-05-13T23:04:17Z'
+    pushed_at: '2026-08-30T17:36:26Z'
   content_lock:
-    locked_ref: 4b9087d55268c79a935105439dbcd37b630fc3f3
-    locked_url: https://github.com/Cocoon-AI/architecture-diagram-generator/commit/4b9087d55268c79a935105439dbcd37b630fc3f3
+    locked_ref: 8271afc67e8504bda94c147f446ee29775d08274
+    locked_url: https://github.com/jackwener/OpenCLI/commit/8271afc67e8504bda94c147f446ee29775d08274
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-18T06:11:08Z'
 - universe: agent
   repo: D4Vinci/Scrapling
   owned: false
@@ -227,23 +426,23 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-18T04:53:18Z'
 - universe: agent
-  repo: Enderfga/claw-orchestrator
+  repo: lightpanda-io/browser
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: eyes-and-hands
   tags:
-  - api
-  - orchestration
-  - typescript
-  source_url: https://github.com/Enderfga/claw-orchestrator
+  - browser
+  - image
+  - workflow
+  source_url: https://github.com/lightpanda-io/browser
   visibility: public
   archived: false
-  description: Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent
-    councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can drive.
+  description: 'Lightpanda: the headless browser designed for AI and automation'
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -251,17 +450,418 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent
-      councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can drive.
-    license_spdx: MIT
+    description: 'Lightpanda: the headless browser designed for AI and automation'
+    license_spdx: AGPL-3.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T17:16:35Z'
+    pushed_at: '2026-09-14T04:18:15Z'
   content_lock:
-    locked_ref: 3e09b032a2f95fa520648f959f4ac9cdc7393350
-    locked_url: https://github.com/Enderfga/claw-orchestrator/commit/3e09b032a2f95fa520648f959f4ac9cdc7393350
+    locked_ref: 5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
+    locked_url: https://github.com/lightpanda-io/browser/commit/5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-17T15:56:10Z'
+- universe: agent
+  repo: HKUDS/CLI-Anything
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - python
+  source_url: https://github.com/HKUDS/CLI-Anything
+  visibility: public
+  archived: false
+  description: '"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: '"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/'
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-21T07:26:58Z'
+  content_lock:
+    locked_ref: 810c18b0d1ab9b234bc996c9fd999318523a3ef0
+    locked_url: https://github.com/HKUDS/CLI-Anything/commit/810c18b0d1ab9b234bc996c9fd999318523a3ef0
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-17T12:57:15Z'
+- universe: agent
+  repo: NoizAI/skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/NoizAI/skills
+  visibility: public
+  archived: false
+  description: Allow your 🦞 bot to Shout, Speak, with "human" vibe
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Allow your 🦞 bot to Shout, Speak, with "human" vibe
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-05-07T08:41:50Z'
+  content_lock:
+    locked_ref: 2a0e09d8cb9056e044c473dd53a136b81ba428e9
+    locked_url: https://github.com/NoizAI/skills/commit/2a0e09d8cb9056e044c473dd53a136b81ba428e9
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-07T12:46:42Z'
+- universe: agent
+  repo: mixedbread-ai/mgrep
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - image
+  - typescript
+  source_url: https://github.com/mixedbread-ai/mgrep
+  visibility: public
+  archived: false
+  description: A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-25T17:26:31Z'
+  content_lock:
+    locked_ref: 5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
+    locked_url: https://github.com/mixedbread-ai/mgrep/commit/5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-02-15T07:47:58Z'
+- universe: agent
+  repo: amantus-ai/vibetunnel
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - browser
+  - dashboard
+  - typescript
+  source_url: https://github.com/amantus-ai/vibetunnel
+  visibility: public
+  archived: false
+  description: Turn any browser into your terminal & command your agents on the go.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Turn any browser into your terminal & command your agents on the go.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-05T19:25:41Z'
+  content_lock:
+    locked_ref: f78324f5a6f5617711581cf5b119651094b2d9bc
+    locked_url: https://github.com/amantus-ai/vibetunnel/commit/f78324f5a6f5617711581cf5b119651094b2d9bc
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2025-08-16T15:39:23Z'
+- universe: agent
+  repo: garrytan/gbrain
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - typescript
+  source_url: https://github.com/garrytan/gbrain
+  visibility: public
+  archived: false
+  description: Garry's Opinionated OpenClaw/Hermes Agent Brain
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: Garry's Opinionated OpenClaw/Hermes Agent Brain
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T00:27:35Z'
+  content_lock:
+    locked_ref: a6be012a3bcfac42e279630aedec5cda4a450e29
+    locked_url: https://github.com/garrytan/gbrain/commit/a6be012a3bcfac42e279630aedec5cda4a450e29
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-12T04:11:58Z'
+- universe: agent
+  repo: BytePioneer-AI/codex-host
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - typescript
+  source_url: https://github.com/BytePioneer-AI/codex-host
+  visibility: public
+  archived: false
+  description: Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:03:05Z'
+  content_lock:
+    locked_ref: a67aed315f6bf8d734bcff637688fd89e9e938c0
+    locked_url: https://github.com/BytePioneer-AI/codex-host/commit/a67aed315f6bf8d734bcff637688fd89e9e938c0
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-01T01:54:07Z'
+- universe: agent
+  repo: deepseek-ai/deepseek-harness
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - skill
+  - typescript
+  source_url: https://github.com/deepseek-ai/deepseek-harness
+  visibility: public
+  archived: false
+  description: 'DeepSeek Harness: Everything is a Plugin.'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 'DeepSeek Harness: Everything is a Plugin.'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T03:06:25Z'
+  content_lock:
+    locked_ref: c291e7961a515f6d7af9304e7fd1d257929aef26
+    locked_url: https://github.com/deepseek-ai/deepseek-harness/commit/c291e7961a515f6d7af9304e7fd1d257929aef26
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-13T13:10:44Z'
+- universe: agent
+  repo: esengine/DeepSeek-Reasonix
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - dashboard
+  source_url: https://github.com/esengine/DeepSeek-Reasonix
+  visibility: public
+  archived: false
+  description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main-v2
+    visibility: public
+    archived: false
+    description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:16:57Z'
+  content_lock:
+    locked_ref: 7278072720a2dc7a31cce0eec18c1eacc149c0e0
+    locked_url: https://github.com/esengine/DeepSeek-Reasonix/commit/7278072720a2dc7a31cce0eec18c1eacc149c0e0
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-13T07:19:20Z'
+- universe: agent
+  repo: farion1231/cc-switch
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - product
+  - rust
+  source_url: https://github.com/farion1231/cc-switch
+  visibility: public
+  archived: false
+  description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes
+    Agent. Only official website: ccswitch.io'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes
+      Agent. Only official website: ccswitch.io'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T15:41:36Z'
+  content_lock:
+    locked_ref: bd247a4adb92adfee0f065f0bdaac9580cfc276a
+    locked_url: https://github.com/farion1231/cc-switch/commit/bd247a4adb92adfee0f065f0bdaac9580cfc276a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-13T04:35:39Z'
+- universe: agent
+  repo: lidge-jun/opencodex
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - api
+  - library
+  - product
+  - typescript
+  source_url: https://github.com/lidge-jun/opencodex
+  visibility: public
+  archived: false
+  description: Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…)
+    with Codex CLI, App, SDK, and Claude Code
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…)
+      with Codex CLI, App, SDK, and Claude Code
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:17:02Z'
+  content_lock:
+    locked_ref: 9f7397ed1582d95c6c1fcf4ae9951213b3fa2d19
+    locked_url: https://github.com/lidge-jun/opencodex/commit/9f7397ed1582d95c6c1fcf4ae9951213b3fa2d19
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-12T14:25:13Z'
+- universe: agent
+  repo: makecindy/cindy
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - typescript
+  source_url: https://github.com/makecindy/cindy
+  visibility: public
+  archived: false
+  description: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T03:17:34Z'
+  content_lock:
+    locked_ref: f4422f816ccbadbcd29714dc0722e581bb08e172
+    locked_url: https://github.com/makecindy/cindy/commit/f4422f816ccbadbcd29714dc0722e581bb08e172
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-28T04:34:25Z'
+- universe: agent
+  repo: code-yeongyu/lazycodex
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - memory
+  - typescript
+  - video
+  source_url: https://github.com/code-yeongyu/lazycodex
+  visibility: public
+  archived: false
+  description: The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion
+    inside Codex.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion
+      inside Codex.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T02:52:12Z'
+  content_lock:
+    locked_ref: e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
+    locked_url: https://github.com/code-yeongyu/lazycodex/commit/e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-11T06:29:26Z'
 - universe: agent
   repo: EverMind-AI/EverOS
   owned: false
@@ -298,20 +898,22 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-18T13:12:47Z'
 - universe: agent
-  repo: HD838A/remote-mic-app
+  repo: router-for-me/CLIProxyAPI
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: runtime-and-harness
   tags:
-  - product
-  source_url: https://github.com/HD838A/remote-mic-app
+  - api
+  source_url: https://github.com/router-for-me/CLIProxyAPI
   visibility: public
   archived: false
-  description: 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
+  description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service,
+    allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -319,208 +921,50 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备
-    license_spdx: GPL-3.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T03:21:01Z'
-  content_lock:
-    locked_ref: c8c065456b80f0e04675475e19f989e204dc889d
-    locked_url: https://github.com/HD838A/remote-mic-app/commit/c8c065456b80f0e04675475e19f989e204dc889d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: HKUDS/CLI-Anything
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - python
-  source_url: https://github.com/HKUDS/CLI-Anything
-  visibility: public
-  archived: false
-  description: '"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: '"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/'
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-21T07:26:58Z'
-  content_lock:
-    locked_ref: 810c18b0d1ab9b234bc996c9fd999318523a3ef0
-    locked_url: https://github.com/HKUDS/CLI-Anything/commit/810c18b0d1ab9b234bc996c9fd999318523a3ef0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: LearnPrompt/luban-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - shell
-  - skill
-  source_url: https://github.com/LearnPrompt/luban-skill
-  visibility: public
-  archived: false
-  description: '鲁班 | Luban — 把''能用的Skill''打磨成''能被装、能传播、能验证、能进化''的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: '鲁班 | Luban — 把''能用的Skill''打磨成''能被装、能传播、能验证、能进化''的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉'
+    description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API
+      service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-07-10T16:39:25Z'
+    pushed_at: '2026-09-14T05:08:27Z'
   content_lock:
-    locked_ref: cea2da3310273d77f92ca884d82beda554f9a6cb
-    locked_url: https://github.com/LearnPrompt/luban-skill/commit/cea2da3310273d77f92ca884d82beda554f9a6cb
+    locked_ref: 7fa443dc8bf8ca2f1ffd81c2472deb31b097b697
+    locked_url: https://github.com/router-for-me/CLIProxyAPI/commit/7fa443dc8bf8ca2f1ffd81c2472deb31b097b697
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-24T03:51:50Z'
 - universe: agent
-  repo: Leonxlnx/taste-skill
+  repo: AAAAAAAJ/WaytoAGI-CLI
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
+  primary_category: runtime-and-harness
   tags:
-  - javascript
-  - skill
-  source_url: https://github.com/Leonxlnx/taste-skill
-  visibility: public
-  archived: false
-  description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-24T15:23:56Z'
-  content_lock:
-    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: Martian-Engineering/lossless-claw
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - memory
-  - skill
   - typescript
-  source_url: https://github.com/Martian-Engineering/lossless-claw
+  source_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI
   visibility: public
   archived: false
-  description: Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
+  description: WaytoAGI-CLI
   status: EXPLORING
-  review_status: confirmed
-  review_reason: null
+  review_status: needs_review
+  review_reason: 'low-confidence: repository name indicates a general AGI/agent CLI; description is minimal.'
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T19:27:50Z'
-  content_lock:
-    locked_ref: a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
-    locked_url: https://github.com/Martian-Engineering/lossless-claw/commit/a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: Niall-Young/Canvasight
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/Niall-Young/Canvasight
-  visibility: public
-  archived: false
-  description: 用于梳理任务然后交付给 AI 工具的 plugin 插件
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 用于梳理任务然后交付给 AI 工具的 plugin 插件
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-27T08:57:27Z'
-  content_lock:
-    locked_ref: b4a002db9c4ff3af3388d12a50f632104493bfd7
-    locked_url: https://github.com/Niall-Young/Canvasight/commit/b4a002db9c4ff3af3388d12a50f632104493bfd7
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: NoizAI/skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/NoizAI/skills
-  visibility: public
-  archived: false
-  description: Allow your 🦞 bot to Shout, Speak, with "human" vibe
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Allow your 🦞 bot to Shout, Speak, with "human" vibe
+    description: WaytoAGI-CLI
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-05-07T08:41:50Z'
+    pushed_at: '2026-07-12T06:41:35Z'
   content_lock:
-    locked_ref: 2a0e09d8cb9056e044c473dd53a136b81ba428e9
-    locked_url: https://github.com/NoizAI/skills/commit/2a0e09d8cb9056e044c473dd53a136b81ba428e9
+    locked_ref: e145d1af49ec8c03ac329c6718932e207d4664cb
+    locked_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI/commit/e145d1af49ec8c03ac329c6718932e207d4664cb
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-16T14:06:19Z'
 - universe: agent
   repo: NousResearch/hermes-agent
   owned: false
@@ -553,22 +997,25 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-08T19:14:30Z'
 - universe: agent
-  repo: Panniantong/Agent-Reach
+  repo: agenticnotetaking/arscontexta
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: runtime-and-harness
   tags:
-  - api
-  - python
-  source_url: https://github.com/Panniantong/Agent-Reach
+  - memory
+  - product
+  - shell
+  - skill
+  source_url: https://github.com/agenticnotetaking/arscontexta
   visibility: public
   archived: false
-  description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,
-    XiaoHongShu — one CLI, zero API fees.
+  description: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you
+    think and work, have a conversation and get a complete second brain as markdown files you own.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -576,101 +1023,64 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili,
-      XiaoHongShu — one CLI, zero API fees.
+    description: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you
+      think and work, have a conversation and get a complete second brain as markdown files you own.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-01T08:09:58Z'
+    pushed_at: '2026-02-24T23:54:21Z'
   content_lock:
-    locked_ref: da5044d26fc6adddb6554d5679c94ac22e76e428
-    locked_url: https://github.com/Panniantong/Agent-Reach/commit/da5044d26fc6adddb6554d5679c94ac22e76e428
+    locked_ref: 2acfd5cc4473c4d06c46be63df748e77e00e2746
+    locked_url: https://github.com/agenticnotetaking/arscontexta/commit/2acfd5cc4473c4d06c46be63df748e77e00e2746
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-24T02:36:14Z'
 - universe: agent
-  repo: Pimzino/claude-code-spec-workflow
-  owned: false
+  repo: zinan92/agent-core
+  owned: true
   starred: true
-  source_kind: starred
+  source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: runtime-and-harness
   tags:
-  - image
-  - typescript
-  - workflow
-  source_url: https://github.com/Pimzino/claude-code-spec-workflow
+  - memory
+  - shell
+  - skill
+  source_url: https://github.com/zinan92/agent-core
   visibility: public
   archived: false
-  description: Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design
-    → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
-  status: EXPLORING
+  description: AI agent 操作系统内核 — architecture-first starter package，提供 onboarding、skills、SOPs、runtime specs、curated knowledge
+    五大原语
+  status: BUILDING
   review_status: confirmed
   review_reason: null
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design
-      → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
+    description: AI agent 操作系统内核 — architecture-first starter package，提供 onboarding、skills、SOPs、runtime specs、curated knowledge
+      五大原语
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2025-09-07T14:14:52Z'
-  content_lock:
-    locked_ref: f3de74d8055120658ac199bfca865a3e1de9fd99
-    locked_url: https://github.com/Pimzino/claude-code-spec-workflow/commit/f3de74d8055120658ac199bfca865a3e1de9fd99
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+    pushed_at: '2026-03-15T11:11:05Z'
+  catalog_added_at: '2026-03-12T09:11:33Z'
 - universe: agent
-  repo: SeemSeam/claude_codex_bridge
+  repo: volcengine/OpenViking
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: runtime-and-harness
   tags:
-  - orchestration
-  - python
-  source_url: https://github.com/SeemSeam/claude_codex_bridge
-  visibility: public
-  archived: false
-  description: Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode,
-    and other AI coding agents
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode,
-      and other AI coding agents
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-09T09:05:21Z'
-  content_lock:
-    locked_ref: 20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
-    locked_url: https://github.com/SeemSeam/claude_codex_bridge/commit/20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: SeemSeam/plan-tree
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
+  - memory
   - python
   - skill
-  source_url: https://github.com/SeemSeam/plan-tree
+  source_url: https://github.com/volcengine/OpenViking
   visibility: public
   archived: false
-  description: Codex skill for maintaining structured planning document trees
+  description: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -678,147 +1088,81 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Codex skill for maintaining structured planning document trees
+    description: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:48:59Z'
+  content_lock:
+    locked_ref: b54001e2e5c974ffd7a09ba543813fa104a99561
+    locked_url: https://github.com/volcengine/OpenViking/commit/b54001e2e5c974ffd7a09ba543813fa104a99561
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-02-17T09:55:54Z'
+- universe: agent
+  repo: code-yeongyu/oh-my-openagent
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: runtime-and-harness
+  tags:
+  - typescript
+  source_url: https://github.com/code-yeongyu/oh-my-openagent
+  visibility: public
+  archived: false
+  description: 'OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: dev
+    visibility: public
+    archived: false
+    description: 'OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.'
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-08-13T04:44:08Z'
+    pushed_at: '2026-09-14T05:19:55Z'
   content_lock:
-    locked_ref: b57be82610307fba9a1c266b6e7e2f35dd5b7e33
-    locked_url: https://github.com/SeemSeam/plan-tree/commit/b57be82610307fba9a1c266b6e7e2f35dd5b7e33
+    locked_ref: dd258670924870378ea5f0f4a7039d05f5a3a06a
+    locked_url: https://github.com/code-yeongyu/oh-my-openagent/commit/dd258670924870378ea5f0f4a7039d05f5a3a06a
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-02-14T03:51:05Z'
 - universe: agent
-  repo: SuperClaude-Org/SuperClaude_Framework
+  repo: anomalyco/opencode
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: runtime-and-harness
   tags:
-  - library
-  - python
-  source_url: https://github.com/SuperClaude-Org/SuperClaude_Framework
-  visibility: public
-  archived: false
-  description: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development
-    methodologies.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development
-      methodologies.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-21T04:13:47Z'
-  content_lock:
-    locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
-    locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: Untrivial-ai/agent-orchestrator
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - orchestration
-  source_url: https://github.com/Untrivial-ai/agent-orchestrator
-  visibility: public
-  archived: false
-  description: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more).
-    Desktop, web, mobile, and cloud agents.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more).
-      Desktop, web, mobile, and cloud agents.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:00:12Z'
-  content_lock:
-    locked_ref: 84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: Yeachan-Heo/oh-my-claudecode
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - orchestration
   - typescript
-  source_url: https://github.com/Yeachan-Heo/oh-my-claudecode
+  source_url: https://github.com/anomalyco/opencode
   visibility: public
   archived: false
-  description: Teams-first Multi-agent orchestration for Claude Code
+  description: The open source coding agent.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
-    default_branch: main
+    default_branch: dev
     visibility: public
     archived: false
-    description: Teams-first Multi-agent orchestration for Claude Code
+    description: The open source coding agent.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T03:45:59Z'
+    pushed_at: '2026-09-14T05:00:42Z'
   content_lock:
-    locked_ref: 5281b19e0d64f8e6dc6767f2130299a88af2dc71
-    locked_url: https://github.com/Yeachan-Heo/oh-my-claudecode/commit/5281b19e0d64f8e6dc6767f2130299a88af2dc71
+    locked_ref: df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
+    locked_url: https://github.com/anomalyco/opencode/commit/df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: agent
-  repo: YishenTu/claudian
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - skill
-  - typescript
-  source_url: https://github.com/YishenTu/claudian
-  visibility: public
-  archived: false
-  description: An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:38:39Z'
-  content_lock:
-    locked_ref: 2c07ee664439cb2b24bae6a7952f266e2968f24a
-    locked_url: https://github.com/YishenTu/claudian/commit/2c07ee664439cb2b24bae6a7952f266e2968f24a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+  catalog_added_at: '2026-02-14T03:29:58Z'
 - universe: agent
   repo: affaan-m/ECC
   owned: false
@@ -856,8 +1200,9 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-02-14T02:19:53Z'
 - universe: agent
-  repo: agenticnotetaking/arscontexta
+  repo: openclaw/openclaw
   owned: false
   starred: true
   source_kind: starred
@@ -865,15 +1210,12 @@ entries:
   registry_role: null
   primary_category: runtime-and-harness
   tags:
-  - memory
   - product
-  - shell
-  - skill
-  source_url: https://github.com/agenticnotetaking/arscontexta
+  - typescript
+  source_url: https://github.com/openclaw/openclaw
   visibility: public
   archived: false
-  description: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you
-    think and work, have a conversation and get a complete second brain as markdown files you own.
+  description: 'The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 '
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -881,242 +1223,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you
-      think and work, have a conversation and get a complete second brain as markdown files you own.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-02-24T23:54:21Z'
-  content_lock:
-    locked_ref: 2acfd5cc4473c4d06c46be63df748e77e00e2746
-    locked_url: https://github.com/agenticnotetaking/arscontexta/commit/2acfd5cc4473c4d06c46be63df748e77e00e2746
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: alchaincyf/darwin-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - research
-  - skill
-  source_url: https://github.com/alchaincyf/darwin-skill
-  visibility: public
-  archived: false
-  description: 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude
-    Code. Evaluate, improve, test, keep or revert.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude
-      Code. Evaluate, improve, test, keep or revert.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-25T03:01:10Z'
-  content_lock:
-    locked_ref: 5539516444cff4eed7865daf61a707590acda485
-    locked_url: https://github.com/alchaincyf/darwin-skill/commit/5539516444cff4eed7865daf61a707590acda485
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: alchaincyf/hermes-agent-orange-book
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - python
-  - research
-  source_url: https://github.com/alchaincyf/hermes-agent-orange-book
-  visibility: public
-  archived: false
-  description: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+    description: 'The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 '
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-08-23T14:21:45Z'
+    pushed_at: '2026-09-14T05:20:19Z'
   content_lock:
-    locked_ref: 9ac06e1d05373c3b8b6d49751e8a59c1475f9867
-    locked_url: https://github.com/alchaincyf/hermes-agent-orange-book/commit/9ac06e1d05373c3b8b6d49751e8a59c1475f9867
+    locked_ref: bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
+    locked_url: https://github.com/openclaw/openclaw/commit/bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: agent
-  repo: amantus-ai/vibetunnel
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - dashboard
-  - typescript
-  source_url: https://github.com/amantus-ai/vibetunnel
-  visibility: public
-  archived: false
-  description: Turn any browser into your terminal & command your agents on the go.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Turn any browser into your terminal & command your agents on the go.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-05T19:25:41Z'
-  content_lock:
-    locked_ref: f78324f5a6f5617711581cf5b119651094b2d9bc
-    locked_url: https://github.com/amantus-ai/vibetunnel/commit/f78324f5a6f5617711581cf5b119651094b2d9bc
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: anomalyco/opencode
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - typescript
-  source_url: https://github.com/anomalyco/opencode
-  visibility: public
-  archived: false
-  description: The open source coding agent.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: dev
-    visibility: public
-    archived: false
-    description: The open source coding agent.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:00:42Z'
-  content_lock:
-    locked_ref: df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
-    locked_url: https://github.com/anomalyco/opencode/commit/df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: anthropics/claude-cookbooks
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - collection
-  source_url: https://github.com/anthropics/claude-cookbooks
-  visibility: public
-  archived: false
-  description: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-03T22:18:29Z'
-  content_lock:
-    locked_ref: a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
-    locked_url: https://github.com/anthropics/claude-cookbooks/commit/a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: anthropics/skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - python
-  - skill
-  source_url: https://github.com/anthropics/skills
-  visibility: public
-  archived: false
-  description: Public repository for Agent Skills
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Public repository for Agent Skills
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T19:44:11Z'
-  content_lock:
-    locked_ref: 34040c9c568585f6929bedeaad110ad08f079624
-    locked_url: https://github.com/anthropics/skills/commit/34040c9c568585f6929bedeaad110ad08f079624
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: birobirobiro/awesome-shadcn-ui
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - collection
-  - typescript
-  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
-  visibility: public
-  archived: false
-  description: A curated list of awesome things related to shadcn/ui.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A curated list of awesome things related to shadcn/ui.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T03:21:53Z'
-  content_lock:
-    locked_ref: 395573307d792e48d6dd319cc7f17a89f37b36bf
-    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/395573307d792e48d6dd319cc7f17a89f37b36bf
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+  catalog_added_at: '2026-01-25T14:24:52Z'
 - universe: agent
   repo: botiverse/hands
   owned: false
@@ -1151,6 +1268,293 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-09-02T09:51:15Z'
+- universe: agent
+  repo: SeemSeam/claude_codex_bridge
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - orchestration
+  - python
+  source_url: https://github.com/SeemSeam/claude_codex_bridge
+  visibility: public
+  archived: false
+  description: Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode,
+    and other AI coding agents
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode,
+      and other AI coding agents
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-09T09:05:21Z'
+  content_lock:
+    locked_ref: 20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
+    locked_url: https://github.com/SeemSeam/claude_codex_bridge/commit/20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-02T06:32:27Z'
+- universe: agent
+  repo: SeemSeam/plan-tree
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/SeemSeam/plan-tree
+  visibility: public
+  archived: false
+  description: Codex skill for maintaining structured planning document trees
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Codex skill for maintaining structured planning document trees
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-13T04:44:08Z'
+  content_lock:
+    locked_ref: b57be82610307fba9a1c266b6e7e2f35dd5b7e33
+    locked_url: https://github.com/SeemSeam/plan-tree/commit/b57be82610307fba9a1c266b6e7e2f35dd5b7e33
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-02T06:32:15Z'
+- universe: agent
+  repo: mattpocock/skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - shell
+  - skill
+  source_url: https://github.com/mattpocock/skills
+  visibility: public
+  archived: false
+  description: Skills for Real Engineers. Straight from my .agents directory.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Skills for Real Engineers. Straight from my .agents directory.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-04T08:45:43Z'
+  content_lock:
+    locked_ref: 3cca18b368ae95cdbdebbff572ccafa662551015
+    locked_url: https://github.com/mattpocock/skills/commit/3cca18b368ae95cdbdebbff572ccafa662551015
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-17T08:20:06Z'
+- universe: agent
+  repo: zinan92/wechat-miniprogram-shipping
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - python
+  source_url: https://github.com/zinan92/wechat-miniprogram-shipping
+  visibility: public
+  archived: false
+  description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T11:35:32Z'
+  catalog_added_at: '2026-08-14T04:15:48Z'
+- universe: agent
+  repo: huangruiteng/loopx
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - python
+  source_url: https://github.com/huangruiteng/loopx
+  visibility: public
+  archived: false
+  description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:18:52Z'
+  content_lock:
+    locked_ref: f87b5ea90e5313ce19ce75a849dd259e7c5aa250
+    locked_url: https://github.com/huangruiteng/loopx/commit/f87b5ea90e5313ce19ce75a849dd259e7c5aa250
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-03T03:24:57Z'
+- universe: agent
+  repo: chenjin-cmd/wechat-miniprogram-builder
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags: []
+  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
+  visibility: public
+  archived: false
+  description: wechat-miniprogram-builder
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: wechat-miniprogram-builder
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-01T15:58:29Z'
+  content_lock:
+    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-02T07:47:20Z'
+- universe: agent
+  repo: multica-ai/multica
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags: []
+  source_url: https://github.com/multica-ai/multica
+  visibility: public
+  archived: false
+  description: Make humans and AI agents work as one team — open-source and self-hostable.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Make humans and AI agents work as one team — open-source and self-hostable.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:57:24Z'
+  content_lock:
+    locked_ref: 7dafc0cd625425b91e698a5f6e555a37a1846e68
+    locked_url: https://github.com/multica-ai/multica/commit/7dafc0cd625425b91e698a5f6e555a37a1846e68
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-12T11:53:01Z'
+- universe: agent
+  repo: zinan92/loop
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - python
+  source_url: https://github.com/zinan92/loop
+  visibility: public
+  archived: false
+  description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
+    local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
+      local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-22T08:22:49Z'
+  catalog_added_at: '2026-06-15T13:56:47Z'
+- universe: agent
+  repo: phuryn/pm-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - image
+  - research
+  - skill
+  - video
+  source_url: https://github.com/phuryn/pm-skills
+  visibility: public
+  archived: false
+  description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
+    launch, and growth.'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
+      launch, and growth.'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-03T11:34:49Z'
+  content_lock:
+    locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
+    locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-11T10:44:00Z'
 - universe: agent
   repo: catlog22/Claude-Code-Workflow
   owned: false
@@ -1190,21 +1594,54 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-06-08T06:06:30Z'
 - universe: agent
-  repo: cclank/lanshu-animated-architecture-diagram
+  repo: open-gsd/gsd-core
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: observability
+  primary_category: workflow
   tags:
-  - python
-  - skill
-  source_url: https://github.com/cclank/lanshu-animated-architecture-diagram
+  - javascript
+  source_url: https://github.com/open-gsd/gsd-core
   visibility: public
   archived: false
-  description: Premium hand-drawn animated architecture diagram Codex skill
+  description: Git. Ship. Done - Core
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: next
+    visibility: public
+    archived: false
+    description: Git. Ship. Done - Core
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:58:39Z'
+  content_lock:
+    locked_ref: ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
+    locked_url: https://github.com/open-gsd/gsd-core/commit/ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-04T08:11:40Z'
+- universe: agent
+  repo: msitarzewski/agency-agents
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - shell
+  source_url: https://github.com/msitarzewski/agency-agents
+  visibility: public
+  archived: false
+  description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors
+    to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1212,16 +1649,287 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Premium hand-drawn animated architecture diagram Codex skill
+    description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors
+      to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-03T01:31:53Z'
+    pushed_at: '2026-09-12T16:57:21Z'
   content_lock:
-    locked_ref: c17f5b4e5de99d3603b364530ad04d930d038d24
-    locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/c17f5b4e5de99d3603b364530ad04d930d038d24
+    locked_ref: ad9264e309bd5e5422c04784372d7841b1e5d604
+    locked_url: https://github.com/msitarzewski/agency-agents/commit/ad9264e309bd5e5422c04784372d7841b1e5d604
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-19T06:19:58Z'
+- universe: agent
+  repo: Enderfga/claw-orchestrator
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - api
+  - orchestration
+  - typescript
+  source_url: https://github.com/Enderfga/claw-orchestrator
+  visibility: public
+  archived: false
+  description: Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent
+    councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can drive.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Run Claude Code, Codex, Antigravity, Cursor Agent and OpenCode as one runtime — persistent sessions, multi-agent
+      councils, an OpenAI-compatible endpoint, an MCP server, and an ACP agent any editor can drive.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T17:16:35Z'
+  content_lock:
+    locked_ref: 3e09b032a2f95fa520648f959f4ac9cdc7393350
+    locked_url: https://github.com/Enderfga/claw-orchestrator/commit/3e09b032a2f95fa520648f959f4ac9cdc7393350
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-17T05:31:53Z'
+- universe: agent
+  repo: openai/evals
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - library
+  - product
+  - python
+  source_url: https://github.com/openai/evals
+  visibility: public
+  archived: false
+  description: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-04-14T15:29:57Z'
+  content_lock:
+    locked_ref: 8eac7a7de5215c907fbddc30efdaf316913eccdd
+    locked_url: https://github.com/openai/evals/commit/8eac7a7de5215c907fbddc30efdaf316913eccdd
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-04-13T13:39:27Z'
+- universe: agent
+  repo: garrytan/gstack
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - image
+  - typescript
+  source_url: https://github.com/garrytan/gstack
+  visibility: public
+  archived: false
+  description: 'Use Garry Tan''s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release
+    Manager, Doc Engineer, and QA'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Use Garry Tan''s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager,
+      Release Manager, Doc Engineer, and QA'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T19:40:16Z'
+  content_lock:
+    locked_ref: 71f6048e8ada25180e61438abc1d98cb151fe9a7
+    locked_url: https://github.com/garrytan/gstack/commit/71f6048e8ada25180e61438abc1d98cb151fe9a7
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-29T09:39:36Z'
+- universe: agent
+  repo: karpathy/autoresearch
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - python
+  - research
+  source_url: https://github.com/karpathy/autoresearch
+  visibility: public
+  archived: false
+  description: AI agents running research on single-GPU nanochat training automatically
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: AI agents running research on single-GPU nanochat training automatically
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-26T00:07:37Z'
+  content_lock:
+    locked_ref: 228791fb499afffb54b46200aca536f79142f117
+    locked_url: https://github.com/karpathy/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-26T05:36:18Z'
+- universe: agent
+  repo: zinan92/doc-driven-dev-workflow
+  owned: true
+  starred: true
+  source_kind: owned_and_starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - dashboard
+  - typescript
+  - workflow
+  source_url: https://github.com/zinan92/doc-driven-dev-workflow
+  visibility: public
+  archived: false
+  description: 5-phase / 22-stage 的 AI-native 文档驱动开发 workflow，内置 task scaffolding、workflow guards、state/event writer scripts
+    与 local-first observer dashboard。
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 5-phase / 22-stage 的 AI-native 文档驱动开发 workflow，内置 task scaffolding、workflow guards、state/event writer scripts
+      与 local-first observer dashboard。
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-27T10:51:11Z'
+  catalog_added_at: '2026-03-15T14:36:06Z'
+- universe: agent
+  repo: openai/symphony
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags: []
+  source_url: https://github.com/openai/symphony
+  visibility: public
+  archived: false
+  description: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead
+    of supervising coding agents.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work
+      instead of supervising coding agents.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-09T21:52:09Z'
+  content_lock:
+    locked_ref: e0ccc83720a42a600a53b61c5f8d3e518bebe1db
+    locked_url: https://github.com/openai/symphony/commit/e0ccc83720a42a600a53b61c5f8d3e518bebe1db
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-13T11:32:54Z'
+- universe: agent
+  repo: paperclipai/paperclip
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - paper-trading
+  - product
+  - typescript
+  source_url: https://github.com/paperclipai/paperclip
+  visibility: public
+  archived: false
+  description: The open-source app everyone uses to manage agents at work
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: The open-source app everyone uses to manage agents at work
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T01:42:28Z'
+  content_lock:
+    locked_ref: 13368c518303e886a5c9445fbc69afcbdf0a9228
+    locked_url: https://github.com/paperclipai/paperclip/commit/13368c518303e886a5c9445fbc69afcbdf0a9228
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-13T10:35:12Z'
+- universe: agent
+  repo: Untrivial-ai/agent-orchestrator
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: workflow
+  tags:
+  - orchestration
+  source_url: https://github.com/Untrivial-ai/agent-orchestrator
+  visibility: public
+  archived: false
+  description: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more).
+    Desktop, web, mobile, and cloud agents.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more).
+      Desktop, web, mobile, and cloud agents.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:00:12Z'
+  content_lock:
+    locked_ref: 84fb98e3f14e8833f0df4481e7c9af620d42297a
+    locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/84fb98e3f14e8833f0df4481e7c9af620d42297a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-02T03:09:29Z'
 - universe: agent
   repo: cft0808/edict
   owned: false
@@ -1258,19 +1966,22 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-02T02:49:04Z'
 - universe: agent
-  repo: chenjin-cmd/wechat-miniprogram-builder
+  repo: Yeachan-Heo/oh-my-claudecode
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
   primary_category: workflow
-  tags: []
-  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
+  tags:
+  - orchestration
+  - typescript
+  source_url: https://github.com/Yeachan-Heo/oh-my-claudecode
   visibility: public
   archived: false
-  description: wechat-miniprogram-builder
+  description: Teams-first Multi-agent orchestration for Claude Code
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1278,198 +1989,33 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: wechat-miniprogram-builder
+    description: Teams-first Multi-agent orchestration for Claude Code
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-08-01T15:58:29Z'
+    pushed_at: '2026-09-14T03:45:59Z'
   content_lock:
-    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_ref: 5281b19e0d64f8e6dc6767f2130299a88af2dc71
+    locked_url: https://github.com/Yeachan-Heo/oh-my-claudecode/commit/5281b19e0d64f8e6dc6767f2130299a88af2dc71
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-02-23T14:13:55Z'
 - universe: agent
-  repo: chuspeeism/dashi-taskboard
+  repo: obra/superpowers
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: observability
+  primary_category: workflow
   tags:
-  - javascript
-  source_url: https://github.com/chuspeeism/dashi-taskboard
-  visibility: public
-  archived: false
-  description: 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-08T11:09:20Z'
-  content_lock:
-    locked_ref: c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
-    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: citrolabs/ego-lite
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - javascript
-  - workflow
-  source_url: https://github.com/citrolabs/ego-lite
-  visibility: public
-  archived: false
-  description: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state
-    with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state
-      with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T13:04:10Z'
-  content_lock:
-    locked_ref: d01be93325c7ea59d41c2ca9f4c59b58b4be4046
-    locked_url: https://github.com/citrolabs/ego-lite/commit/d01be93325c7ea59d41c2ca9f4c59b58b4be4046
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: code-yeongyu/lazycodex
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - memory
-  - typescript
-  - video
-  source_url: https://github.com/code-yeongyu/lazycodex
-  visibility: public
-  archived: false
-  description: The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion
-    inside Codex.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion
-      inside Codex.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T02:52:12Z'
-  content_lock:
-    locked_ref: e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
-    locked_url: https://github.com/code-yeongyu/lazycodex/commit/e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: code-yeongyu/oh-my-openagent
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - typescript
-  source_url: https://github.com/code-yeongyu/oh-my-openagent
-  visibility: public
-  archived: false
-  description: 'OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: dev
-    visibility: public
-    archived: false
-    description: 'OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.'
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:19:55Z'
-  content_lock:
-    locked_ref: dd258670924870378ea5f0f4a7039d05f5a3a06a
-    locked_url: https://github.com/code-yeongyu/oh-my-openagent/commit/dd258670924870378ea5f0f4a7039d05f5a3a06a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: coze-dev/coze-studio
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - product
-  - typescript
-  source_url: https://github.com/coze-dev/coze-studio
-  visibility: public
-  archived: false
-  description: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment
-    like never before. Coze your way to AI Agent creation.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and
-      deployment like never before. Coze your way to AI Agent creation.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-29T03:18:43Z'
-  content_lock:
-    locked_ref: fefb05ff27be1da939612fbf9faf5db62583b8ae
-    locked_url: https://github.com/coze-dev/coze-studio/commit/fefb05ff27be1da939612fbf9faf5db62583b8ae
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: czlonkowski/n8n-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
+  - library
   - shell
   - skill
-  - workflow
-  source_url: https://github.com/czlonkowski/n8n-skills
+  source_url: https://github.com/obra/superpowers
   visibility: public
   archived: false
-  description: n8n skillset for Claude Code to build flawless n8n workflows
+  description: An agentic skills framework & software development methodology that works.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1477,145 +2023,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: n8n skillset for Claude Code to build flawless n8n workflows
+    description: An agentic skills framework & software development methodology that works.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-03T12:01:31Z'
+    pushed_at: '2026-09-12T00:16:38Z'
   content_lock:
-    locked_ref: 2df0f18cb52050d5b517654cc69544831aa2593c
-    locked_url: https://github.com/czlonkowski/n8n-skills/commit/2df0f18cb52050d5b517654cc69544831aa2593c
+    locked_ref: b36e0829c6d0140e93cfef2ca599b1b07d4a7797
+    locked_url: https://github.com/obra/superpowers/commit/b36e0829c6d0140e93cfef2ca599b1b07d4a7797
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- universe: agent
-  repo: deepseek-ai/deepseek-harness
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - skill
-  - typescript
-  source_url: https://github.com/deepseek-ai/deepseek-harness
-  visibility: public
-  archived: false
-  description: 'DeepSeek Harness: Everything is a Plugin.'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: 'DeepSeek Harness: Everything is a Plugin.'
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T03:06:25Z'
-  content_lock:
-    locked_ref: c291e7961a515f6d7af9304e7fd1d257929aef26
-    locked_url: https://github.com/deepseek-ai/deepseek-harness/commit/c291e7961a515f6d7af9304e7fd1d257929aef26
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: esengine/DeepSeek-Reasonix
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - dashboard
-  source_url: https://github.com/esengine/DeepSeek-Reasonix
-  visibility: public
-  archived: false
-  description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main-v2
-    visibility: public
-    archived: false
-    description: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:16:57Z'
-  content_lock:
-    locked_ref: 7278072720a2dc7a31cce0eec18c1eacc149c0e0
-    locked_url: https://github.com/esengine/DeepSeek-Reasonix/commit/7278072720a2dc7a31cce0eec18c1eacc149c0e0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: eze-is/web-access
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - javascript
-  - skill
-  source_url: https://github.com/eze-is/web-access
-  visibility: public
-  archived: false
-  description: 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-19T01:36:35Z'
-  content_lock:
-    locked_ref: 33eef84a55b1919396a80e7a55650a07bb83f590
-    locked_url: https://github.com/eze-is/web-access/commit/33eef84a55b1919396a80e7a55650a07bb83f590
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: farion1231/cc-switch
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - product
-  - rust
-  source_url: https://github.com/farion1231/cc-switch
-  visibility: public
-  archived: false
-  description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes
-    Agent. Only official website: ccswitch.io'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes
-      Agent. Only official website: ccswitch.io'
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T15:41:36Z'
-  content_lock:
-    locked_ref: bd247a4adb92adfee0f065f0bdaac9580cfc276a
-    locked_url: https://github.com/farion1231/cc-switch/commit/bd247a4adb92adfee0f065f0bdaac9580cfc276a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+  catalog_added_at: '2026-02-14T01:15:51Z'
 - universe: agent
   repo: frankbria/ralph-claude-code
   owned: false
@@ -1647,103 +2065,9 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-01-12T10:31:18Z'
 - universe: agent
-  repo: freestylefly/CodexGuide
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - typescript
-  source_url: https://github.com/freestylefly/CodexGuide
-  visibility: public
-  archived: false
-  description: CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T14:52:16Z'
-  content_lock:
-    locked_ref: 02d7b779d74fca29fd1e24cbede5233e436c9958
-    locked_url: https://github.com/freestylefly/CodexGuide/commit/02d7b779d74fca29fd1e24cbede5233e436c9958
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: furkankly/zoetrope
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - browser
-  - dashboard
-  - rust
-  source_url: https://github.com/furkankly/zoetrope
-  visibility: public
-  archived: false
-  description: Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T09:23:45Z'
-  content_lock:
-    locked_ref: b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
-    locked_url: https://github.com/furkankly/zoetrope/commit/b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: garrytan/gbrain
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - typescript
-  source_url: https://github.com/garrytan/gbrain
-  visibility: public
-  archived: false
-  description: Garry's Opinionated OpenClaw/Hermes Agent Brain
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: Garry's Opinionated OpenClaw/Hermes Agent Brain
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T00:27:35Z'
-  content_lock:
-    locked_ref: a6be012a3bcfac42e279630aedec5cda4a450e29
-    locked_url: https://github.com/garrytan/gbrain/commit/a6be012a3bcfac42e279630aedec5cda4a450e29
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: garrytan/gstack
+  repo: Pimzino/claude-code-spec-workflow
   owned: false
   starred: true
   source_kind: starred
@@ -1753,11 +2077,12 @@ entries:
   tags:
   - image
   - typescript
-  source_url: https://github.com/garrytan/gstack
+  - workflow
+  source_url: https://github.com/Pimzino/claude-code-spec-workflow
   visibility: public
   archived: false
-  description: 'Use Garry Tan''s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release
-    Manager, Doc Engineer, and QA'
+  description: Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design
+    → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1765,84 +2090,20 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 'Use Garry Tan''s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager,
-      Release Manager, Doc Engineer, and QA'
+    description: Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design
+      → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify).
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-11T19:40:16Z'
+    pushed_at: '2025-09-07T14:14:52Z'
   content_lock:
-    locked_ref: 71f6048e8ada25180e61438abc1d98cb151fe9a7
-    locked_url: https://github.com/garrytan/gstack/commit/71f6048e8ada25180e61438abc1d98cb151fe9a7
+    locked_ref: f3de74d8055120658ac199bfca865a3e1de9fd99
+    locked_url: https://github.com/Pimzino/claude-code-spec-workflow/commit/f3de74d8055120658ac199bfca865a3e1de9fd99
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2025-09-02T15:08:14Z'
 - universe: agent
-  repo: grp06/openclaw-studio
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - dashboard
-  - typescript
-  source_url: https://github.com/grp06/openclaw-studio
-  visibility: public
-  archived: false
-  description: A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like
-    it!
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you
-      like it!
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-06-26T00:06:05Z'
-  content_lock:
-    locked_ref: 732b994120bbe34c0ce5711b074207cbd8b97d52
-    locked_url: https://github.com/grp06/openclaw-studio/commit/732b994120bbe34c0ce5711b074207cbd8b97d52
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: hangsman/claude-code-source
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - typescript
-  source_url: https://github.com/hangsman/claude-code-source
-  visibility: public
-  archived: false
-  description: claude code source map v2.1.88
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: claude code source map v2.1.88
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-31T08:39:37Z'
-  content_lock:
-    locked_ref: d239e3f2c574b527f9f8691375525029edb3752d
-    locked_url: https://github.com/hangsman/claude-code-source/commit/d239e3f2c574b527f9f8691375525029edb3752d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: huangruiteng/loopx
+  repo: ruvnet/ruflo
   owned: false
   starred: true
   source_kind: starred
@@ -1850,11 +2111,17 @@ entries:
   registry_role: null
   primary_category: workflow
   tags:
-  - python
-  source_url: https://github.com/huangruiteng/loopx
+  - memory
+  - orchestration
+  - product
+  - typescript
+  - workflow
+  source_url: https://github.com/ruvnet/ruflo
   visibility: public
   archived: false
-  description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+  description: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and
+    build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration,
+    and native Claude Code / Codex / Hermes and many more Integrated
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1862,50 +2129,21 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
-    license_spdx: Apache-2.0
+    description: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and
+      build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration,
+      and native Claude Code / Codex / Hermes and many more Integrated
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:18:52Z'
+    pushed_at: '2026-09-14T03:42:37Z'
   content_lock:
-    locked_ref: f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_url: https://github.com/huangruiteng/loopx/commit/f87b5ea90e5313ce19ce75a849dd259e7c5aa250
+    locked_ref: b02c0cacec225deea01f586b66a9694393369432
+    locked_url: https://github.com/ruvnet/ruflo/commit/b02c0cacec225deea01f586b66a9694393369432
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2025-08-22T02:41:31Z'
 - universe: agent
-  repo: jackwener/OpenCLI
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - javascript
-  source_url: https://github.com/jackwener/OpenCLI
-  visibility: public
-  archived: false
-  description: 'Make Any Website into CLI & Use your logged-in browser by AI agent. '
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Make Any Website into CLI & Use your logged-in browser by AI agent. '
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-30T17:36:26Z'
-  content_lock:
-    locked_ref: 8271afc67e8504bda94c147f446ee29775d08274
-    locked_url: https://github.com/jackwener/OpenCLI/commit/8271afc67e8504bda94c147f446ee29775d08274
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: karpathy/autoresearch
+  repo: nizos/tdd-guard
   owned: false
   starred: true
   source_kind: starred
@@ -1913,43 +2151,11 @@ entries:
   registry_role: null
   primary_category: workflow
   tags:
-  - python
-  - research
-  source_url: https://github.com/karpathy/autoresearch
+  - typescript
+  source_url: https://github.com/nizos/tdd-guard
   visibility: public
   archived: false
-  description: AI agents running research on single-GPU nanochat training automatically
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: AI agents running research on single-GPU nanochat training automatically
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-26T00:07:37Z'
-  content_lock:
-    locked_ref: 228791fb499afffb54b46200aca536f79142f117
-    locked_url: https://github.com/karpathy/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: kenn-io/agentsview
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags: []
-  source_url: https://github.com/kenn-io/agentsview
-  visibility: public
-  archived: false
-  description: 'Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude
-    Code, Codex, and more than 20 other agents. '
+  description: Automated TDD enforcement for Claude Code
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1957,329 +2163,33 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 'Local-first session search, analytics, insights, and token use statistics for coding agents, supporting
-      Claude Code, Codex, and more than 20 other agents. '
+    description: Automated TDD enforcement for Claude Code
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T02:32:59Z'
+    pushed_at: '2026-09-07T08:52:13Z'
   content_lock:
-    locked_ref: 9be7745ad1906ee24e04eb05bb86c872ef0939a1
-    locked_url: https://github.com/kenn-io/agentsview/commit/9be7745ad1906ee24e04eb05bb86c872ef0939a1
+    locked_ref: fa4fa79551c279ffae68fd108b23be7b17082ab0
+    locked_url: https://github.com/nizos/tdd-guard/commit/fa4fa79551c279ffae68fd108b23be7b17082ab0
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2025-07-30T04:03:49Z'
 - universe: agent
-  repo: larksuite/cli
+  repo: SuperClaude-Org/SuperClaude_Framework
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: workflow
   tags:
-  - image
-  - skill
-  source_url: https://github.com/larksuite/cli
-  visibility: public
-  archived: false
-  description: The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core
-    business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands
-    and 20+ AI Agent Skills.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers
-      core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+
-      commands and 20+ AI Agent Skills.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:14:36Z'
-  content_lock:
-    locked_ref: 39aaf9fca0e08825b51f6d8c6c617bf781db761b
-    locked_url: https://github.com/larksuite/cli/commit/39aaf9fca0e08825b51f6d8c6c617bf781db761b
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: libukai/awesome-agent-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - collection
-  - skill
-  source_url: https://github.com/libukai/awesome-agent-skills
-  visibility: public
-  archived: false
-  description: 'Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit'
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-04T01:35:58Z'
-  content_lock:
-    locked_ref: 5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
-    locked_url: https://github.com/libukai/awesome-agent-skills/commit/5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: lidge-jun/opencodex
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - api
   - library
-  - product
-  - typescript
-  source_url: https://github.com/lidge-jun/opencodex
+  - python
+  source_url: https://github.com/SuperClaude-Org/SuperClaude_Framework
   visibility: public
   archived: false
-  description: Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…)
-    with Codex CLI, App, SDK, and Claude Code
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…)
-      with Codex CLI, App, SDK, and Claude Code
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:17:02Z'
-  content_lock:
-    locked_ref: 9f7397ed1582d95c6c1fcf4ae9951213b3fa2d19
-    locked_url: https://github.com/lidge-jun/opencodex/commit/9f7397ed1582d95c6c1fcf4ae9951213b3fa2d19
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: lightpanda-io/browser
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - image
-  - workflow
-  source_url: https://github.com/lightpanda-io/browser
-  visibility: public
-  archived: false
-  description: 'Lightpanda: the headless browser designed for AI and automation'
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Lightpanda: the headless browser designed for AI and automation'
-    license_spdx: AGPL-3.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:18:15Z'
-  content_lock:
-    locked_ref: 5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
-    locked_url: https://github.com/lightpanda-io/browser/commit/5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: makecindy/cindy
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - typescript
-  source_url: https://github.com/makecindy/cindy
-  visibility: public
-  archived: false
-  description: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T03:17:34Z'
-  content_lock:
-    locked_ref: f4422f816ccbadbcd29714dc0722e581bb08e172
-    locked_url: https://github.com/makecindy/cindy/commit/f4422f816ccbadbcd29714dc0722e581bb08e172
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: mattpocock/skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - shell
-  - skill
-  source_url: https://github.com/mattpocock/skills
-  visibility: public
-  archived: false
-  description: Skills for Real Engineers. Straight from my .agents directory.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Skills for Real Engineers. Straight from my .agents directory.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-04T08:45:43Z'
-  content_lock:
-    locked_ref: 3cca18b368ae95cdbdebbff572ccafa662551015
-    locked_url: https://github.com/mattpocock/skills/commit/3cca18b368ae95cdbdebbff572ccafa662551015
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: mixedbread-ai/mgrep
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - image
-  - typescript
-  source_url: https://github.com/mixedbread-ai/mgrep
-  visibility: public
-  archived: false
-  description: A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-25T17:26:31Z'
-  content_lock:
-    locked_ref: 5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
-    locked_url: https://github.com/mixedbread-ai/mgrep/commit/5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: msitarzewski/agency-agents
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - shell
-  source_url: https://github.com/msitarzewski/agency-agents
-  visibility: public
-  archived: false
-  description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors
-    to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors
-      to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T16:57:21Z'
-  content_lock:
-    locked_ref: ad9264e309bd5e5422c04784372d7841b1e5d604
-    locked_url: https://github.com/msitarzewski/agency-agents/commit/ad9264e309bd5e5422c04784372d7841b1e5d604
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: multica-ai/multica
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags: []
-  source_url: https://github.com/multica-ai/multica
-  visibility: public
-  archived: false
-  description: Make humans and AI agents work as one team — open-source and self-hostable.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Make humans and AI agents work as one team — open-source and self-hostable.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:57:24Z'
-  content_lock:
-    locked_ref: 7dafc0cd625425b91e698a5f6e555a37a1846e68
-    locked_url: https://github.com/multica-ai/multica/commit/7dafc0cd625425b91e698a5f6e555a37a1846e68
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: n8n-io/n8n
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - product
-  - typescript
-  - workflow
-  source_url: https://github.com/n8n-io/n8n
-  visibility: public
-  archived: false
-  description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
-    self-host or cloud, 400+ integrations.
+  description: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development
+    methodologies.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -2287,51 +2197,18 @@ entries:
     default_branch: master
     visibility: public
     archived: false
-    description: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code,
-      self-host or cloud, 400+ integrations.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T03:05:06Z'
-  content_lock:
-    locked_ref: aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
-    locked_url: https://github.com/n8n-io/n8n/commit/aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: nextlevelbuilder/ui-ux-pro-max-skill
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - image
-  - product
-  - python
-  - skill
-  source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-  visibility: public
-  archived: false
-  description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+    description: A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development
+      methodologies.
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-10T06:53:40Z'
+    pushed_at: '2026-08-21T04:13:47Z'
   content_lock:
-    locked_ref: 7f69fed6a2717900085f1bc3b263721f8ba025e2
-    locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/7f69fed6a2717900085f1bc3b263721f8ba025e2
+    locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
+    locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2025-07-10T06:58:00Z'
 - universe: agent
   repo: nexu-io/html-anything
   owned: false
@@ -2368,6 +2245,176 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-07-10T15:49:00Z'
+- universe: agent
+  repo: nextlevelbuilder/ui-ux-pro-max-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  tags:
+  - image
+  - product
+  - python
+  - skill
+  source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+  visibility: public
+  archived: false
+  description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-10T06:53:40Z'
+  content_lock:
+    locked_ref: 7f69fed6a2717900085f1bc3b263721f8ba025e2
+    locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/7f69fed6a2717900085f1bc3b263721f8ba025e2
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-29T14:06:22Z'
+- universe: agent
+  repo: pbakaus/impeccable
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  tags:
+  - image
+  - javascript
+  source_url: https://github.com/pbakaus/impeccable
+  visibility: public
+  archived: false
+  description: The design language that makes your AI harness better at design.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: The design language that makes your AI harness better at design.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T05:15:32Z'
+  content_lock:
+    locked_ref: cb56ed6c19a07329a9fa0cd4e657bee040156593
+    locked_url: https://github.com/pbakaus/impeccable/commit/cb56ed6c19a07329a9fa0cd4e657bee040156593
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-29T14:02:53Z'
+- universe: agent
+  repo: alchaincyf/darwin-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  tags:
+  - research
+  - skill
+  source_url: https://github.com/alchaincyf/darwin-skill
+  visibility: public
+  archived: false
+  description: 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude
+    Code. Evaluate, improve, test, keep or revert.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude
+      Code. Evaluate, improve, test, keep or revert.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-25T03:01:10Z'
+  content_lock:
+    locked_ref: 5539516444cff4eed7865daf61a707590acda485
+    locked_url: https://github.com/alchaincyf/darwin-skill/commit/5539516444cff4eed7865daf61a707590acda485
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-15T15:43:52Z'
+- universe: agent
+  repo: LearnPrompt/luban-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  tags:
+  - shell
+  - skill
+  source_url: https://github.com/LearnPrompt/luban-skill
+  visibility: public
+  archived: false
+  description: '鲁班 | Luban — 把''能用的Skill''打磨成''能被装、能传播、能验证、能进化''的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: master
+    visibility: public
+    archived: false
+    description: '鲁班 | Luban — 把''能用的Skill''打磨成''能被装、能传播、能验证、能进化''的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉'
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-10T16:39:25Z'
+  content_lock:
+    locked_ref: cea2da3310273d77f92ca884d82beda554f9a6cb
+    locked_url: https://github.com/LearnPrompt/luban-skill/commit/cea2da3310273d77f92ca884d82beda554f9a6cb
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-12T03:25:08Z'
+- universe: agent
+  repo: Leonxlnx/taste-skill
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  tags:
+  - javascript
+  - skill
+  source_url: https://github.com/Leonxlnx/taste-skill
+  visibility: public
+  archived: false
+  description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop '
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-24T15:23:56Z'
+  content_lock:
+    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-04T11:44:46Z'
 - universe: agent
   repo: nexu-io/open-design
   owned: false
@@ -2408,297 +2455,9 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-05-18T15:56:00Z'
 - universe: agent
-  repo: nicobailon/visual-explainer
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - skill
-  source_url: https://github.com/nicobailon/visual-explainer
-  visibility: public
-  archived: false
-  description: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables,
-    and project recaps
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables,
-      and project recaps
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-28T22:24:35Z'
-  content_lock:
-    locked_ref: 7163c3e10660912e0b89e1af465db9f387282b88
-    locked_url: https://github.com/nicobailon/visual-explainer/commit/7163c3e10660912e0b89e1af465db9f387282b88
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: nizos/tdd-guard
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - typescript
-  source_url: https://github.com/nizos/tdd-guard
-  visibility: public
-  archived: false
-  description: Automated TDD enforcement for Claude Code
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Automated TDD enforcement for Claude Code
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-07T08:52:13Z'
-  content_lock:
-    locked_ref: fa4fa79551c279ffae68fd108b23be7b17082ab0
-    locked_url: https://github.com/nizos/tdd-guard/commit/fa4fa79551c279ffae68fd108b23be7b17082ab0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: obra/superpowers
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - library
-  - shell
-  - skill
-  source_url: https://github.com/obra/superpowers
-  visibility: public
-  archived: false
-  description: An agentic skills framework & software development methodology that works.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: An agentic skills framework & software development methodology that works.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T00:16:38Z'
-  content_lock:
-    locked_ref: b36e0829c6d0140e93cfef2ca599b1b07d4a7797
-    locked_url: https://github.com/obra/superpowers/commit/b36e0829c6d0140e93cfef2ca599b1b07d4a7797
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: open-gsd/gsd-core
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - javascript
-  source_url: https://github.com/open-gsd/gsd-core
-  visibility: public
-  archived: false
-  description: Git. Ship. Done - Core
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: next
-    visibility: public
-    archived: false
-    description: Git. Ship. Done - Core
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:58:39Z'
-  content_lock:
-    locked_ref: ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
-    locked_url: https://github.com/open-gsd/gsd-core/commit/ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: openai/evals
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - library
-  - product
-  - python
-  source_url: https://github.com/openai/evals
-  visibility: public
-  archived: false
-  description: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-04-14T15:29:57Z'
-  content_lock:
-    locked_ref: 8eac7a7de5215c907fbddc30efdaf316913eccdd
-    locked_url: https://github.com/openai/evals/commit/8eac7a7de5215c907fbddc30efdaf316913eccdd
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: openai/symphony
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags: []
-  source_url: https://github.com/openai/symphony
-  visibility: public
-  archived: false
-  description: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead
-    of supervising coding agents.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work
-      instead of supervising coding agents.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-09T21:52:09Z'
-  content_lock:
-    locked_ref: e0ccc83720a42a600a53b61c5f8d3e518bebe1db
-    locked_url: https://github.com/openai/symphony/commit/e0ccc83720a42a600a53b61c5f8d3e518bebe1db
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: openchamber/openchamber
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - typescript
-  source_url: https://github.com/openchamber/openchamber
-  visibility: public
-  archived: false
-  description: Agentic Development Environment based on OpenCode AI agent
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Agentic Development Environment based on OpenCode AI agent
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T00:41:10Z'
-  content_lock:
-    locked_ref: 1636fd2bf8e4e29ee82fae3f4b2326195d9de825
-    locked_url: https://github.com/openchamber/openchamber/commit/1636fd2bf8e4e29ee82fae3f4b2326195d9de825
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: openclaw/openclaw
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - product
-  - typescript
-  source_url: https://github.com/openclaw/openclaw
-  visibility: public
-  archived: false
-  description: 'The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 '
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 '
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:20:19Z'
-  content_lock:
-    locked_ref: bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
-    locked_url: https://github.com/openclaw/openclaw/commit/bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: paperclipai/paperclip
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - paper-trading
-  - product
-  - typescript
-  source_url: https://github.com/paperclipai/paperclip
-  visibility: public
-  archived: false
-  description: The open-source app everyone uses to manage agents at work
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: master
-    visibility: public
-    archived: false
-    description: The open-source app everyone uses to manage agents at work
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T01:42:28Z'
-  content_lock:
-    locked_ref: 13368c518303e886a5c9445fbc69afcbdf0a9228
-    locked_url: https://github.com/paperclipai/paperclip/commit/13368c518303e886a5c9445fbc69afcbdf0a9228
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: pbakaus/impeccable
+  repo: czlonkowski/n8n-skills
   owned: false
   starred: true
   source_kind: starred
@@ -2706,47 +2465,13 @@ entries:
   registry_role: null
   primary_category: skills-and-plugins
   tags:
-  - image
-  - javascript
-  source_url: https://github.com/pbakaus/impeccable
-  visibility: public
-  archived: false
-  description: The design language that makes your AI harness better at design.
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: The design language that makes your AI harness better at design.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:15:32Z'
-  content_lock:
-    locked_ref: cb56ed6c19a07329a9fa0cd4e657bee040156593
-    locked_url: https://github.com/pbakaus/impeccable/commit/cb56ed6c19a07329a9fa0cd4e657bee040156593
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: phuryn/pm-skills
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - image
-  - research
+  - shell
   - skill
-  - video
-  source_url: https://github.com/phuryn/pm-skills
+  - workflow
+  source_url: https://github.com/czlonkowski/n8n-skills
   visibility: public
   archived: false
-  description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
-    launch, and growth.'
+  description: n8n skillset for Claude Code to build flawless n8n workflows
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -2754,199 +2479,87 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 'PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution,
-      launch, and growth.'
+    description: n8n skillset for Claude Code to build flawless n8n workflows
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-07-03T11:34:49Z'
+    pushed_at: '2026-09-03T12:01:31Z'
   content_lock:
-    locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
-    locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
+    locked_ref: 2df0f18cb52050d5b517654cc69544831aa2593c
+    locked_url: https://github.com/czlonkowski/n8n-skills/commit/2df0f18cb52050d5b517654cc69544831aa2593c
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-04-17T01:52:30Z'
 - universe: agent
-  repo: riba2534/feishu-cli
-  owned: false
+  repo: zinan92/repo-evals
+  owned: true
   starred: true
-  source_kind: starred
+  source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
-  tags: []
-  source_url: https://github.com/riba2534/feishu-cli
-  visibility: public
-  archived: false
-  description: feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-28T12:58:54Z'
-  content_lock:
-    locked_ref: 930c3f56eef89473d007e1f43eeb338df87f5281
-    locked_url: https://github.com/riba2534/feishu-cli/commit/930c3f56eef89473d007e1f43eeb338df87f5281
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: router-for-me/CLIProxyAPI
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
+  primary_category: skills-and-plugins
   tags:
-  - api
-  source_url: https://github.com/router-for-me/CLIProxyAPI
+  - dashboard
+  source_url: https://github.com/zinan92/repo-evals
   visibility: public
   archived: false
-  description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service,
-    allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
-  status: EXPLORING
+  description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
+  status: BUILDING
   review_status: confirmed
   review_reason: null
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API
-      service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
+    description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:08:27Z'
-  content_lock:
-    locked_ref: 7fa443dc8bf8ca2f1ffd81c2472deb31b097b697
-    locked_url: https://github.com/router-for-me/CLIProxyAPI/commit/7fa443dc8bf8ca2f1ffd81c2472deb31b097b697
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+    pushed_at: '2026-07-09T15:41:46Z'
+  catalog_added_at: '2026-04-05T04:33:35Z'
 - universe: agent
-  repo: rullerzhou-afk/clawd-on-desk
-  owned: false
-  starred: true
-  source_kind: starred
+  repo: zinan92/proactive-explorer
+  owned: true
+  starred: false
+  source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: observability
+  primary_category: skills-and-plugins
   tags:
-  - javascript
-  source_url: https://github.com/rullerzhou-afk/clawd-on-desk
+  - product
+  source_url: https://github.com/zinan92/proactive-explorer
   visibility: public
   archived: false
-  description: A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
-  status: EXPLORING
+  description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
+    Time-to-Value, Trust & Proof, Growth'
+  status: BUILDING
   review_status: confirmed
   review_reason: null
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have
-      to.
-    license_spdx: AGPL-3.0
+    description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
+      Time-to-Value, Trust & Proof, Growth'
+    license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-13T07:03:51Z'
-  content_lock:
-    locked_ref: 9367b8c3b1c2ec665fd2a804eddc96303f876258
-    locked_url: https://github.com/rullerzhou-afk/clawd-on-desk/commit/9367b8c3b1c2ec665fd2a804eddc96303f876258
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
+    pushed_at: '2026-03-19T06:43:22Z'
+  catalog_added_at: '2026-03-19T06:42:46Z'
 - universe: agent
-  repo: ruvnet/ruflo
+  repo: Martian-Engineering/lossless-claw
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: skills-and-plugins
   tags:
   - memory
-  - orchestration
-  - product
-  - typescript
-  - workflow
-  source_url: https://github.com/ruvnet/ruflo
-  visibility: public
-  archived: false
-  description: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and
-    build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration,
-    and native Claude Code / Codex / Hermes and many more Integrated
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and
-      build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration,
-      and native Claude Code / Codex / Hermes and many more Integrated
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T03:42:37Z'
-  content_lock:
-    locked_ref: b02c0cacec225deea01f586b66a9694393369432
-    locked_url: https://github.com/ruvnet/ruflo/commit/b02c0cacec225deea01f586b66a9694393369432
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: shareAI-lab/learn-claude-code
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: knowledge
-  tags:
-  - python
-  source_url: https://github.com/shareAI-lab/learn-claude-code
-  visibility: public
-  archived: false
-  description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-  status: EXPLORING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-26T16:38:22Z'
-  content_lock:
-    locked_ref: 0dcafa2ae053a1ddd6a72f265431104b08a5aa13
-    locked_url: https://github.com/shareAI-lab/learn-claude-code/commit/0dcafa2ae053a1ddd6a72f265431104b08a5aa13
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- universe: agent
-  repo: tt-a1i/archify
-  owned: false
-  starred: true
-  source_kind: starred
-  registry_repo: false
-  registry_role: null
-  primary_category: observability
-  tags:
-  - javascript
   - skill
-  - workflow
-  source_url: https://github.com/tt-a1i/archify
+  - typescript
+  source_url: https://github.com/Martian-Engineering/lossless-claw
   visibility: public
   archived: false
-  description: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained
-    HTML with motion and crisp export.
+  description: Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -2954,17 +2567,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained
-      HTML with motion and crisp export.
+    description: Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:42:55Z'
+    pushed_at: '2026-09-10T19:27:50Z'
   content_lock:
-    locked_ref: a07fa1d5b2a10cbea110c5a2be2817397a301cdc
-    locked_url: https://github.com/tt-a1i/archify/commit/a07fa1d5b2a10cbea110c5a2be2817397a301cdc
+    locked_ref: a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
+    locked_url: https://github.com/Martian-Engineering/lossless-claw/commit/a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-19T03:02:18Z'
 - universe: agent
   repo: vercel-labs/agent-skills
   owned: false
@@ -2998,21 +2611,22 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-02-14T01:16:54Z'
 - universe: agent
-  repo: vercel-labs/json-render
+  repo: YishenTu/claudian
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: observability
+  primary_category: skills-and-plugins
   tags:
-  - library
+  - skill
   - typescript
-  source_url: https://github.com/vercel-labs/json-render
+  source_url: https://github.com/YishenTu/claudian
   visibility: public
   archived: false
-  description: The Generative UI framework
+  description: An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -3020,32 +2634,32 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: The Generative UI framework
-    license_spdx: Apache-2.0
+    description: An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T02:58:05Z'
+    pushed_at: '2026-09-14T04:38:39Z'
   content_lock:
-    locked_ref: 6c7164342a37fab055907f1666658e1333e2cb86
-    locked_url: https://github.com/vercel-labs/json-render/commit/6c7164342a37fab055907f1666658e1333e2cb86
+    locked_ref: 2c07ee664439cb2b24bae6a7952f266e2968f24a
+    locked_url: https://github.com/YishenTu/claudian/commit/2c07ee664439cb2b24bae6a7952f266e2968f24a
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-02-13T06:09:40Z'
 - universe: agent
-  repo: volcengine/OpenViking
+  repo: anthropics/skills
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: runtime-and-harness
+  primary_category: skills-and-plugins
   tags:
-  - memory
   - python
   - skill
-  source_url: https://github.com/volcengine/OpenViking
+  source_url: https://github.com/anthropics/skills
   visibility: public
   archived: false
-  description: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+  description: Public repository for Agent Skills
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -3053,16 +2667,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-    license_spdx: AGPL-3.0
+    description: Public repository for Agent Skills
+    license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T04:48:59Z'
+    pushed_at: '2026-09-10T19:44:11Z'
   content_lock:
-    locked_ref: b54001e2e5c974ffd7a09ba543813fa104a99561
-    locked_url: https://github.com/volcengine/OpenViking/commit/b54001e2e5c974ffd7a09ba543813fa104a99561
+    locked_ref: 34040c9c568585f6929bedeaad110ad08f079624
+    locked_url: https://github.com/anthropics/skills/commit/34040c9c568585f6929bedeaad110ad08f079624
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-01-12T16:05:57Z'
 - universe: agent
   repo: wshobson/agents
   owned: false
@@ -3098,6 +2713,7 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-01-12T14:12:07Z'
 - universe: agent
   repo: yanhua1010/dsh-harness-tutorial
   owned: false
@@ -3129,6 +2745,432 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-08-27T08:17:29Z'
+- universe: agent
+  repo: alchaincyf/hermes-agent-orange-book
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - python
+  - research
+  source_url: https://github.com/alchaincyf/hermes-agent-orange-book
+  visibility: public
+  archived: false
+  description: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-23T14:21:45Z'
+  content_lock:
+    locked_ref: 9ac06e1d05373c3b8b6d49751e8a59c1475f9867
+    locked_url: https://github.com/alchaincyf/hermes-agent-orange-book/commit/9ac06e1d05373c3b8b6d49751e8a59c1475f9867
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-10T05:07:39Z'
+- universe: agent
+  repo: freestylefly/CodexGuide
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - typescript
+  source_url: https://github.com/freestylefly/CodexGuide
+  visibility: public
+  archived: false
+  description: CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T14:52:16Z'
+  content_lock:
+    locked_ref: 02d7b779d74fca29fd1e24cbede5233e436c9958
+    locked_url: https://github.com/freestylefly/CodexGuide/commit/02d7b779d74fca29fd1e24cbede5233e436c9958
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-04T12:57:09Z'
+- universe: agent
+  repo: hangsman/claude-code-source
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - typescript
+  source_url: https://github.com/hangsman/claude-code-source
+  visibility: public
+  archived: false
+  description: claude code source map v2.1.88
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: claude code source map v2.1.88
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-31T08:39:37Z'
+  content_lock:
+    locked_ref: d239e3f2c574b527f9f8691375525029edb3752d
+    locked_url: https://github.com/hangsman/claude-code-source/commit/d239e3f2c574b527f9f8691375525029edb3752d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-31T15:54:37Z'
+- universe: agent
+  repo: ChinaSiro/claude-code-sourcemap
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - typescript
+  source_url: https://github.com/ChinaSiro/claude-code-sourcemap
+  visibility: public
+  archived: false
+  description: ''
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: ''
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-31T08:30:55Z'
+  content_lock:
+    locked_ref: a8a678cb6244e6770e1e421767ff0987a1d95549
+    locked_url: https://github.com/ChinaSiro/claude-code-sourcemap/commit/a8a678cb6244e6770e1e421767ff0987a1d95549
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-31T09:36:50Z'
+- universe: agent
+  repo: libukai/awesome-agent-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - collection
+  - skill
+  source_url: https://github.com/libukai/awesome-agent-skills
+  visibility: public
+  archived: false
+  description: 'Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit'
+    license_spdx: NOASSERTION
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-04T01:35:58Z'
+  content_lock:
+    locked_ref: 5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
+    locked_url: https://github.com/libukai/awesome-agent-skills/commit/5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-12T08:56:13Z'
+- universe: agent
+  repo: shareAI-lab/learn-claude-code
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - python
+  source_url: https://github.com/shareAI-lab/learn-claude-code
+  visibility: public
+  archived: false
+  description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-26T16:38:22Z'
+  content_lock:
+    locked_ref: 0dcafa2ae053a1ddd6a72f265431104b08a5aa13
+    locked_url: https://github.com/shareAI-lab/learn-claude-code/commit/0dcafa2ae053a1ddd6a72f265431104b08a5aa13
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-07T03:12:53Z'
+- universe: agent
+  repo: anthropics/claude-cookbooks
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - collection
+  source_url: https://github.com/anthropics/claude-cookbooks
+  visibility: public
+  archived: false
+  description: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-03T22:18:29Z'
+  content_lock:
+    locked_ref: a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
+    locked_url: https://github.com/anthropics/claude-cookbooks/commit/a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-02-27T01:08:34Z'
+- universe: agent
+  repo: birobirobiro/awesome-shadcn-ui
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  tags:
+  - collection
+  - typescript
+  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
+  visibility: public
+  archived: false
+  description: A curated list of awesome things related to shadcn/ui.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A curated list of awesome things related to shadcn/ui.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T03:21:53Z'
+  content_lock:
+    locked_ref: 395573307d792e48d6dd319cc7f17a89f37b36bf
+    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/395573307d792e48d6dd319cc7f17a89f37b36bf
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2025-09-16T06:20:59Z'
+- universe: agent
+  repo: tt-a1i/archify
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - javascript
+  - skill
+  - workflow
+  source_url: https://github.com/tt-a1i/archify
+  visibility: public
+  archived: false
+  description: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained
+    HTML with motion and crisp export.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained
+      HTML with motion and crisp export.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T04:42:55Z'
+  content_lock:
+    locked_ref: a07fa1d5b2a10cbea110c5a2be2817397a301cdc
+    locked_url: https://github.com/tt-a1i/archify/commit/a07fa1d5b2a10cbea110c5a2be2817397a301cdc
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-09-03T07:59:43Z'
+- universe: agent
+  repo: zinan92/agent-ticket-tracker
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - python
+  source_url: https://github.com/zinan92/agent-ticket-tracker
+  visibility: public
+  archived: false
+  description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and safe
+    next-action brief
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and
+      safe next-action brief
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-29T05:46:46Z'
+  catalog_added_at: '2026-08-27T09:31:37Z'
+- universe: agent
+  repo: furkankly/zoetrope
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - browser
+  - dashboard
+  - rust
+  source_url: https://github.com/furkankly/zoetrope
+  visibility: public
+  archived: false
+  description: Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-11T09:23:45Z'
+  content_lock:
+    locked_ref: b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
+    locked_url: https://github.com/furkankly/zoetrope/commit/b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-25T03:11:35Z'
+- universe: agent
+  repo: kenn-io/agentsview
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags: []
+  source_url: https://github.com/kenn-io/agentsview
+  visibility: public
+  archived: false
+  description: 'Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude
+    Code, Codex, and more than 20 other agents. '
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Local-first session search, analytics, insights, and token use statistics for coding agents, supporting
+      Claude Code, Codex, and more than 20 other agents. '
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T02:32:59Z'
+  content_lock:
+    locked_ref: 9be7745ad1906ee24e04eb05bb86c872ef0939a1
+    locked_url: https://github.com/kenn-io/agentsview/commit/9be7745ad1906ee24e04eb05bb86c872ef0939a1
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-15T02:20:37Z'
+- universe: agent
+  repo: Cocoon-AI/architecture-diagram-generator
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - product
+  - skill
+  source_url: https://github.com/Cocoon-AI/architecture-diagram-generator
+  visibility: public
+  archived: false
+  description: 'Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude
+    AI skill.    '
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude
+      AI skill.    '
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-05-13T23:04:17Z'
+  content_lock:
+    locked_ref: 4b9087d55268c79a935105439dbcd37b630fc3f3
+    locked_url: https://github.com/Cocoon-AI/architecture-diagram-generator/commit/4b9087d55268c79a935105439dbcd37b630fc3f3
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-14T03:16:10Z'
 - universe: agent
   repo: yizhiyanhua-ai/fireworks-tech-graph
   owned: false
@@ -3164,6 +3206,239 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-08-14T03:03:27Z'
+- universe: agent
+  repo: chuspeeism/dashi-taskboard
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - javascript
+  source_url: https://github.com/chuspeeism/dashi-taskboard
+  visibility: public
+  archived: false
+  description: 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-08T11:09:20Z'
+  content_lock:
+    locked_ref: c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
+    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-08-04T01:51:56Z'
+- universe: agent
+  repo: Niall-Young/Canvasight
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - javascript
+  - skill
+  source_url: https://github.com/Niall-Young/Canvasight
+  visibility: public
+  archived: false
+  description: 用于梳理任务然后交付给 AI 工具的 plugin 插件
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 用于梳理任务然后交付给 AI 工具的 plugin 插件
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-27T08:57:27Z'
+  content_lock:
+    locked_ref: b4a002db9c4ff3af3388d12a50f632104493bfd7
+    locked_url: https://github.com/Niall-Young/Canvasight/commit/b4a002db9c4ff3af3388d12a50f632104493bfd7
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-13T08:51:23Z'
+- universe: agent
+  repo: cclank/lanshu-animated-architecture-diagram
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - python
+  - skill
+  source_url: https://github.com/cclank/lanshu-animated-architecture-diagram
+  visibility: public
+  archived: false
+  description: Premium hand-drawn animated architecture diagram Codex skill
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Premium hand-drawn animated architecture diagram Codex skill
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-03T01:31:53Z'
+  content_lock:
+    locked_ref: c17f5b4e5de99d3603b364530ad04d930d038d24
+    locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/c17f5b4e5de99d3603b364530ad04d930d038d24
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-07-09T06:21:13Z'
+- universe: agent
+  repo: rullerzhou-afk/clawd-on-desk
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - javascript
+  source_url: https://github.com/rullerzhou-afk/clawd-on-desk
+  visibility: public
+  archived: false
+  description: A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have
+      to.
+    license_spdx: AGPL-3.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-13T07:03:51Z'
+  content_lock:
+    locked_ref: 9367b8c3b1c2ec665fd2a804eddc96303f876258
+    locked_url: https://github.com/rullerzhou-afk/clawd-on-desk/commit/9367b8c3b1c2ec665fd2a804eddc96303f876258
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-06-02T07:10:07Z'
+- universe: agent
+  repo: coze-dev/coze-studio
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - product
+  - typescript
+  source_url: https://github.com/coze-dev/coze-studio
+  visibility: public
+  archived: false
+  description: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment
+    like never before. Coze your way to AI Agent creation.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and
+      deployment like never before. Coze your way to AI Agent creation.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-07-29T03:18:43Z'
+  content_lock:
+    locked_ref: fefb05ff27be1da939612fbf9faf5db62583b8ae
+    locked_url: https://github.com/coze-dev/coze-studio/commit/fefb05ff27be1da939612fbf9faf5db62583b8ae
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-05-26T13:03:19Z'
+- universe: agent
+  repo: openchamber/openchamber
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - typescript
+  source_url: https://github.com/openchamber/openchamber
+  visibility: public
+  archived: false
+  description: Agentic Development Environment based on OpenCode AI agent
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agentic Development Environment based on OpenCode AI agent
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-14T00:41:10Z'
+  content_lock:
+    locked_ref: 1636fd2bf8e4e29ee82fae3f4b2326195d9de825
+    locked_url: https://github.com/openchamber/openchamber/commit/1636fd2bf8e4e29ee82fae3f4b2326195d9de825
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-24T10:03:03Z'
+- universe: agent
+  repo: nicobailon/visual-explainer
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - skill
+  source_url: https://github.com/nicobailon/visual-explainer
+  visibility: public
+  archived: false
+  description: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables,
+    and project recaps
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables,
+      and project recaps
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-08-28T22:24:35Z'
+  content_lock:
+    locked_ref: 7163c3e10660912e0b89e1af465db9f387282b88
+    locked_url: https://github.com/nicobailon/visual-explainer/commit/7163c3e10660912e0b89e1af465db9f387282b88
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-24T08:55:11Z'
 - universe: agent
   repo: zhaoxinyi02/ClawPanel
   owned: false
@@ -3195,273 +3470,105 @@ entries:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+  catalog_added_at: '2026-03-21T03:26:10Z'
 - universe: agent
-  repo: zinan92/agent-browser
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - workflow
-  source_url: https://github.com/zinan92/agent-browser
-  visibility: public
-  archived: false
-  description: Browser automation CLI for AI agents
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Browser automation CLI for AI agents
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-19T00:59:42Z'
-- universe: agent
-  repo: zinan92/agent-core
-  owned: true
+  repo: grp06/openclaw-studio
+  owned: false
   starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: runtime-and-harness
-  tags:
-  - memory
-  - shell
-  - skill
-  source_url: https://github.com/zinan92/agent-core
-  visibility: public
-  archived: false
-  description: AI agent 操作系统内核 — architecture-first starter package，提供 onboarding、skills、SOPs、runtime specs、curated knowledge
-    五大原语
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: AI agent 操作系统内核 — architecture-first starter package，提供 onboarding、skills、SOPs、runtime specs、curated knowledge
-      五大原语
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-15T11:11:05Z'
-- universe: agent
-  repo: zinan92/agent-ticket-tracker
-  owned: true
-  starred: false
-  source_kind: owned
+  source_kind: starred
   registry_repo: false
   registry_role: null
   primary_category: observability
   tags:
-  - python
-  source_url: https://github.com/zinan92/agent-ticket-tracker
-  visibility: public
-  archived: false
-  description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and safe
-    next-action brief
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and
-      safe next-action brief
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-08-29T05:46:46Z'
-- universe: agent
-  repo: zinan92/bb-browser
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - api
-  - browser
-  source_url: https://github.com/zinan92/bb-browser
-  visibility: public
-  archived: false
-  description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-18T08:22:58Z'
-- universe: agent
-  repo: zinan92/doc-driven-dev-workflow
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
   - dashboard
   - typescript
-  - workflow
-  source_url: https://github.com/zinan92/doc-driven-dev-workflow
+  source_url: https://github.com/grp06/openclaw-studio
   visibility: public
   archived: false
-  description: 5-phase / 22-stage 的 AI-native 文档驱动开发 workflow，内置 task scaffolding、workflow guards、state/event writer scripts
-    与 local-first observer dashboard。
-  status: BUILDING
+  description: A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like
+    it!
+  status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: 5-phase / 22-stage 的 AI-native 文档驱动开发 workflow，内置 task scaffolding、workflow guards、state/event writer scripts
-      与 local-first observer dashboard。
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-27T10:51:11Z'
-- universe: agent
-  repo: zinan92/loop
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
-  tags:
-  - python
-  source_url: https://github.com/zinan92/loop
-  visibility: public
-  archived: false
-  description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
-    local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
-      local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-22T08:22:49Z'
-- universe: agent
-  repo: zinan92/opencli
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - workflow
-  source_url: https://github.com/zinan92/opencli
-  visibility: public
-  archived: false
-  description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data
-    extraction.
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web
-      data extraction.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-18T23:16:57Z'
-- universe: agent
-  repo: zinan92/proactive-explorer
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - product
-  source_url: https://github.com/zinan92/proactive-explorer
-  visibility: public
-  archived: false
-  description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
-    Time-to-Value, Trust & Proof, Growth'
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: 'Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach,
-      Time-to-Value, Trust & Proof, Growth'
-    license_spdx: NOASSERTION
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-19T06:43:22Z'
-- universe: agent
-  repo: zinan92/repo-evals
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - dashboard
-  source_url: https://github.com/zinan92/repo-evals
-  visibility: public
-  archived: false
-  description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
+    description: A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you
+      like it!
     license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-07-09T15:41:46Z'
+    pushed_at: '2026-06-26T00:06:05Z'
+  content_lock:
+    locked_ref: 732b994120bbe34c0ce5711b074207cbd8b97d52
+    locked_url: https://github.com/grp06/openclaw-studio/commit/732b994120bbe34c0ce5711b074207cbd8b97d52
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-03-02T01:52:09Z'
 - universe: agent
-  repo: zinan92/wechat-miniprogram-shipping
-  owned: true
+  repo: vercel-labs/json-render
+  owned: false
   starred: true
-  source_kind: owned_and_starred
+  source_kind: starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: observability
   tags:
-  - python
-  source_url: https://github.com/zinan92/wechat-miniprogram-shipping
+  - library
+  - typescript
+  source_url: https://github.com/vercel-labs/json-render
   visibility: public
   archived: false
-  description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
-  status: BUILDING
+  description: The Generative UI framework
+  status: EXPLORING
   review_status: confirmed
   review_reason: null
   github_snapshot:
     default_branch: main
     visibility: public
     archived: false
-    description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
-    license_spdx: NOASSERTION
+    description: The Generative UI framework
+    license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T11:35:32Z'
-export_checksum: d73fdadc43aa417cf7b8139622402ffb6da2fb006408ec8375f7b1e2a0aaf370
+    pushed_at: '2026-09-14T02:58:05Z'
+  content_lock:
+    locked_ref: 6c7164342a37fab055907f1666658e1333e2cb86
+    locked_url: https://github.com/vercel-labs/json-render/commit/6c7164342a37fab055907f1666658e1333e2cb86
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2026-02-14T01:12:38Z'
+- universe: agent
+  repo: BloopAI/vibe-kanban
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  tags:
+  - rust
+  source_url: https://github.com/BloopAI/vibe-kanban
+  visibility: public
+  archived: false
+  description: Get 10X more out of Claude Code, Codex or any coding agent
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Get 10X more out of Claude Code, Codex or any coding agent
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-09-12T06:20:43Z'
+  content_lock:
+    locked_ref: 4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
+    locked_url: https://github.com/BloopAI/vibe-kanban/commit/4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+  catalog_added_at: '2025-10-06T09:42:14Z'
+export_checksum: ad034be86ea662998a6418a91cd5019ca252ff8de377f499c0a124d56b32b11d

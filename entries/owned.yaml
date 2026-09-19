@@ -1,4 +1,4 @@
-snapshot_id: github-universe-2026-09-14
+snapshot_id: github-universe-2026-09-19-catalog-order-01
 entries:
 - universe: agent
   repo: zinan92/agent-browser
@@ -26,6 +26,63 @@ entries:
     license_spdx: Apache-2.0
     checked_at: '2026-09-14'
     pushed_at: '2026-03-19T00:59:42Z'
+  catalog_added_at: '2026-03-19T03:17:08Z'
+- universe: agent
+  repo: zinan92/opencli
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - browser
+  - workflow
+  source_url: https://github.com/zinan92/opencli
+  visibility: public
+  archived: false
+  description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data
+    extraction.
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web
+      data extraction.
+    license_spdx: Apache-2.0
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-18T23:16:57Z'
+  catalog_added_at: '2026-03-19T03:17:07Z'
+- universe: agent
+  repo: zinan92/bb-browser
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  tags:
+  - api
+  - browser
+  source_url: https://github.com/zinan92/bb-browser
+  visibility: public
+  archived: false
+  description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+    license_spdx: MIT
+    checked_at: '2026-09-14'
+    pushed_at: '2026-03-18T08:22:58Z'
+  catalog_added_at: '2026-03-19T03:17:04Z'
 - universe: agent
   repo: zinan92/agent-core
   owned: true
@@ -55,21 +112,21 @@ entries:
     license_spdx: MIT
     checked_at: '2026-09-14'
     pushed_at: '2026-03-15T11:11:05Z'
+  catalog_added_at: '2026-03-12T09:11:33Z'
 - universe: agent
-  repo: zinan92/agent-ticket-tracker
+  repo: zinan92/wechat-miniprogram-shipping
   owned: true
-  starred: false
-  source_kind: owned
+  starred: true
+  source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
-  primary_category: observability
+  primary_category: workflow
   tags:
   - python
-  source_url: https://github.com/zinan92/agent-ticket-tracker
+  source_url: https://github.com/zinan92/wechat-miniprogram-shipping
   visibility: public
   archived: false
-  description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and safe
-    next-action brief
+  description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
   status: BUILDING
   review_status: confirmed
   review_reason: null
@@ -77,26 +134,26 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and
-      safe next-action brief
-    license_spdx: MIT
+    description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
+    license_spdx: NOASSERTION
     checked_at: '2026-09-14'
-    pushed_at: '2026-08-29T05:46:46Z'
+    pushed_at: '2026-09-12T11:35:32Z'
+  catalog_added_at: '2026-08-14T04:15:48Z'
 - universe: agent
-  repo: zinan92/bb-browser
+  repo: zinan92/loop
   owned: true
-  starred: false
-  source_kind: owned
+  starred: true
+  source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
-  primary_category: eyes-and-hands
+  primary_category: workflow
   tags:
-  - api
-  - browser
-  source_url: https://github.com/zinan92/bb-browser
+  - python
+  source_url: https://github.com/zinan92/loop
   visibility: public
   archived: false
-  description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+  description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
+    local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
   status: BUILDING
   review_status: confirmed
   review_reason: null
@@ -104,10 +161,12 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
-    license_spdx: MIT
+    description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
+      local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
+    license_spdx: Apache-2.0
     checked_at: '2026-09-14'
-    pushed_at: '2026-03-18T08:22:58Z'
+    pushed_at: '2026-07-22T08:22:49Z'
+  catalog_added_at: '2026-06-15T13:56:47Z'
 - universe: agent
   repo: zinan92/doc-driven-dev-workflow
   owned: true
@@ -137,21 +196,21 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-03-27T10:51:11Z'
+  catalog_added_at: '2026-03-15T14:36:06Z'
 - universe: agent
-  repo: zinan92/loop
+  repo: zinan92/repo-evals
   owned: true
   starred: true
   source_kind: owned_and_starred
   registry_repo: false
   registry_role: null
-  primary_category: workflow
+  primary_category: skills-and-plugins
   tags:
-  - python
-  source_url: https://github.com/zinan92/loop
+  - dashboard
+  source_url: https://github.com/zinan92/repo-evals
   visibility: public
   archived: false
-  description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
-    local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
+  description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
   status: BUILDING
   review_status: confirmed
   review_reason: null
@@ -159,39 +218,11 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: '把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in:
-      local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS.'
-    license_spdx: Apache-2.0
+    description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-07-22T08:22:49Z'
-- universe: agent
-  repo: zinan92/opencli
-  owned: true
-  starred: false
-  source_kind: owned
-  registry_repo: false
-  registry_role: null
-  primary_category: eyes-and-hands
-  tags:
-  - browser
-  - workflow
-  source_url: https://github.com/zinan92/opencli
-  visibility: public
-  archived: false
-  description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data
-    extraction.
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web
-      data extraction.
-    license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-03-18T23:16:57Z'
+    pushed_at: '2026-07-09T15:41:46Z'
+  catalog_added_at: '2026-04-05T04:33:35Z'
 - universe: agent
   repo: zinan92/proactive-explorer
   owned: true
@@ -219,45 +250,22 @@ entries:
     license_spdx: NOASSERTION
     checked_at: '2026-09-14'
     pushed_at: '2026-03-19T06:43:22Z'
+  catalog_added_at: '2026-03-19T06:42:46Z'
 - universe: agent
-  repo: zinan92/repo-evals
+  repo: zinan92/agent-ticket-tracker
   owned: true
-  starred: true
-  source_kind: owned_and_starred
+  starred: false
+  source_kind: owned
   registry_repo: false
   registry_role: null
-  primary_category: skills-and-plugins
-  tags:
-  - dashboard
-  source_url: https://github.com/zinan92/repo-evals
-  visibility: public
-  archived: false
-  description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
-  status: BUILDING
-  review_status: confirmed
-  review_reason: null
-  github_snapshot:
-    default_branch: main
-    visibility: public
-    archived: false
-    description: Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard
-    license_spdx: MIT
-    checked_at: '2026-09-14'
-    pushed_at: '2026-07-09T15:41:46Z'
-- universe: agent
-  repo: zinan92/wechat-miniprogram-shipping
-  owned: true
-  starred: true
-  source_kind: owned_and_starred
-  registry_repo: false
-  registry_role: null
-  primary_category: workflow
+  primary_category: observability
   tags:
   - python
-  source_url: https://github.com/zinan92/wechat-miniprogram-shipping
+  source_url: https://github.com/zinan92/agent-ticket-tracker
   visibility: public
   archived: false
-  description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
+  description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and safe
+    next-action brief
   status: BUILDING
   review_status: confirmed
   review_reason: null
@@ -265,7 +273,9 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt
-    license_spdx: NOASSERTION
+    description: Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and
+      safe next-action brief
+    license_spdx: MIT
     checked_at: '2026-09-14'
-    pushed_at: '2026-09-12T11:35:32Z'
+    pushed_at: '2026-08-29T05:46:46Z'
+  catalog_added_at: '2026-08-27T09:31:37Z'
