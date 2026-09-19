@@ -1,75 +1,11 @@
-snapshot_id: github-universe-2026-09-14
-generated_from_checksum: eb9176f3ad7b3195b0c31e597a9c25ee25af4e16591fe59e6d09d8f2a3c383be
+snapshot_id: github-universe-2026-09-19-catalog-order-01
+generated_from_checksum: cf1d439c3a4730a50198508852e2304c7d3aa716a9039f806dca596d68e98d29
 locks:
-- repo: AAAAAAAJ/WaytoAGI-CLI
-  source_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI
+- repo: citrolabs/ego-lite
+  source_url: https://github.com/citrolabs/ego-lite
   content_lock:
-    locked_ref: e145d1af49ec8c03ac329c6718932e207d4664cb
-    locked_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI/commit/e145d1af49ec8c03ac329c6718932e207d4664cb
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: BloopAI/vibe-kanban
-  source_url: https://github.com/BloopAI/vibe-kanban
-  content_lock:
-    locked_ref: 4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
-    locked_url: https://github.com/BloopAI/vibe-kanban/commit/4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: BytePioneer-AI/codex-host
-  source_url: https://github.com/BytePioneer-AI/codex-host
-  content_lock:
-    locked_ref: a67aed315f6bf8d734bcff637688fd89e9e938c0
-    locked_url: https://github.com/BytePioneer-AI/codex-host/commit/a67aed315f6bf8d734bcff637688fd89e9e938c0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: ChinaSiro/claude-code-sourcemap
-  source_url: https://github.com/ChinaSiro/claude-code-sourcemap
-  content_lock:
-    locked_ref: a8a678cb6244e6770e1e421767ff0987a1d95549
-    locked_url: https://github.com/ChinaSiro/claude-code-sourcemap/commit/a8a678cb6244e6770e1e421767ff0987a1d95549
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: ChromeDevTools/chrome-devtools-mcp
-  source_url: https://github.com/ChromeDevTools/chrome-devtools-mcp
-  content_lock:
-    locked_ref: d9a8cb6ec22aadf5cb964c5e97a8b047693046e2
-    locked_url: https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/d9a8cb6ec22aadf5cb964c5e97a8b047693046e2
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: Cocoon-AI/architecture-diagram-generator
-  source_url: https://github.com/Cocoon-AI/architecture-diagram-generator
-  content_lock:
-    locked_ref: 4b9087d55268c79a935105439dbcd37b630fc3f3
-    locked_url: https://github.com/Cocoon-AI/architecture-diagram-generator/commit/4b9087d55268c79a935105439dbcd37b630fc3f3
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: D4Vinci/Scrapling
-  source_url: https://github.com/D4Vinci/Scrapling
-  content_lock:
-    locked_ref: 48da61d1ee85cea7bbbdff013d98c90602e1d93f
-    locked_url: https://github.com/D4Vinci/Scrapling/commit/48da61d1ee85cea7bbbdff013d98c90602e1d93f
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: Enderfga/claw-orchestrator
-  source_url: https://github.com/Enderfga/claw-orchestrator
-  content_lock:
-    locked_ref: 3e09b032a2f95fa520648f959f4ac9cdc7393350
-    locked_url: https://github.com/Enderfga/claw-orchestrator/commit/3e09b032a2f95fa520648f959f4ac9cdc7393350
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: EverMind-AI/EverOS
-  source_url: https://github.com/EverMind-AI/EverOS
-  content_lock:
-    locked_ref: 5076683ab88d714390573d8f88ff3c470e51129a
-    locked_url: https://github.com/EverMind-AI/EverOS/commit/5076683ab88d714390573d8f88ff3c470e51129a
+    locked_ref: d01be93325c7ea59d41c2ca9f4c59b58b4be4046
+    locked_url: https://github.com/citrolabs/ego-lite/commit/d01be93325c7ea59d41c2ca9f4c59b58b4be4046
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -81,59 +17,19 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: HKUDS/CLI-Anything
-  source_url: https://github.com/HKUDS/CLI-Anything
+- repo: riba2534/feishu-cli
+  source_url: https://github.com/riba2534/feishu-cli
   content_lock:
-    locked_ref: 810c18b0d1ab9b234bc996c9fd999318523a3ef0
-    locked_url: https://github.com/HKUDS/CLI-Anything/commit/810c18b0d1ab9b234bc996c9fd999318523a3ef0
+    locked_ref: 930c3f56eef89473d007e1f43eeb338df87f5281
+    locked_url: https://github.com/riba2534/feishu-cli/commit/930c3f56eef89473d007e1f43eeb338df87f5281
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: LearnPrompt/luban-skill
-  source_url: https://github.com/LearnPrompt/luban-skill
+- repo: n8n-io/n8n
+  source_url: https://github.com/n8n-io/n8n
   content_lock:
-    locked_ref: cea2da3310273d77f92ca884d82beda554f9a6cb
-    locked_url: https://github.com/LearnPrompt/luban-skill/commit/cea2da3310273d77f92ca884d82beda554f9a6cb
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: Leonxlnx/taste-skill
-  source_url: https://github.com/Leonxlnx/taste-skill
-  content_lock:
-    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: Martian-Engineering/lossless-claw
-  source_url: https://github.com/Martian-Engineering/lossless-claw
-  content_lock:
-    locked_ref: a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
-    locked_url: https://github.com/Martian-Engineering/lossless-claw/commit/a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: Niall-Young/Canvasight
-  source_url: https://github.com/Niall-Young/Canvasight
-  content_lock:
-    locked_ref: b4a002db9c4ff3af3388d12a50f632104493bfd7
-    locked_url: https://github.com/Niall-Young/Canvasight/commit/b4a002db9c4ff3af3388d12a50f632104493bfd7
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: NoizAI/skills
-  source_url: https://github.com/NoizAI/skills
-  content_lock:
-    locked_ref: 2a0e09d8cb9056e044c473dd53a136b81ba428e9
-    locked_url: https://github.com/NoizAI/skills/commit/2a0e09d8cb9056e044c473dd53a136b81ba428e9
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: NousResearch/hermes-agent
-  source_url: https://github.com/NousResearch/hermes-agent
-  content_lock:
-    locked_ref: 5eb99eb2844b22ebb723711b8e6a0bbb80bb5f04
-    locked_url: https://github.com/NousResearch/hermes-agent/commit/5eb99eb2844b22ebb723711b8e6a0bbb80bb5f04
+    locked_ref: aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
+    locked_url: https://github.com/n8n-io/n8n/commit/aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -145,91 +41,75 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: Pimzino/claude-code-spec-workflow
-  source_url: https://github.com/Pimzino/claude-code-spec-workflow
+- repo: larksuite/cli
+  source_url: https://github.com/larksuite/cli
   content_lock:
-    locked_ref: f3de74d8055120658ac199bfca865a3e1de9fd99
-    locked_url: https://github.com/Pimzino/claude-code-spec-workflow/commit/f3de74d8055120658ac199bfca865a3e1de9fd99
+    locked_ref: 39aaf9fca0e08825b51f6d8c6c617bf781db761b
+    locked_url: https://github.com/larksuite/cli/commit/39aaf9fca0e08825b51f6d8c6c617bf781db761b
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: SeemSeam/claude_codex_bridge
-  source_url: https://github.com/SeemSeam/claude_codex_bridge
+- repo: eze-is/web-access
+  source_url: https://github.com/eze-is/web-access
   content_lock:
-    locked_ref: 20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
-    locked_url: https://github.com/SeemSeam/claude_codex_bridge/commit/20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
+    locked_ref: 33eef84a55b1919396a80e7a55650a07bb83f590
+    locked_url: https://github.com/eze-is/web-access/commit/33eef84a55b1919396a80e7a55650a07bb83f590
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: SeemSeam/plan-tree
-  source_url: https://github.com/SeemSeam/plan-tree
+- repo: ChromeDevTools/chrome-devtools-mcp
+  source_url: https://github.com/ChromeDevTools/chrome-devtools-mcp
   content_lock:
-    locked_ref: b57be82610307fba9a1c266b6e7e2f35dd5b7e33
-    locked_url: https://github.com/SeemSeam/plan-tree/commit/b57be82610307fba9a1c266b6e7e2f35dd5b7e33
+    locked_ref: d9a8cb6ec22aadf5cb964c5e97a8b047693046e2
+    locked_url: https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/d9a8cb6ec22aadf5cb964c5e97a8b047693046e2
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: SuperClaude-Org/SuperClaude_Framework
-  source_url: https://github.com/SuperClaude-Org/SuperClaude_Framework
+- repo: jackwener/OpenCLI
+  source_url: https://github.com/jackwener/OpenCLI
   content_lock:
-    locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
-    locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
+    locked_ref: 8271afc67e8504bda94c147f446ee29775d08274
+    locked_url: https://github.com/jackwener/OpenCLI/commit/8271afc67e8504bda94c147f446ee29775d08274
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: Untrivial-ai/agent-orchestrator
-  source_url: https://github.com/Untrivial-ai/agent-orchestrator
+- repo: D4Vinci/Scrapling
+  source_url: https://github.com/D4Vinci/Scrapling
   content_lock:
-    locked_ref: 84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/84fb98e3f14e8833f0df4481e7c9af620d42297a
+    locked_ref: 48da61d1ee85cea7bbbdff013d98c90602e1d93f
+    locked_url: https://github.com/D4Vinci/Scrapling/commit/48da61d1ee85cea7bbbdff013d98c90602e1d93f
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: Yeachan-Heo/oh-my-claudecode
-  source_url: https://github.com/Yeachan-Heo/oh-my-claudecode
+- repo: lightpanda-io/browser
+  source_url: https://github.com/lightpanda-io/browser
   content_lock:
-    locked_ref: 5281b19e0d64f8e6dc6767f2130299a88af2dc71
-    locked_url: https://github.com/Yeachan-Heo/oh-my-claudecode/commit/5281b19e0d64f8e6dc6767f2130299a88af2dc71
+    locked_ref: 5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
+    locked_url: https://github.com/lightpanda-io/browser/commit/5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: YishenTu/claudian
-  source_url: https://github.com/YishenTu/claudian
+- repo: HKUDS/CLI-Anything
+  source_url: https://github.com/HKUDS/CLI-Anything
   content_lock:
-    locked_ref: 2c07ee664439cb2b24bae6a7952f266e2968f24a
-    locked_url: https://github.com/YishenTu/claudian/commit/2c07ee664439cb2b24bae6a7952f266e2968f24a
+    locked_ref: 810c18b0d1ab9b234bc996c9fd999318523a3ef0
+    locked_url: https://github.com/HKUDS/CLI-Anything/commit/810c18b0d1ab9b234bc996c9fd999318523a3ef0
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: affaan-m/ECC
-  source_url: https://github.com/affaan-m/ECC
+- repo: NoizAI/skills
+  source_url: https://github.com/NoizAI/skills
   content_lock:
-    locked_ref: 8321021c54d670126ce3b2969d5deb880b4b0c2a
-    locked_url: https://github.com/affaan-m/ECC/commit/8321021c54d670126ce3b2969d5deb880b4b0c2a
+    locked_ref: 2a0e09d8cb9056e044c473dd53a136b81ba428e9
+    locked_url: https://github.com/NoizAI/skills/commit/2a0e09d8cb9056e044c473dd53a136b81ba428e9
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: agenticnotetaking/arscontexta
-  source_url: https://github.com/agenticnotetaking/arscontexta
+- repo: mixedbread-ai/mgrep
+  source_url: https://github.com/mixedbread-ai/mgrep
   content_lock:
-    locked_ref: 2acfd5cc4473c4d06c46be63df748e77e00e2746
-    locked_url: https://github.com/agenticnotetaking/arscontexta/commit/2acfd5cc4473c4d06c46be63df748e77e00e2746
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: alchaincyf/darwin-skill
-  source_url: https://github.com/alchaincyf/darwin-skill
-  content_lock:
-    locked_ref: 5539516444cff4eed7865daf61a707590acda485
-    locked_url: https://github.com/alchaincyf/darwin-skill/commit/5539516444cff4eed7865daf61a707590acda485
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: alchaincyf/hermes-agent-orange-book
-  source_url: https://github.com/alchaincyf/hermes-agent-orange-book
-  content_lock:
-    locked_ref: 9ac06e1d05373c3b8b6d49751e8a59c1475f9867
-    locked_url: https://github.com/alchaincyf/hermes-agent-orange-book/commit/9ac06e1d05373c3b8b6d49751e8a59c1475f9867
+    locked_ref: 5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
+    locked_url: https://github.com/mixedbread-ai/mgrep/commit/5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -241,123 +121,19 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: anomalyco/opencode
-  source_url: https://github.com/anomalyco/opencode
+- repo: garrytan/gbrain
+  source_url: https://github.com/garrytan/gbrain
   content_lock:
-    locked_ref: df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
-    locked_url: https://github.com/anomalyco/opencode/commit/df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
+    locked_ref: a6be012a3bcfac42e279630aedec5cda4a450e29
+    locked_url: https://github.com/garrytan/gbrain/commit/a6be012a3bcfac42e279630aedec5cda4a450e29
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: anthropics/claude-cookbooks
-  source_url: https://github.com/anthropics/claude-cookbooks
+- repo: BytePioneer-AI/codex-host
+  source_url: https://github.com/BytePioneer-AI/codex-host
   content_lock:
-    locked_ref: a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
-    locked_url: https://github.com/anthropics/claude-cookbooks/commit/a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: anthropics/skills
-  source_url: https://github.com/anthropics/skills
-  content_lock:
-    locked_ref: 34040c9c568585f6929bedeaad110ad08f079624
-    locked_url: https://github.com/anthropics/skills/commit/34040c9c568585f6929bedeaad110ad08f079624
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: birobirobiro/awesome-shadcn-ui
-  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
-  content_lock:
-    locked_ref: 395573307d792e48d6dd319cc7f17a89f37b36bf
-    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/395573307d792e48d6dd319cc7f17a89f37b36bf
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: botiverse/hands
-  source_url: https://github.com/botiverse/hands
-  content_lock:
-    locked_ref: e16ce58c624b5c1f66239309787090086171c0f5
-    locked_url: https://github.com/botiverse/hands/commit/e16ce58c624b5c1f66239309787090086171c0f5
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: catlog22/Claude-Code-Workflow
-  source_url: https://github.com/catlog22/Claude-Code-Workflow
-  content_lock:
-    locked_ref: 07491b04ac30c9a2d887f443661288b1b7520832
-    locked_url: https://github.com/catlog22/Claude-Code-Workflow/commit/07491b04ac30c9a2d887f443661288b1b7520832
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: cclank/lanshu-animated-architecture-diagram
-  source_url: https://github.com/cclank/lanshu-animated-architecture-diagram
-  content_lock:
-    locked_ref: c17f5b4e5de99d3603b364530ad04d930d038d24
-    locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/c17f5b4e5de99d3603b364530ad04d930d038d24
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: cft0808/edict
-  source_url: https://github.com/cft0808/edict
-  content_lock:
-    locked_ref: 14a207557719c046af0f993a7bff1cc5a5015b33
-    locked_url: https://github.com/cft0808/edict/commit/14a207557719c046af0f993a7bff1cc5a5015b33
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: chenjin-cmd/wechat-miniprogram-builder
-  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
-  content_lock:
-    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: chuspeeism/dashi-taskboard
-  source_url: https://github.com/chuspeeism/dashi-taskboard
-  content_lock:
-    locked_ref: c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
-    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: citrolabs/ego-lite
-  source_url: https://github.com/citrolabs/ego-lite
-  content_lock:
-    locked_ref: d01be93325c7ea59d41c2ca9f4c59b58b4be4046
-    locked_url: https://github.com/citrolabs/ego-lite/commit/d01be93325c7ea59d41c2ca9f4c59b58b4be4046
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: code-yeongyu/lazycodex
-  source_url: https://github.com/code-yeongyu/lazycodex
-  content_lock:
-    locked_ref: e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
-    locked_url: https://github.com/code-yeongyu/lazycodex/commit/e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: code-yeongyu/oh-my-openagent
-  source_url: https://github.com/code-yeongyu/oh-my-openagent
-  content_lock:
-    locked_ref: dd258670924870378ea5f0f4a7039d05f5a3a06a
-    locked_url: https://github.com/code-yeongyu/oh-my-openagent/commit/dd258670924870378ea5f0f4a7039d05f5a3a06a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: coze-dev/coze-studio
-  source_url: https://github.com/coze-dev/coze-studio
-  content_lock:
-    locked_ref: fefb05ff27be1da939612fbf9faf5db62583b8ae
-    locked_url: https://github.com/coze-dev/coze-studio/commit/fefb05ff27be1da939612fbf9faf5db62583b8ae
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: czlonkowski/n8n-skills
-  source_url: https://github.com/czlonkowski/n8n-skills
-  content_lock:
-    locked_ref: 2df0f18cb52050d5b517654cc69544831aa2593c
-    locked_url: https://github.com/czlonkowski/n8n-skills/commit/2df0f18cb52050d5b517654cc69544831aa2593c
+    locked_ref: a67aed315f6bf8d734bcff637688fd89e9e938c0
+    locked_url: https://github.com/BytePioneer-AI/codex-host/commit/a67aed315f6bf8d734bcff637688fd89e9e938c0
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -377,123 +153,11 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: eze-is/web-access
-  source_url: https://github.com/eze-is/web-access
-  content_lock:
-    locked_ref: 33eef84a55b1919396a80e7a55650a07bb83f590
-    locked_url: https://github.com/eze-is/web-access/commit/33eef84a55b1919396a80e7a55650a07bb83f590
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
 - repo: farion1231/cc-switch
   source_url: https://github.com/farion1231/cc-switch
   content_lock:
     locked_ref: bd247a4adb92adfee0f065f0bdaac9580cfc276a
     locked_url: https://github.com/farion1231/cc-switch/commit/bd247a4adb92adfee0f065f0bdaac9580cfc276a
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: frankbria/ralph-claude-code
-  source_url: https://github.com/frankbria/ralph-claude-code
-  content_lock:
-    locked_ref: e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
-    locked_url: https://github.com/frankbria/ralph-claude-code/commit/e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: freestylefly/CodexGuide
-  source_url: https://github.com/freestylefly/CodexGuide
-  content_lock:
-    locked_ref: 02d7b779d74fca29fd1e24cbede5233e436c9958
-    locked_url: https://github.com/freestylefly/CodexGuide/commit/02d7b779d74fca29fd1e24cbede5233e436c9958
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: furkankly/zoetrope
-  source_url: https://github.com/furkankly/zoetrope
-  content_lock:
-    locked_ref: b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
-    locked_url: https://github.com/furkankly/zoetrope/commit/b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: garrytan/gbrain
-  source_url: https://github.com/garrytan/gbrain
-  content_lock:
-    locked_ref: a6be012a3bcfac42e279630aedec5cda4a450e29
-    locked_url: https://github.com/garrytan/gbrain/commit/a6be012a3bcfac42e279630aedec5cda4a450e29
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: garrytan/gstack
-  source_url: https://github.com/garrytan/gstack
-  content_lock:
-    locked_ref: 71f6048e8ada25180e61438abc1d98cb151fe9a7
-    locked_url: https://github.com/garrytan/gstack/commit/71f6048e8ada25180e61438abc1d98cb151fe9a7
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: grp06/openclaw-studio
-  source_url: https://github.com/grp06/openclaw-studio
-  content_lock:
-    locked_ref: 732b994120bbe34c0ce5711b074207cbd8b97d52
-    locked_url: https://github.com/grp06/openclaw-studio/commit/732b994120bbe34c0ce5711b074207cbd8b97d52
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: hangsman/claude-code-source
-  source_url: https://github.com/hangsman/claude-code-source
-  content_lock:
-    locked_ref: d239e3f2c574b527f9f8691375525029edb3752d
-    locked_url: https://github.com/hangsman/claude-code-source/commit/d239e3f2c574b527f9f8691375525029edb3752d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: huangruiteng/loopx
-  source_url: https://github.com/huangruiteng/loopx
-  content_lock:
-    locked_ref: f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_url: https://github.com/huangruiteng/loopx/commit/f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: jackwener/OpenCLI
-  source_url: https://github.com/jackwener/OpenCLI
-  content_lock:
-    locked_ref: 8271afc67e8504bda94c147f446ee29775d08274
-    locked_url: https://github.com/jackwener/OpenCLI/commit/8271afc67e8504bda94c147f446ee29775d08274
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: karpathy/autoresearch
-  source_url: https://github.com/karpathy/autoresearch
-  content_lock:
-    locked_ref: 228791fb499afffb54b46200aca536f79142f117
-    locked_url: https://github.com/karpathy/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: kenn-io/agentsview
-  source_url: https://github.com/kenn-io/agentsview
-  content_lock:
-    locked_ref: 9be7745ad1906ee24e04eb05bb86c872ef0939a1
-    locked_url: https://github.com/kenn-io/agentsview/commit/9be7745ad1906ee24e04eb05bb86c872ef0939a1
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: larksuite/cli
-  source_url: https://github.com/larksuite/cli
-  content_lock:
-    locked_ref: 39aaf9fca0e08825b51f6d8c6c617bf781db761b
-    locked_url: https://github.com/larksuite/cli/commit/39aaf9fca0e08825b51f6d8c6c617bf781db761b
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: libukai/awesome-agent-skills
-  source_url: https://github.com/libukai/awesome-agent-skills
-  content_lock:
-    locked_ref: 5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
-    locked_url: https://github.com/libukai/awesome-agent-skills/commit/5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -505,14 +169,6 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: lightpanda-io/browser
-  source_url: https://github.com/lightpanda-io/browser
-  content_lock:
-    locked_ref: 5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
-    locked_url: https://github.com/lightpanda-io/browser/commit/5163c6d3856ccce2d4c39d5beaa1efa1e220a6ab
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
 - repo: makecindy/cindy
   source_url: https://github.com/makecindy/cindy
   content_lock:
@@ -521,163 +177,19 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: mattpocock/skills
-  source_url: https://github.com/mattpocock/skills
+- repo: code-yeongyu/lazycodex
+  source_url: https://github.com/code-yeongyu/lazycodex
   content_lock:
-    locked_ref: 3cca18b368ae95cdbdebbff572ccafa662551015
-    locked_url: https://github.com/mattpocock/skills/commit/3cca18b368ae95cdbdebbff572ccafa662551015
+    locked_ref: e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
+    locked_url: https://github.com/code-yeongyu/lazycodex/commit/e6be07d3bf9c0bffe0b991bc9a4c0a9543e119c4
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: mixedbread-ai/mgrep
-  source_url: https://github.com/mixedbread-ai/mgrep
+- repo: EverMind-AI/EverOS
+  source_url: https://github.com/EverMind-AI/EverOS
   content_lock:
-    locked_ref: 5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
-    locked_url: https://github.com/mixedbread-ai/mgrep/commit/5c1ba628c62d9f3cf96cb98b3616f2ac23698aad
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: msitarzewski/agency-agents
-  source_url: https://github.com/msitarzewski/agency-agents
-  content_lock:
-    locked_ref: ad9264e309bd5e5422c04784372d7841b1e5d604
-    locked_url: https://github.com/msitarzewski/agency-agents/commit/ad9264e309bd5e5422c04784372d7841b1e5d604
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: multica-ai/multica
-  source_url: https://github.com/multica-ai/multica
-  content_lock:
-    locked_ref: 7dafc0cd625425b91e698a5f6e555a37a1846e68
-    locked_url: https://github.com/multica-ai/multica/commit/7dafc0cd625425b91e698a5f6e555a37a1846e68
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: n8n-io/n8n
-  source_url: https://github.com/n8n-io/n8n
-  content_lock:
-    locked_ref: aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
-    locked_url: https://github.com/n8n-io/n8n/commit/aba174c9f3a4ec8780f8e17d77ea0ce2d3c2b35c
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: nextlevelbuilder/ui-ux-pro-max-skill
-  source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-  content_lock:
-    locked_ref: 7f69fed6a2717900085f1bc3b263721f8ba025e2
-    locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/7f69fed6a2717900085f1bc3b263721f8ba025e2
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: nexu-io/html-anything
-  source_url: https://github.com/nexu-io/html-anything
-  content_lock:
-    locked_ref: c31204544230578ac814026fecc153c6e36587ae
-    locked_url: https://github.com/nexu-io/html-anything/commit/c31204544230578ac814026fecc153c6e36587ae
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: nexu-io/open-design
-  source_url: https://github.com/nexu-io/open-design
-  content_lock:
-    locked_ref: 1424be9727013c0ecc070f6724c4b764bd49ca70
-    locked_url: https://github.com/nexu-io/open-design/commit/1424be9727013c0ecc070f6724c4b764bd49ca70
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: nicobailon/visual-explainer
-  source_url: https://github.com/nicobailon/visual-explainer
-  content_lock:
-    locked_ref: 7163c3e10660912e0b89e1af465db9f387282b88
-    locked_url: https://github.com/nicobailon/visual-explainer/commit/7163c3e10660912e0b89e1af465db9f387282b88
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: nizos/tdd-guard
-  source_url: https://github.com/nizos/tdd-guard
-  content_lock:
-    locked_ref: fa4fa79551c279ffae68fd108b23be7b17082ab0
-    locked_url: https://github.com/nizos/tdd-guard/commit/fa4fa79551c279ffae68fd108b23be7b17082ab0
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: obra/superpowers
-  source_url: https://github.com/obra/superpowers
-  content_lock:
-    locked_ref: b36e0829c6d0140e93cfef2ca599b1b07d4a7797
-    locked_url: https://github.com/obra/superpowers/commit/b36e0829c6d0140e93cfef2ca599b1b07d4a7797
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: open-gsd/gsd-core
-  source_url: https://github.com/open-gsd/gsd-core
-  content_lock:
-    locked_ref: ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
-    locked_url: https://github.com/open-gsd/gsd-core/commit/ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: openai/evals
-  source_url: https://github.com/openai/evals
-  content_lock:
-    locked_ref: 8eac7a7de5215c907fbddc30efdaf316913eccdd
-    locked_url: https://github.com/openai/evals/commit/8eac7a7de5215c907fbddc30efdaf316913eccdd
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: openai/symphony
-  source_url: https://github.com/openai/symphony
-  content_lock:
-    locked_ref: e0ccc83720a42a600a53b61c5f8d3e518bebe1db
-    locked_url: https://github.com/openai/symphony/commit/e0ccc83720a42a600a53b61c5f8d3e518bebe1db
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: openchamber/openchamber
-  source_url: https://github.com/openchamber/openchamber
-  content_lock:
-    locked_ref: 1636fd2bf8e4e29ee82fae3f4b2326195d9de825
-    locked_url: https://github.com/openchamber/openchamber/commit/1636fd2bf8e4e29ee82fae3f4b2326195d9de825
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: openclaw/openclaw
-  source_url: https://github.com/openclaw/openclaw
-  content_lock:
-    locked_ref: bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
-    locked_url: https://github.com/openclaw/openclaw/commit/bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: paperclipai/paperclip
-  source_url: https://github.com/paperclipai/paperclip
-  content_lock:
-    locked_ref: 13368c518303e886a5c9445fbc69afcbdf0a9228
-    locked_url: https://github.com/paperclipai/paperclip/commit/13368c518303e886a5c9445fbc69afcbdf0a9228
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: pbakaus/impeccable
-  source_url: https://github.com/pbakaus/impeccable
-  content_lock:
-    locked_ref: cb56ed6c19a07329a9fa0cd4e657bee040156593
-    locked_url: https://github.com/pbakaus/impeccable/commit/cb56ed6c19a07329a9fa0cd4e657bee040156593
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: phuryn/pm-skills
-  source_url: https://github.com/phuryn/pm-skills
-  content_lock:
-    locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
-    locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
-    locked_at: '2026-09-14'
-    update_policy: monthly_pr
-    vendored: false
-- repo: riba2534/feishu-cli
-  source_url: https://github.com/riba2534/feishu-cli
-  content_lock:
-    locked_ref: 930c3f56eef89473d007e1f43eeb338df87f5281
-    locked_url: https://github.com/riba2534/feishu-cli/commit/930c3f56eef89473d007e1f43eeb338df87f5281
+    locked_ref: 5076683ab88d714390573d8f88ff3c470e51129a
+    locked_url: https://github.com/EverMind-AI/EverOS/commit/5076683ab88d714390573d8f88ff3c470e51129a
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -689,11 +201,251 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: rullerzhou-afk/clawd-on-desk
-  source_url: https://github.com/rullerzhou-afk/clawd-on-desk
+- repo: AAAAAAAJ/WaytoAGI-CLI
+  source_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI
   content_lock:
-    locked_ref: 9367b8c3b1c2ec665fd2a804eddc96303f876258
-    locked_url: https://github.com/rullerzhou-afk/clawd-on-desk/commit/9367b8c3b1c2ec665fd2a804eddc96303f876258
+    locked_ref: e145d1af49ec8c03ac329c6718932e207d4664cb
+    locked_url: https://github.com/AAAAAAAJ/WaytoAGI-CLI/commit/e145d1af49ec8c03ac329c6718932e207d4664cb
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: NousResearch/hermes-agent
+  source_url: https://github.com/NousResearch/hermes-agent
+  content_lock:
+    locked_ref: 5eb99eb2844b22ebb723711b8e6a0bbb80bb5f04
+    locked_url: https://github.com/NousResearch/hermes-agent/commit/5eb99eb2844b22ebb723711b8e6a0bbb80bb5f04
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: agenticnotetaking/arscontexta
+  source_url: https://github.com/agenticnotetaking/arscontexta
+  content_lock:
+    locked_ref: 2acfd5cc4473c4d06c46be63df748e77e00e2746
+    locked_url: https://github.com/agenticnotetaking/arscontexta/commit/2acfd5cc4473c4d06c46be63df748e77e00e2746
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: volcengine/OpenViking
+  source_url: https://github.com/volcengine/OpenViking
+  content_lock:
+    locked_ref: b54001e2e5c974ffd7a09ba543813fa104a99561
+    locked_url: https://github.com/volcengine/OpenViking/commit/b54001e2e5c974ffd7a09ba543813fa104a99561
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: code-yeongyu/oh-my-openagent
+  source_url: https://github.com/code-yeongyu/oh-my-openagent
+  content_lock:
+    locked_ref: dd258670924870378ea5f0f4a7039d05f5a3a06a
+    locked_url: https://github.com/code-yeongyu/oh-my-openagent/commit/dd258670924870378ea5f0f4a7039d05f5a3a06a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: anomalyco/opencode
+  source_url: https://github.com/anomalyco/opencode
+  content_lock:
+    locked_ref: df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
+    locked_url: https://github.com/anomalyco/opencode/commit/df23b7f9488a38e6f8064a0739d4f8cde86d7cfb
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: affaan-m/ECC
+  source_url: https://github.com/affaan-m/ECC
+  content_lock:
+    locked_ref: 8321021c54d670126ce3b2969d5deb880b4b0c2a
+    locked_url: https://github.com/affaan-m/ECC/commit/8321021c54d670126ce3b2969d5deb880b4b0c2a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: openclaw/openclaw
+  source_url: https://github.com/openclaw/openclaw
+  content_lock:
+    locked_ref: bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
+    locked_url: https://github.com/openclaw/openclaw/commit/bcb8fa7b2bd558f87cc8fa342ec678d859a6733d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: botiverse/hands
+  source_url: https://github.com/botiverse/hands
+  content_lock:
+    locked_ref: e16ce58c624b5c1f66239309787090086171c0f5
+    locked_url: https://github.com/botiverse/hands/commit/e16ce58c624b5c1f66239309787090086171c0f5
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: SeemSeam/claude_codex_bridge
+  source_url: https://github.com/SeemSeam/claude_codex_bridge
+  content_lock:
+    locked_ref: 20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
+    locked_url: https://github.com/SeemSeam/claude_codex_bridge/commit/20ac0ec58c17375bab2ce3bb75fa2efcc5bd8cf6
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: SeemSeam/plan-tree
+  source_url: https://github.com/SeemSeam/plan-tree
+  content_lock:
+    locked_ref: b57be82610307fba9a1c266b6e7e2f35dd5b7e33
+    locked_url: https://github.com/SeemSeam/plan-tree/commit/b57be82610307fba9a1c266b6e7e2f35dd5b7e33
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: mattpocock/skills
+  source_url: https://github.com/mattpocock/skills
+  content_lock:
+    locked_ref: 3cca18b368ae95cdbdebbff572ccafa662551015
+    locked_url: https://github.com/mattpocock/skills/commit/3cca18b368ae95cdbdebbff572ccafa662551015
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: huangruiteng/loopx
+  source_url: https://github.com/huangruiteng/loopx
+  content_lock:
+    locked_ref: f87b5ea90e5313ce19ce75a849dd259e7c5aa250
+    locked_url: https://github.com/huangruiteng/loopx/commit/f87b5ea90e5313ce19ce75a849dd259e7c5aa250
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: chenjin-cmd/wechat-miniprogram-builder
+  source_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder
+  content_lock:
+    locked_ref: e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_url: https://github.com/chenjin-cmd/wechat-miniprogram-builder/commit/e8bba7855d9209451b2d2b5a9fa17c15b8d42401
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: multica-ai/multica
+  source_url: https://github.com/multica-ai/multica
+  content_lock:
+    locked_ref: 7dafc0cd625425b91e698a5f6e555a37a1846e68
+    locked_url: https://github.com/multica-ai/multica/commit/7dafc0cd625425b91e698a5f6e555a37a1846e68
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: phuryn/pm-skills
+  source_url: https://github.com/phuryn/pm-skills
+  content_lock:
+    locked_ref: 18468a95b427e70e258b51389796367c6f684e7d
+    locked_url: https://github.com/phuryn/pm-skills/commit/18468a95b427e70e258b51389796367c6f684e7d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: catlog22/Claude-Code-Workflow
+  source_url: https://github.com/catlog22/Claude-Code-Workflow
+  content_lock:
+    locked_ref: 07491b04ac30c9a2d887f443661288b1b7520832
+    locked_url: https://github.com/catlog22/Claude-Code-Workflow/commit/07491b04ac30c9a2d887f443661288b1b7520832
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: open-gsd/gsd-core
+  source_url: https://github.com/open-gsd/gsd-core
+  content_lock:
+    locked_ref: ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
+    locked_url: https://github.com/open-gsd/gsd-core/commit/ed819aa4d642b2511f3811a0fc0c32cabfd8e7e9
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: msitarzewski/agency-agents
+  source_url: https://github.com/msitarzewski/agency-agents
+  content_lock:
+    locked_ref: ad9264e309bd5e5422c04784372d7841b1e5d604
+    locked_url: https://github.com/msitarzewski/agency-agents/commit/ad9264e309bd5e5422c04784372d7841b1e5d604
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Enderfga/claw-orchestrator
+  source_url: https://github.com/Enderfga/claw-orchestrator
+  content_lock:
+    locked_ref: 3e09b032a2f95fa520648f959f4ac9cdc7393350
+    locked_url: https://github.com/Enderfga/claw-orchestrator/commit/3e09b032a2f95fa520648f959f4ac9cdc7393350
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: openai/evals
+  source_url: https://github.com/openai/evals
+  content_lock:
+    locked_ref: 8eac7a7de5215c907fbddc30efdaf316913eccdd
+    locked_url: https://github.com/openai/evals/commit/8eac7a7de5215c907fbddc30efdaf316913eccdd
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: garrytan/gstack
+  source_url: https://github.com/garrytan/gstack
+  content_lock:
+    locked_ref: 71f6048e8ada25180e61438abc1d98cb151fe9a7
+    locked_url: https://github.com/garrytan/gstack/commit/71f6048e8ada25180e61438abc1d98cb151fe9a7
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: karpathy/autoresearch
+  source_url: https://github.com/karpathy/autoresearch
+  content_lock:
+    locked_ref: 228791fb499afffb54b46200aca536f79142f117
+    locked_url: https://github.com/karpathy/autoresearch/commit/228791fb499afffb54b46200aca536f79142f117
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: openai/symphony
+  source_url: https://github.com/openai/symphony
+  content_lock:
+    locked_ref: e0ccc83720a42a600a53b61c5f8d3e518bebe1db
+    locked_url: https://github.com/openai/symphony/commit/e0ccc83720a42a600a53b61c5f8d3e518bebe1db
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: paperclipai/paperclip
+  source_url: https://github.com/paperclipai/paperclip
+  content_lock:
+    locked_ref: 13368c518303e886a5c9445fbc69afcbdf0a9228
+    locked_url: https://github.com/paperclipai/paperclip/commit/13368c518303e886a5c9445fbc69afcbdf0a9228
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Untrivial-ai/agent-orchestrator
+  source_url: https://github.com/Untrivial-ai/agent-orchestrator
+  content_lock:
+    locked_ref: 84fb98e3f14e8833f0df4481e7c9af620d42297a
+    locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/84fb98e3f14e8833f0df4481e7c9af620d42297a
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: cft0808/edict
+  source_url: https://github.com/cft0808/edict
+  content_lock:
+    locked_ref: 14a207557719c046af0f993a7bff1cc5a5015b33
+    locked_url: https://github.com/cft0808/edict/commit/14a207557719c046af0f993a7bff1cc5a5015b33
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Yeachan-Heo/oh-my-claudecode
+  source_url: https://github.com/Yeachan-Heo/oh-my-claudecode
+  content_lock:
+    locked_ref: 5281b19e0d64f8e6dc6767f2130299a88af2dc71
+    locked_url: https://github.com/Yeachan-Heo/oh-my-claudecode/commit/5281b19e0d64f8e6dc6767f2130299a88af2dc71
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: obra/superpowers
+  source_url: https://github.com/obra/superpowers
+  content_lock:
+    locked_ref: b36e0829c6d0140e93cfef2ca599b1b07d4a7797
+    locked_url: https://github.com/obra/superpowers/commit/b36e0829c6d0140e93cfef2ca599b1b07d4a7797
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: frankbria/ralph-claude-code
+  source_url: https://github.com/frankbria/ralph-claude-code
+  content_lock:
+    locked_ref: e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
+    locked_url: https://github.com/frankbria/ralph-claude-code/commit/e8533cc3f00900e6f3f4acf8c8761e1db4a26e47
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Pimzino/claude-code-spec-workflow
+  source_url: https://github.com/Pimzino/claude-code-spec-workflow
+  content_lock:
+    locked_ref: f3de74d8055120658ac199bfca865a3e1de9fd99
+    locked_url: https://github.com/Pimzino/claude-code-spec-workflow/commit/f3de74d8055120658ac199bfca865a3e1de9fd99
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -705,19 +457,91 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: shareAI-lab/learn-claude-code
-  source_url: https://github.com/shareAI-lab/learn-claude-code
+- repo: nizos/tdd-guard
+  source_url: https://github.com/nizos/tdd-guard
   content_lock:
-    locked_ref: 0dcafa2ae053a1ddd6a72f265431104b08a5aa13
-    locked_url: https://github.com/shareAI-lab/learn-claude-code/commit/0dcafa2ae053a1ddd6a72f265431104b08a5aa13
+    locked_ref: fa4fa79551c279ffae68fd108b23be7b17082ab0
+    locked_url: https://github.com/nizos/tdd-guard/commit/fa4fa79551c279ffae68fd108b23be7b17082ab0
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: tt-a1i/archify
-  source_url: https://github.com/tt-a1i/archify
+- repo: SuperClaude-Org/SuperClaude_Framework
+  source_url: https://github.com/SuperClaude-Org/SuperClaude_Framework
   content_lock:
-    locked_ref: a07fa1d5b2a10cbea110c5a2be2817397a301cdc
-    locked_url: https://github.com/tt-a1i/archify/commit/a07fa1d5b2a10cbea110c5a2be2817397a301cdc
+    locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
+    locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nexu-io/html-anything
+  source_url: https://github.com/nexu-io/html-anything
+  content_lock:
+    locked_ref: c31204544230578ac814026fecc153c6e36587ae
+    locked_url: https://github.com/nexu-io/html-anything/commit/c31204544230578ac814026fecc153c6e36587ae
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nextlevelbuilder/ui-ux-pro-max-skill
+  source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+  content_lock:
+    locked_ref: 7f69fed6a2717900085f1bc3b263721f8ba025e2
+    locked_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/commit/7f69fed6a2717900085f1bc3b263721f8ba025e2
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: pbakaus/impeccable
+  source_url: https://github.com/pbakaus/impeccable
+  content_lock:
+    locked_ref: cb56ed6c19a07329a9fa0cd4e657bee040156593
+    locked_url: https://github.com/pbakaus/impeccable/commit/cb56ed6c19a07329a9fa0cd4e657bee040156593
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: alchaincyf/darwin-skill
+  source_url: https://github.com/alchaincyf/darwin-skill
+  content_lock:
+    locked_ref: 5539516444cff4eed7865daf61a707590acda485
+    locked_url: https://github.com/alchaincyf/darwin-skill/commit/5539516444cff4eed7865daf61a707590acda485
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: LearnPrompt/luban-skill
+  source_url: https://github.com/LearnPrompt/luban-skill
+  content_lock:
+    locked_ref: cea2da3310273d77f92ca884d82beda554f9a6cb
+    locked_url: https://github.com/LearnPrompt/luban-skill/commit/cea2da3310273d77f92ca884d82beda554f9a6cb
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Leonxlnx/taste-skill
+  source_url: https://github.com/Leonxlnx/taste-skill
+  content_lock:
+    locked_ref: ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_url: https://github.com/Leonxlnx/taste-skill/commit/ccbc15639c97057cbfcf32ecebc38ef716e4bb37
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nexu-io/open-design
+  source_url: https://github.com/nexu-io/open-design
+  content_lock:
+    locked_ref: 1424be9727013c0ecc070f6724c4b764bd49ca70
+    locked_url: https://github.com/nexu-io/open-design/commit/1424be9727013c0ecc070f6724c4b764bd49ca70
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: czlonkowski/n8n-skills
+  source_url: https://github.com/czlonkowski/n8n-skills
+  content_lock:
+    locked_ref: 2df0f18cb52050d5b517654cc69544831aa2593c
+    locked_url: https://github.com/czlonkowski/n8n-skills/commit/2df0f18cb52050d5b517654cc69544831aa2593c
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Martian-Engineering/lossless-claw
+  source_url: https://github.com/Martian-Engineering/lossless-claw
+  content_lock:
+    locked_ref: a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
+    locked_url: https://github.com/Martian-Engineering/lossless-claw/commit/a3eedf5c94ea838fa0a1eeb28bb2388eb450de78
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -729,19 +553,19 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: vercel-labs/json-render
-  source_url: https://github.com/vercel-labs/json-render
+- repo: YishenTu/claudian
+  source_url: https://github.com/YishenTu/claudian
   content_lock:
-    locked_ref: 6c7164342a37fab055907f1666658e1333e2cb86
-    locked_url: https://github.com/vercel-labs/json-render/commit/6c7164342a37fab055907f1666658e1333e2cb86
+    locked_ref: 2c07ee664439cb2b24bae6a7952f266e2968f24a
+    locked_url: https://github.com/YishenTu/claudian/commit/2c07ee664439cb2b24bae6a7952f266e2968f24a
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: volcengine/OpenViking
-  source_url: https://github.com/volcengine/OpenViking
+- repo: anthropics/skills
+  source_url: https://github.com/anthropics/skills
   content_lock:
-    locked_ref: b54001e2e5c974ffd7a09ba543813fa104a99561
-    locked_url: https://github.com/volcengine/OpenViking/commit/b54001e2e5c974ffd7a09ba543813fa104a99561
+    locked_ref: 34040c9c568585f6929bedeaad110ad08f079624
+    locked_url: https://github.com/anthropics/skills/commit/34040c9c568585f6929bedeaad110ad08f079624
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
@@ -761,6 +585,102 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+- repo: alchaincyf/hermes-agent-orange-book
+  source_url: https://github.com/alchaincyf/hermes-agent-orange-book
+  content_lock:
+    locked_ref: 9ac06e1d05373c3b8b6d49751e8a59c1475f9867
+    locked_url: https://github.com/alchaincyf/hermes-agent-orange-book/commit/9ac06e1d05373c3b8b6d49751e8a59c1475f9867
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: freestylefly/CodexGuide
+  source_url: https://github.com/freestylefly/CodexGuide
+  content_lock:
+    locked_ref: 02d7b779d74fca29fd1e24cbede5233e436c9958
+    locked_url: https://github.com/freestylefly/CodexGuide/commit/02d7b779d74fca29fd1e24cbede5233e436c9958
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: hangsman/claude-code-source
+  source_url: https://github.com/hangsman/claude-code-source
+  content_lock:
+    locked_ref: d239e3f2c574b527f9f8691375525029edb3752d
+    locked_url: https://github.com/hangsman/claude-code-source/commit/d239e3f2c574b527f9f8691375525029edb3752d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: ChinaSiro/claude-code-sourcemap
+  source_url: https://github.com/ChinaSiro/claude-code-sourcemap
+  content_lock:
+    locked_ref: a8a678cb6244e6770e1e421767ff0987a1d95549
+    locked_url: https://github.com/ChinaSiro/claude-code-sourcemap/commit/a8a678cb6244e6770e1e421767ff0987a1d95549
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: libukai/awesome-agent-skills
+  source_url: https://github.com/libukai/awesome-agent-skills
+  content_lock:
+    locked_ref: 5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
+    locked_url: https://github.com/libukai/awesome-agent-skills/commit/5ccadec8831fc1697c47b31e04e8b037b9ca7f8d
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: shareAI-lab/learn-claude-code
+  source_url: https://github.com/shareAI-lab/learn-claude-code
+  content_lock:
+    locked_ref: 0dcafa2ae053a1ddd6a72f265431104b08a5aa13
+    locked_url: https://github.com/shareAI-lab/learn-claude-code/commit/0dcafa2ae053a1ddd6a72f265431104b08a5aa13
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: anthropics/claude-cookbooks
+  source_url: https://github.com/anthropics/claude-cookbooks
+  content_lock:
+    locked_ref: a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
+    locked_url: https://github.com/anthropics/claude-cookbooks/commit/a97b9a2dc300635f0c26b5e05d0b54bbe0279ee5
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: birobirobiro/awesome-shadcn-ui
+  source_url: https://github.com/birobirobiro/awesome-shadcn-ui
+  content_lock:
+    locked_ref: 395573307d792e48d6dd319cc7f17a89f37b36bf
+    locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/395573307d792e48d6dd319cc7f17a89f37b36bf
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: tt-a1i/archify
+  source_url: https://github.com/tt-a1i/archify
+  content_lock:
+    locked_ref: a07fa1d5b2a10cbea110c5a2be2817397a301cdc
+    locked_url: https://github.com/tt-a1i/archify/commit/a07fa1d5b2a10cbea110c5a2be2817397a301cdc
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: furkankly/zoetrope
+  source_url: https://github.com/furkankly/zoetrope
+  content_lock:
+    locked_ref: b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
+    locked_url: https://github.com/furkankly/zoetrope/commit/b1f31dd26bd4e9e513885e39edb78d0850a5d1fe
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: kenn-io/agentsview
+  source_url: https://github.com/kenn-io/agentsview
+  content_lock:
+    locked_ref: 9be7745ad1906ee24e04eb05bb86c872ef0939a1
+    locked_url: https://github.com/kenn-io/agentsview/commit/9be7745ad1906ee24e04eb05bb86c872ef0939a1
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Cocoon-AI/architecture-diagram-generator
+  source_url: https://github.com/Cocoon-AI/architecture-diagram-generator
+  content_lock:
+    locked_ref: 4b9087d55268c79a935105439dbcd37b630fc3f3
+    locked_url: https://github.com/Cocoon-AI/architecture-diagram-generator/commit/4b9087d55268c79a935105439dbcd37b630fc3f3
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
 - repo: yizhiyanhua-ai/fireworks-tech-graph
   source_url: https://github.com/yizhiyanhua-ai/fireworks-tech-graph
   content_lock:
@@ -769,11 +689,91 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
+- repo: chuspeeism/dashi-taskboard
+  source_url: https://github.com/chuspeeism/dashi-taskboard
+  content_lock:
+    locked_ref: c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
+    locked_url: https://github.com/chuspeeism/dashi-taskboard/commit/c346e8e16c9cf6d61969d826d33fe7f6b5bcbc8f
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: Niall-Young/Canvasight
+  source_url: https://github.com/Niall-Young/Canvasight
+  content_lock:
+    locked_ref: b4a002db9c4ff3af3388d12a50f632104493bfd7
+    locked_url: https://github.com/Niall-Young/Canvasight/commit/b4a002db9c4ff3af3388d12a50f632104493bfd7
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: cclank/lanshu-animated-architecture-diagram
+  source_url: https://github.com/cclank/lanshu-animated-architecture-diagram
+  content_lock:
+    locked_ref: c17f5b4e5de99d3603b364530ad04d930d038d24
+    locked_url: https://github.com/cclank/lanshu-animated-architecture-diagram/commit/c17f5b4e5de99d3603b364530ad04d930d038d24
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: rullerzhou-afk/clawd-on-desk
+  source_url: https://github.com/rullerzhou-afk/clawd-on-desk
+  content_lock:
+    locked_ref: 9367b8c3b1c2ec665fd2a804eddc96303f876258
+    locked_url: https://github.com/rullerzhou-afk/clawd-on-desk/commit/9367b8c3b1c2ec665fd2a804eddc96303f876258
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: coze-dev/coze-studio
+  source_url: https://github.com/coze-dev/coze-studio
+  content_lock:
+    locked_ref: fefb05ff27be1da939612fbf9faf5db62583b8ae
+    locked_url: https://github.com/coze-dev/coze-studio/commit/fefb05ff27be1da939612fbf9faf5db62583b8ae
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: openchamber/openchamber
+  source_url: https://github.com/openchamber/openchamber
+  content_lock:
+    locked_ref: 1636fd2bf8e4e29ee82fae3f4b2326195d9de825
+    locked_url: https://github.com/openchamber/openchamber/commit/1636fd2bf8e4e29ee82fae3f4b2326195d9de825
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: nicobailon/visual-explainer
+  source_url: https://github.com/nicobailon/visual-explainer
+  content_lock:
+    locked_ref: 7163c3e10660912e0b89e1af465db9f387282b88
+    locked_url: https://github.com/nicobailon/visual-explainer/commit/7163c3e10660912e0b89e1af465db9f387282b88
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
 - repo: zhaoxinyi02/ClawPanel
   source_url: https://github.com/zhaoxinyi02/ClawPanel
   content_lock:
     locked_ref: 28cfcb958da83c309598043f95a0cfc0d169b911
     locked_url: https://github.com/zhaoxinyi02/ClawPanel/commit/28cfcb958da83c309598043f95a0cfc0d169b911
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: grp06/openclaw-studio
+  source_url: https://github.com/grp06/openclaw-studio
+  content_lock:
+    locked_ref: 732b994120bbe34c0ce5711b074207cbd8b97d52
+    locked_url: https://github.com/grp06/openclaw-studio/commit/732b994120bbe34c0ce5711b074207cbd8b97d52
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: vercel-labs/json-render
+  source_url: https://github.com/vercel-labs/json-render
+  content_lock:
+    locked_ref: 6c7164342a37fab055907f1666658e1333e2cb86
+    locked_url: https://github.com/vercel-labs/json-render/commit/6c7164342a37fab055907f1666658e1333e2cb86
+    locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: BloopAI/vibe-kanban
+  source_url: https://github.com/BloopAI/vibe-kanban
+  content_lock:
+    locked_ref: 4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
+    locked_url: https://github.com/BloopAI/vibe-kanban/commit/4deb7eca8f381f7cbc1f9d15515a9ab8f8009053
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
