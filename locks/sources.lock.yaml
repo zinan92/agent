@@ -1,5 +1,5 @@
-snapshot_id: github-universe-2026-09-19-catalog-order-01
-generated_from_checksum: cf1d439c3a4730a50198508852e2304c7d3aa716a9039f806dca596d68e98d29
+snapshot_id: github-universe-2026-09-26-star-refresh-01
+generated_from_checksum: b236a0cfdd4f818f75b9e981953ac88e01fefeed4ee3af34e8ca2bc1b7f70dc0
 locks:
 - repo: citrolabs/ego-lite
   source_url: https://github.com/citrolabs/ego-lite
@@ -297,12 +297,12 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: huangruiteng/loopx
-  source_url: https://github.com/huangruiteng/loopx
+- repo: loopx-project/loopx
+  source_url: https://github.com/loopx-project/loopx
   content_lock:
-    locked_ref: f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_url: https://github.com/huangruiteng/loopx/commit/f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_at: '2026-09-14'
+    locked_ref: 71dbfd5e605da4e7efdb58c87cd3f4a96d39e0e5
+    locked_url: https://github.com/loopx-project/loopx/commit/71dbfd5e605da4e7efdb58c87cd3f4a96d39e0e5
+    locked_at: 2026-09-26-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: chenjin-cmd/wechat-miniprogram-builder
@@ -647,6 +647,14 @@ locks:
     locked_ref: 395573307d792e48d6dd319cc7f17a89f37b36bf
     locked_url: https://github.com/birobirobiro/awesome-shadcn-ui/commit/395573307d792e48d6dd319cc7f17a89f37b36bf
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: ahmedkhaleel2004/gitdiagram
+  source_url: https://github.com/ahmedkhaleel2004/gitdiagram
+  content_lock:
+    locked_ref: ddf88f66bd149303d914ae9c6e64aea139f941fc
+    locked_url: https://github.com/ahmedkhaleel2004/gitdiagram/commit/ddf88f66bd149303d914ae9c6e64aea139f941fc
+    locked_at: 2026-09-26-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: tt-a1i/archify
