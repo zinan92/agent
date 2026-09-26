@@ -4,7 +4,7 @@
 
 **Agent 的 capability-first catalog：先按功能分类，再按加入时间从新到旧浏览。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-107%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-108%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 107-repo Agent catalog, grouped by function and ordered newest-added first
+out 108-repo Agent catalog, grouped by function and ordered newest-added first
 
 fail snapshot checksum mismatch → stop before publishing
 fail missing created_at / starred_at → stop; do not guess ordering
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-09-26-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -87,7 +87,7 @@ Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Pa
 | [SeemSeam/plan-tree](https://github.com/SeemSeam/plan-tree) | Codex skill for maintaining structured planning document trees | Starred | `2026-09-02` | `b57be8261030` |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Starred | `2026-08-17` | `3cca18b368ae` |
 | [zinan92/wechat-miniprogram-shipping](https://github.com/zinan92/wechat-miniprogram-shipping) | 证据门控的原生微信小程序交付路由器。in 意图/项目证据 → out 合同、QA verdict、可回退 receipt | Owned + Starred | `2026-08-14` | `owned source` |
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses. | Starred | `2026-08-03` | `f87b5ea90e53` |
+| [loopx-project/loopx](https://github.com/loopx-project/loopx) | A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention. | Starred | `2026-08-03` | `71dbfd5e605d` |
 | [chenjin-cmd/wechat-miniprogram-builder](https://github.com/chenjin-cmd/wechat-miniprogram-builder) | wechat-miniprogram-builder | Starred | `2026-08-02` | `e8bba7855d92` |
 | [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. | Starred | `2026-07-12` | `7dafc0cd6254` |
 | [zinan92/loop](https://github.com/zinan92/loop) | 把一次性 coding-agent prompt 变成「按价值排序、可审计、可暂停」的执行闭环 · Value-ranked, auditable, pausable coding-agent loop. in: local Git repo + contract → out: GitHub issues/PRs + digest. Codex or Claude, macOS. | Owned + Starred | `2026-06-15` | `owned source` |
@@ -146,10 +146,11 @@ Snapshot: `github-universe-2026-09-19-catalog-order-01` · canonical source: [Pa
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. | Starred | `2026-02-27` | `a97b9a2dc300` |
 | [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) | A curated list of awesome things related to shadcn/ui. | Starred | `2025-09-16` | `395573307d79` |
 
-### Agent Observability (17)
+### Agent Observability (18)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Free, simple, fast interactive diagrams and videos for any GitHub repository | Starred | `2026-09-19` | `ddf88f66bd14` |
 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. | Starred | `2026-09-03` | `a07fa1d5b2a1` |
 | [zinan92/agent-ticket-tracker](https://github.com/zinan92/agent-ticket-tracker) | Agent delivery map and safe wake briefs. in local spec and ticket artifacts → out map, evidence view, and safe next-action brief | Owned | `2026-08-27` | `owned source` |
 | [furkankly/zoetrope](https://github.com/furkankly/zoetrope) | Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser. | Starred | `2026-08-25` | `b1f31dd26bd4` |

@@ -1,7 +1,7 @@
 universe: agent
-snapshot_id: github-universe-2026-09-19-catalog-order-01
+snapshot_id: github-universe-2026-09-26-star-refresh-01
 generated_from: zinan92/park-operating-system
-generated_from_checksum: cf1d439c3a4730a50198508852e2304c7d3aa716a9039f806dca596d68e98d29
+generated_from_checksum: b236a0cfdd4f818f75b9e981953ac88e01fefeed4ee3af34e8ca2bc1b7f70dc0
 entries:
 - universe: agent
   repo: citrolabs/ego-lite
@@ -1397,19 +1397,21 @@ entries:
     pushed_at: '2026-09-12T11:35:32Z'
   catalog_added_at: '2026-08-14T04:15:48Z'
 - universe: agent
-  repo: huangruiteng/loopx
+  repo: loopx-project/loopx
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
   primary_category: workflow
+  catalog_added_at: '2026-08-03T03:24:57Z'
   tags:
   - python
-  source_url: https://github.com/huangruiteng/loopx
+  source_url: https://github.com/loopx-project/loopx
   visibility: public
   archived: false
-  description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+  description: A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving
+    across sessions, with less human attention.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1417,17 +1419,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+    description: A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving
+      across sessions, with less human attention.
     license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:18:52Z'
+    checked_at: 2026-09-26-star-refresh-01
+    pushed_at: '2026-09-25T22:28:58Z'
   content_lock:
-    locked_ref: f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_url: https://github.com/huangruiteng/loopx/commit/f87b5ea90e5313ce19ce75a849dd259e7c5aa250
-    locked_at: '2026-09-14'
+    locked_ref: 71dbfd5e605da4e7efdb58c87cd3f4a96d39e0e5
+    locked_url: https://github.com/loopx-project/loopx/commit/71dbfd5e605da4e7efdb58c87cd3f4a96d39e0e5
+    locked_at: 2026-09-26-star-refresh-01
     update_policy: monthly_pr
     vendored: false
-  catalog_added_at: '2026-08-03T03:24:57Z'
 - universe: agent
   repo: chenjin-cmd/wechat-miniprogram-builder
   owned: false
@@ -3006,6 +3008,39 @@ entries:
     vendored: false
   catalog_added_at: '2025-09-16T06:20:59Z'
 - universe: agent
+  repo: ahmedkhaleel2004/gitdiagram
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: observability
+  catalog_added_at: '2026-09-19T07:50:07Z'
+  tags:
+  - typescript
+  - video
+  source_url: https://github.com/ahmedkhaleel2004/gitdiagram
+  visibility: public
+  archived: false
+  description: Free, simple, fast interactive diagrams and videos for any GitHub repository
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Free, simple, fast interactive diagrams and videos for any GitHub repository
+    license_spdx: MIT
+    checked_at: 2026-09-26-star-refresh-01
+    pushed_at: '2026-09-26T00:17:00Z'
+  content_lock:
+    locked_ref: ddf88f66bd149303d914ae9c6e64aea139f941fc
+    locked_url: https://github.com/ahmedkhaleel2004/gitdiagram/commit/ddf88f66bd149303d914ae9c6e64aea139f941fc
+    locked_at: 2026-09-26-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: agent
   repo: tt-a1i/archify
   owned: false
   starred: true
@@ -3571,4 +3606,4 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2025-10-06T09:42:14Z'
-export_checksum: ad034be86ea662998a6418a91cd5019ca252ff8de377f499c0a124d56b32b11d
+export_checksum: 0dc2e94b6af9eeb258e1a7912a6964fa1725fe494fb6d6a3654c9ca1b6eebf72
