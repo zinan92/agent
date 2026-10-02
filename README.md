@@ -4,7 +4,7 @@
 
 **Agent 的 capability-first catalog：先按功能分类，再按加入时间从新到旧浏览。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-108%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-111%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 108-repo Agent catalog, grouped by function and ordered newest-added first
+out 111-repo Agent catalog, grouped by function and ordered newest-added first
 
 fail snapshot checksum mismatch → stop before publishing
 fail missing created_at / starred_at → stop; do not guess ordering
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-09-26-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -31,10 +31,11 @@ Snapshot: `github-universe-2026-09-26-star-refresh-01` · canonical source: [Par
 
 ## Browse by function
 
-### Agent Eyes & Hands (18)
+### Agent Eyes & Hands (19)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) | Starred | `2026-09-27` | `ef371e8c6fd7` |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. | Starred | `2026-09-03` | `d01be93325c7` |
 | [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 | Starred | `2026-08-27` | `c8c065456b80` |
 | [riba2534/feishu-cli](https://github.com/riba2534/feishu-cli) | feishu-cli 是一个功能完整的飞书开放平台命令行工具。它将飞书文档、知识库、电子表格、消息、日历、任务等操作封装为简洁的命令行接口，核心能力是 Markdown ↔ 飞书文档双向无损转换。 | Starred | `2026-06-08` | `930c3f56eef8` |
@@ -112,10 +113,12 @@ Snapshot: `github-universe-2026-09-26-star-refresh-01` · canonical source: [Par
 | [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | Automated TDD enforcement for Claude Code | Starred | `2025-07-30` | `fa4fa79551c2` |
 | [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. | Starred | `2025-07-10` | `1b81e51db955` |
 
-### Agent Skills & Plugins (15)
+### Agent Skills & Plugins (17)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | Starred | `2026-09-28` | `e3ba2aa6f1e6` |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | Starred | `2026-09-27` | `cab634bd855f` |
 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. | Starred | `2026-07-10` | `c31204544230` |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. | Starred | `2026-06-29` | `7f69fed6a271` |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | Starred | `2026-06-29` | `cb56ed6c19a0` |
