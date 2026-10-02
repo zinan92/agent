@@ -1,6 +1,14 @@
-snapshot_id: github-universe-2026-09-26-star-refresh-01
-generated_from_checksum: b236a0cfdd4f818f75b9e981953ac88e01fefeed4ee3af34e8ca2bc1b7f70dc0
+snapshot_id: github-universe-2026-10-02-star-refresh-01
+generated_from_checksum: 8036d7497ce0a89e8e2ba8eba972c0f869998126ec2c6bb80038f20794ed3354
 locks:
+- repo: mobile-next/mobile-mcp
+  source_url: https://github.com/mobile-next/mobile-mcp
+  content_lock:
+    locked_ref: ef371e8c6fd7fee066d773b98a0ce6b57a73b42d
+    locked_url: https://github.com/mobile-next/mobile-mcp/commit/ef371e8c6fd7fee066d773b98a0ce6b57a73b42d
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - repo: citrolabs/ego-lite
   source_url: https://github.com/citrolabs/ego-lite
   content_lock:
@@ -471,6 +479,22 @@ locks:
     locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
     locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: DietrichGebert/ponytail
+  source_url: https://github.com/DietrichGebert/ponytail
+  content_lock:
+    locked_ref: e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156
+    locked_url: https://github.com/DietrichGebert/ponytail/commit/e3ba2aa6f1e6f0bc4d69eb09c9f0d0a93af56156
+    locked_at: 2026-10-02-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: zhaoxuya520/reverse-skill
+  source_url: https://github.com/zhaoxuya520/reverse-skill
+  content_lock:
+    locked_ref: cab634bd855fc287f6e420c1f36fd1a6b9245960
+    locked_url: https://github.com/zhaoxuya520/reverse-skill/commit/cab634bd855fc287f6e420c1f36fd1a6b9245960
+    locked_at: 2026-10-02-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: nexu-io/html-anything

@@ -2,8 +2,8 @@ universe: agent
 registry_repo: true
 registry_role: public_scoped
 canonical_registry_repo: zinan92/park-operating-system
-canonical_snapshot: github-universe-2026-09-26-star-refresh-01
-generated_from_checksum: b236a0cfdd4f818f75b9e981953ac88e01fefeed4ee3af34e8ca2bc1b7f70dc0
-export_checksum: 0dc2e94b6af9eeb258e1a7912a6964fa1725fe494fb6d6a3654c9ca1b6eebf72
+canonical_snapshot: github-universe-2026-10-02-star-refresh-01
+generated_from_checksum: 8036d7497ce0a89e8e2ba8eba972c0f869998126ec2c6bb80038f20794ed3354
+export_checksum: c11ad1abdfdd41fa497f91e1c2399565532a5e4588610d468f1cf1ba95c010bb
 catalog_order: category_then_added_desc
 catalog_time_source: owned_created_at_external_starred_at
