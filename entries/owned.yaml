@@ -1,5 +1,31 @@
-snapshot_id: github-universe-2026-10-02-star-refresh-01
+snapshot_id: github-universe-2026-10-19-star-refresh-01
 entries:
+- universe: agent
+  repo: zinan92/iPhone-use
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  catalog_added_at: '2026-10-12T06:49:24Z'
+  tags:
+  - product
+  source_url: https://github.com/zinan92/iPhone-use
+  visibility: public
+  archived: false
+  description: 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-10T13:58:28Z'
 - universe: agent
   repo: zinan92/agent-browser
   owned: true
@@ -198,6 +224,32 @@ entries:
     pushed_at: '2026-03-27T10:51:11Z'
   catalog_added_at: '2026-03-15T14:36:06Z'
 - universe: agent
+  repo: zinan92/rea
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  catalog_added_at: '2026-10-12T06:41:06Z'
+  tags:
+  - product
+  source_url: https://github.com/zinan92/rea
+  visibility: public
+  archived: false
+  description: Reverse engineer anything with agents, from app behavior down to native binaries.
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Reverse engineer anything with agents, from app behavior down to native binaries.
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-12T06:29:20Z'
+- universe: agent
   repo: zinan92/repo-evals
   owned: true
   starred: true
@@ -251,6 +303,34 @@ entries:
     checked_at: '2026-09-14'
     pushed_at: '2026-03-19T06:43:22Z'
   catalog_added_at: '2026-03-19T06:42:46Z'
+- universe: agent
+  repo: zinan92/park-knowledge
+  owned: true
+  starred: false
+  source_kind: owned
+  registry_repo: false
+  registry_role: null
+  primary_category: knowledge
+  catalog_added_at: '2026-10-17T02:40:25Z'
+  tags:
+  - memory
+  - python
+  - skill
+  source_url: https://github.com/zinan92/park-knowledge
+  visibility: public
+  archived: false
+  description: 知识树：把别人的知识内化成领域专家 skill
+  status: BUILDING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 知识树：把别人的知识内化成领域专家 skill
+    license_spdx: NOASSERTION
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-19T03:01:04Z'
 - universe: agent
   repo: zinan92/agent-ticket-tracker
   owned: true
