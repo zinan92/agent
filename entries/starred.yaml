@@ -1,5 +1,71 @@
-snapshot_id: github-universe-2026-10-02-star-refresh-01
+snapshot_id: github-universe-2026-10-19-star-refresh-01
 entries:
+- universe: agent
+  repo: onehumanbeing/esp32-iphone-agent
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  catalog_added_at: '2026-10-14T11:28:17Z'
+  tags: []
+  source_url: https://github.com/onehumanbeing/esp32-iphone-agent
+  visibility: public
+  archived: false
+  description: 'Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision
+    model. No Mac, no developer account, no jailbreak.'
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 'Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision
+      model. No Mac, no developer account, no jailbreak.'
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-19T04:37:15Z'
+  content_lock:
+    locked_ref: 68751e4d89abf64af338de39e5452da30d8f2173
+    locked_url: https://github.com/onehumanbeing/esp32-iphone-agent/commit/68751e4d89abf64af338de39e5452da30d8f2173
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- universe: agent
+  repo: zhongerxin/iPhone-use
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: eyes-and-hands
+  catalog_added_at: '2026-10-09T03:04:25Z'
+  tags:
+  - product
+  - python
+  source_url: https://github.com/zhongerxin/iPhone-use
+  visibility: public
+  archived: false
+  description: 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-16T08:47:41Z'
+  content_lock:
+    locked_ref: 80006885df81531ce7a874b3b0df65980e25e59b
+    locked_url: https://github.com/zhongerxin/iPhone-use/commit/80006885df81531ce7a874b3b0df65980e25e59b
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: agent
   repo: mobile-next/mobile-mcp
   owned: false
@@ -1697,20 +1763,22 @@ entries:
     vendored: false
   catalog_added_at: '2026-03-13T10:35:12Z'
 - universe: agent
-  repo: Untrivial-ai/agent-orchestrator
+  repo: OrchestratorInc/agent-orchestrator
   owned: false
   starred: true
   source_kind: starred
   registry_repo: false
   registry_role: null
   primary_category: workflow
+  catalog_added_at: '2026-03-02T03:09:29Z'
   tags:
   - orchestration
-  source_url: https://github.com/Untrivial-ai/agent-orchestrator
+  - product
+  source_url: https://github.com/OrchestratorInc/agent-orchestrator
   visibility: public
   archived: false
-  description: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more).
-    Desktop, web, mobile, and cloud agents.
+  description: Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent
+    teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.
   status: EXPLORING
   review_status: confirmed
   review_reason: null
@@ -1718,18 +1786,17 @@ entries:
     default_branch: main
     visibility: public
     archived: false
-    description: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more).
-      Desktop, web, mobile, and cloud agents.
+    description: Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise
+      agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.
     license_spdx: Apache-2.0
-    checked_at: '2026-09-14'
-    pushed_at: '2026-09-14T05:00:12Z'
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-19T05:46:03Z'
   content_lock:
-    locked_ref: 84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_at: '2026-09-14'
+    locked_ref: 872b18b4009bf43644895feadd89fac6d6344183
+    locked_url: https://github.com/OrchestratorInc/agent-orchestrator/commit/872b18b4009bf43644895feadd89fac6d6344183
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
-  catalog_added_at: '2026-03-02T03:09:29Z'
 - universe: agent
   repo: cft0808/edict
   owned: false
@@ -2009,6 +2076,39 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2025-07-10T06:58:00Z'
+- universe: agent
+  repo: morluto/rea
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  catalog_added_at: '2026-10-12T06:20:38Z'
+  tags:
+  - product
+  - typescript
+  source_url: https://github.com/morluto/rea
+  visibility: public
+  archived: false
+  description: Reverse engineer anything with agents, from app behavior down to native binaries.
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Reverse engineer anything with agents, from app behavior down to native binaries.
+    license_spdx: MIT
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-19T05:37:55Z'
+  content_lock:
+    locked_ref: 9aca543f46085f502dbc5445002e129e5d2974e9
+    locked_url: https://github.com/morluto/rea/commit/9aca543f46085f502dbc5445002e129e5d2974e9
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: agent
   repo: DietrichGebert/ponytail
   owned: false
@@ -2361,6 +2461,41 @@ entries:
     update_policy: monthly_pr
     vendored: false
   catalog_added_at: '2026-04-17T01:52:30Z'
+- universe: agent
+  repo: xixu-me/awesome-persona-distill-skills
+  owned: false
+  starred: true
+  source_kind: starred
+  registry_repo: false
+  registry_role: null
+  primary_category: skills-and-plugins
+  catalog_added_at: '2026-04-07T01:36:03Z'
+  tags:
+  - collection
+  - javascript
+  - skill
+  source_url: https://github.com/xixu-me/awesome-persona-distill-skills
+  visibility: public
+  archived: false
+  description: Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
+  status: EXPLORING
+  review_status: confirmed
+  review_reason: null
+  github_snapshot:
+    default_branch: main
+    visibility: public
+    archived: false
+    description: Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological
+      perspectives
+    license_spdx: CC0-1.0
+    checked_at: 2026-10-19-star-refresh-01
+    pushed_at: '2026-10-18T19:09:21Z'
+  content_lock:
+    locked_ref: eeaad969a384ad00aad47f1541dc4f007b859cea
+    locked_url: https://github.com/xixu-me/awesome-persona-distill-skills/commit/eeaad969a384ad00aad47f1541dc4f007b859cea
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - universe: agent
   repo: Martian-Engineering/lossless-claw
   owned: false

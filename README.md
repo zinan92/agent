@@ -4,7 +4,7 @@
 
 **Agent 的 capability-first catalog：先按功能分类，再按加入时间从新到旧浏览。**
 
-[![Snapshot](https://img.shields.io/badge/snapshot-111%20repos-0969DA.svg)](snapshot.yaml)
+[![Snapshot](https://img.shields.io/badge/snapshot-118%20repos-0969DA.svg)](snapshot.yaml)
 [![Source](https://img.shields.io/badge/source-Park%20OS-8250DF.svg)](https://github.com/zinan92/park-operating-system)
 
 </div>
@@ -13,14 +13,14 @@
 
 ```text
 in  canonical Park OS snapshot + source provenance + fixed commit locks
-out 111-repo Agent catalog, grouped by function and ordered newest-added first
+out 118-repo Agent catalog, grouped by function and ordered newest-added first
 
 fail snapshot checksum mismatch → stop before publishing
 fail missing created_at / starred_at → stop; do not guess ordering
 fail unclassified placement → keep needs_review; do not guess
 ```
 
-Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
+Snapshot: `github-universe-2026-10-19-star-refresh-01` · canonical source: [Park OS](https://github.com/zinan92/park-operating-system)
 
 ## How to read this page
 
@@ -31,10 +31,13 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 
 ## Browse by function
 
-### Agent Eyes & Hands (19)
+### Agent Eyes & Hands (22)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. | Starred | `2026-10-14` | `68751e4d89ab` |
+| [zinan92/iPhone-use](https://github.com/zinan92/iPhone-use) | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 | Owned | `2026-10-12` | `owned source` |
+| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 | Starred | `2026-10-09` | `80006885df81` |
 | [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices) | Starred | `2026-09-27` | `ef371e8c6fd7` |
 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. | Starred | `2026-09-03` | `d01be93325c7` |
 | [HD838A/remote-mic-app](https://github.com/HD838A/remote-mic-app) | 无线麦（SayAll.app）：支持小米蓝牙遥控器 2 和 2 Pro，变成 Mac 语音输入设备 | Starred | `2026-08-27` | `c8c065456b80` |
@@ -103,7 +106,7 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [zinan92/doc-driven-dev-workflow](https://github.com/zinan92/doc-driven-dev-workflow) | 5-phase / 22-stage 的 AI-native 文档驱动开发 workflow，内置 task scaffolding、workflow guards、state/event writer scripts 与 local-first observer dashboard。 | Owned + Starred | `2026-03-15` | `owned source` |
 | [openai/symphony](https://github.com/openai/symphony) | Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. | Starred | `2026-03-13` | `e0ccc83720a4` |
 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work | Starred | `2026-03-13` | `13368c518303` |
-| [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. | Starred | `2026-03-02` | `84fb98e3f14e` |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Open-source (Apache-2.0) orchestrator for Claude Code, Codex & 30+ coding agents. Plan, run and supervise agent teams from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps. | Starred | `2026-03-02` | `872b18b4009b` |
 | [cft0808/edict](https://github.com/cft0808/edict) | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails | Starred | `2026-03-02` | `14a207557719` |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Teams-first Multi-agent orchestration for Claude Code | Starred | `2026-02-23` | `5281b19e0d64` |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | Starred | `2026-02-14` | `b36e0829c6d0` |
@@ -113,10 +116,12 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | Automated TDD enforcement for Claude Code | Starred | `2025-07-30` | `fa4fa79551c2` |
 | [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. | Starred | `2025-07-10` | `1b81e51db955` |
 
-### Agent Skills & Plugins (17)
+### Agent Skills & Plugins (20)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [zinan92/rea](https://github.com/zinan92/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | Owned | `2026-10-12` | `owned source` |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. | Starred | `2026-10-12` | `9aca543f4608` |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | Starred | `2026-09-28` | `e3ba2aa6f1e6` |
 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 | Starred | `2026-09-27` | `cab634bd855f` |
 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. | Starred | `2026-07-10` | `c31204544230` |
@@ -127,6 +132,7 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop | Starred | `2026-06-04` | `ccbc15639c97` |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. | Starred | `2026-05-18` | `1424be972701` |
 | [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) | n8n skillset for Claude Code to build flawless n8n workflows | Starred | `2026-04-17` | `2df0f18cb520` |
+| [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) | Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives | Starred | `2026-04-07` | `eeaad969a384` |
 | [zinan92/repo-evals](https://github.com/zinan92/repo-evals) | Claim-first repo 评测框架。in target repo + claim map → out bilingual verdict dossier + all-evals dashboard | Owned + Starred | `2026-04-05` | `owned source` |
 | [zinan92/proactive-explorer](https://github.com/zinan92/proactive-explorer) | Strategic product direction finder for open-source repos — 5 MECE categories: Product Depth, Product Reach, Time-to-Value, Trust & Proof, Growth | Owned | `2026-03-19` | `owned source` |
 | [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) | Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw | Starred | `2026-03-19` | `a3eedf5c94ea` |
@@ -135,10 +141,11 @@ Snapshot: `github-universe-2026-10-02-star-refresh-01` · canonical source: [Par
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Starred | `2026-01-12` | `34040c9c5685` |
 | [wshobson/agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi | Starred | `2026-01-12` | `4236bb91f839` |
 
-### Agent Knowledge (9)
+### Agent Knowledge (10)
 
 | Repo | Capability / description | Source | Added | Lock / flags |
 |---|---|---|---|---|
+| [zinan92/park-knowledge](https://github.com/zinan92/park-knowledge) | 知识树：把别人的知识内化成领域专家 skill | Owned | `2026-10-17` | `owned source` |
 | [yanhua1010/dsh-harness-tutorial](https://github.com/yanhua1010/dsh-harness-tutorial) | DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目） | Starred | `2026-08-27` | `2a29d03a8385` |
 | [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) | Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南 | Starred | `2026-06-10` | `9ac06e1d0537` |
 | [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南 | Starred | `2026-06-04` | `02d7b779d74f` |

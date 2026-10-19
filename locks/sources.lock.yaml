@@ -1,6 +1,22 @@
-snapshot_id: github-universe-2026-10-02-star-refresh-01
-generated_from_checksum: 8036d7497ce0a89e8e2ba8eba972c0f869998126ec2c6bb80038f20794ed3354
+snapshot_id: github-universe-2026-10-19-star-refresh-01
+generated_from_checksum: 070a36533552aeaaf4906daf8b54f87284167c30e2a60be1279df893f1d78291
 locks:
+- repo: onehumanbeing/esp32-iphone-agent
+  source_url: https://github.com/onehumanbeing/esp32-iphone-agent
+  content_lock:
+    locked_ref: 68751e4d89abf64af338de39e5452da30d8f2173
+    locked_url: https://github.com/onehumanbeing/esp32-iphone-agent/commit/68751e4d89abf64af338de39e5452da30d8f2173
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
+- repo: zhongerxin/iPhone-use
+  source_url: https://github.com/zhongerxin/iPhone-use
+  content_lock:
+    locked_ref: 80006885df81531ce7a874b3b0df65980e25e59b
+    locked_url: https://github.com/zhongerxin/iPhone-use/commit/80006885df81531ce7a874b3b0df65980e25e59b
+    locked_at: 2026-10-19-star-refresh-01
+    update_policy: monthly_pr
+    vendored: false
 - repo: mobile-next/mobile-mcp
   source_url: https://github.com/mobile-next/mobile-mcp
   content_lock:
@@ -409,12 +425,12 @@ locks:
     locked_at: '2026-09-14'
     update_policy: monthly_pr
     vendored: false
-- repo: Untrivial-ai/agent-orchestrator
-  source_url: https://github.com/Untrivial-ai/agent-orchestrator
+- repo: OrchestratorInc/agent-orchestrator
+  source_url: https://github.com/OrchestratorInc/agent-orchestrator
   content_lock:
-    locked_ref: 84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_url: https://github.com/Untrivial-ai/agent-orchestrator/commit/84fb98e3f14e8833f0df4481e7c9af620d42297a
-    locked_at: '2026-09-14'
+    locked_ref: 872b18b4009bf43644895feadd89fac6d6344183
+    locked_url: https://github.com/OrchestratorInc/agent-orchestrator/commit/872b18b4009bf43644895feadd89fac6d6344183
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: cft0808/edict
@@ -479,6 +495,14 @@ locks:
     locked_ref: 1b81e51db955126ec8983769b96dec575d730c05
     locked_url: https://github.com/SuperClaude-Org/SuperClaude_Framework/commit/1b81e51db955126ec8983769b96dec575d730c05
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: morluto/rea
+  source_url: https://github.com/morluto/rea
+  content_lock:
+    locked_ref: 9aca543f46085f502dbc5445002e129e5d2974e9
+    locked_url: https://github.com/morluto/rea/commit/9aca543f46085f502dbc5445002e129e5d2974e9
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: DietrichGebert/ponytail
@@ -559,6 +583,14 @@ locks:
     locked_ref: 2df0f18cb52050d5b517654cc69544831aa2593c
     locked_url: https://github.com/czlonkowski/n8n-skills/commit/2df0f18cb52050d5b517654cc69544831aa2593c
     locked_at: '2026-09-14'
+    update_policy: monthly_pr
+    vendored: false
+- repo: xixu-me/awesome-persona-distill-skills
+  source_url: https://github.com/xixu-me/awesome-persona-distill-skills
+  content_lock:
+    locked_ref: eeaad969a384ad00aad47f1541dc4f007b859cea
+    locked_url: https://github.com/xixu-me/awesome-persona-distill-skills/commit/eeaad969a384ad00aad47f1541dc4f007b859cea
+    locked_at: 2026-10-19-star-refresh-01
     update_policy: monthly_pr
     vendored: false
 - repo: Martian-Engineering/lossless-claw
